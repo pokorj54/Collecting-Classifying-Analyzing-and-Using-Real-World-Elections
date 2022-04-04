@@ -1,4 +1,4 @@
-# Collecting-Classifying-Analyzing-and-Using-Real-World-Elections
+# Collecting, Classifying, Analyzing, and Using Real World Elections
 
 This repository contains election data generated as part of the paper "Niclas Boehmer, and Nathan Schaar. Collecting, Classifying, Analyzing, and Using Real-World Elections".
 
