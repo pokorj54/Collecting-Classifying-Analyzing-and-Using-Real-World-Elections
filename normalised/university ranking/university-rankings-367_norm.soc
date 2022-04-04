@@ -1,0 +1,33 @@
+15
+1,University of Leeds
+2,University of Turin
+3,University of Milan
+4,Brown University
+5,University of Barcelona
+6,Washington State University
+7,Tohoku University
+8,Wake Forest University
+9,University of Alberta
+10,Georgia Institute of Technology
+11,University of Antwerp
+12,University of Erlangen-Nuremberg
+13,Hanyang University
+14,University of Bristol
+15,University of Bern
+30,30,16
+2,10,4,14,7,9,1,6,15,2,12,5,8,3,11,13
+1,5,9,7,14,10,3,4,1,15,12,2,8,11,13,6
+3,4,10,8,9,1,13,7,14,5,6,3,2,15,12,11
+4,10,4,7,9,14,15,1,11,8,13,2,6,5,12,3
+3,10,4,7,9,14,1,15,11,13,5,6,8,3,2,12
+2,4,10,9,14,5,15,7,8,1,12,2,3,11,13,6
+2,15,14,9,10,1,11,12,13,5,2,3,4,6,7,8
+2,4,10,14,8,5,2,15,1,12,11,3,9,7,6,13
+3,1,3,2,4,7,10,15,9,14,5,12,13,11,6,8
+1,9,7,5,3,14,4,10,1,15,13,2,12,11,6,8
+1,11,13,7,10,6,9,15,12,14,2,3,1,8,4,5
+1,14,4,10,7,9,15,1,12,5,11,3,2,6,8,13
+2,4,14,6,9,2,3,15,7,10,5,8,1,13,12,11
+1,5,4,9,10,14,3,7,8,12,1,2,15,11,6,13
+1,4,14,5,9,7,15,1,10,3,12,6,8,2,11,13
+1,7,1,4,10,3,9,15,14,12,8,2,5,13,11,6

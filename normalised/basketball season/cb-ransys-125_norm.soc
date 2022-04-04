@@ -1,0 +1,21 @@
+15
+1,S Dakota St
+2,SC Upstate
+3,Chicago St
+4,Memphis
+5,Bethune-Cookman
+6,Wagner
+7,Alabama St
+8,Colgate
+9,Minnesota
+10,Rice
+11,Cent Arkansas
+12,Boston College
+13,Iowa
+14,IL Chicago
+15,Mississippi
+30,30,4
+8,13,4,9,15,12,1,8,2,6,14,10,7,3,11,5
+9,13,4,9,15,12,1,8,2,6,14,10,3,7,5,11
+9,13,4,9,15,12,1,2,8,6,14,10,3,7,5,11
+4,13,4,9,15,12,1,8,2,6,14,10,3,7,11,5

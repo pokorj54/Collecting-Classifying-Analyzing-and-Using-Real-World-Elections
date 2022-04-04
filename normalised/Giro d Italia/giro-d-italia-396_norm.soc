@@ -1,0 +1,29 @@
+15
+1, ROTA LorenzoBardiani - CSF
+2, BARBIN EnricoBardiani - CSF
+3, DAVIES ScottTeam Dimension Data
+4, KNOX JamesDeceuninck - Quick Step
+5, GAVAZZI FrancescoAndroni Giocattoli - Sidermec
+6, LE GAC OlivierGroupama - FDJ
+7, LEEZER TomTeam Jumbo-Visma
+8, GASPAROTTO EnricoTeam Dimension Data
+9, NEILANDS KristsIsrael Cycling Academy
+10, GOGL MichaelTrek - Segafredo
+11, CLARKE WillTrek - Segafredo
+12, HANSEN AdamLotto Soudal
+13, CATALDO DarioAstana Pro Team
+14, ZEITS AndreyAstana Pro Team
+15, HAGA ChadTeam Sunweb
+30,30,12
+2,5,1,8,13,12,14,2,15,10,9,3,4,7,6,11
+2,14,7,10,8,5,13,3,12,15,4,9,2,6,11,1
+4,5,14,8,7,13,10,1,2,12,9,15,6,11,3,4
+3,10,14,8,13,2,5,12,9,1,7,15,11,4,3,6
+6,1,14,5,13,8,12,9,6,15,11,3,4,7,10,2
+2,2,5,13,14,12,10,9,8,11,15,6,7,1,4,3
+2,1,5,6,8,7,9,13,10,11,12,15,14,3,4,2
+2,15,3,9,13,4,14,8,5,1,12,10,6,2,7,11
+2,5,1,2,4,8,12,10,13,15,9,6,14,11,7,3
+3,5,8,13,14,12,1,2,15,3,4,9,6,10,11,7
+1,15,4,13,8,3,14,9,5,10,6,12,1,7,2,11
+1,5,6,13,14,8,15,12,7,9,2,4,3,11,1,10

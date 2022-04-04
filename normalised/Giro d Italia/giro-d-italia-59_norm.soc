@@ -1,0 +1,29 @@
+15
+1, CHAVES EstebanMitchelton-Scott
+2, MADOUAS ValentinGroupama - FDJ
+3, YATES SimonMitchelton-Scott
+4, KUSS SeppTeam Jumbo-Visma
+5, HAGA ChadTeam Sunweb
+6, O'CONNOR BenTeam Dimension Data
+7, MCCARTHY JayBORA - hansgrohe
+8, GASPAROTTO EnricoTeam Dimension Data
+9, ZAKARIN IlnurTeam Katusha Alpecin
+10, POLANC JanUAE-Team Emirates
+11, MASNADA FaustoAndroni Giocattoli - Sidermec
+12, CONTI ValerioUAE-Team Emirates
+13, WYSS DaniloTeam Dimension Data
+14, MARCATO MarcoUAE-Team Emirates
+15, PUCCIO SalvatoreTeam INEOS
+30,30,12
+3,14,1,10,15,12,7,9,6,3,11,2,8,5,13,4
+1,10,1,15,3,9,2,7,6,8,12,11,14,4,13,5
+3,11,12,2,3,1,7,15,6,10,9,8,13,14,4,5
+3,3,10,1,7,9,8,6,2,13,14,11,12,15,5,4
+2,2,3,1,9,6,12,10,11,8,4,7,5,15,14,13
+4,9,2,10,3,11,6,12,1,4,7,15,8,5,13,14
+4,12,3,9,1,10,14,2,7,6,8,11,13,4,5,15
+3,7,2,10,14,8,1,9,3,6,11,13,5,4,12,15
+2,10,8,13,1,3,9,12,6,2,11,7,4,5,15,14
+3,5,10,9,6,11,3,1,12,8,13,2,7,4,15,14
+1,10,2,3,1,6,9,8,13,15,11,12,7,5,14,4
+1,3,5,1,12,8,6,10,9,11,7,4,15,2,14,13

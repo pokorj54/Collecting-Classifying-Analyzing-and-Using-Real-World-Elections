@@ -1,0 +1,30 @@
+15
+1, FORMOLO DavideCannondale Pro Cycling Team
+2, KNEES ChristianTeam Sky
+3, TRENTIN MatteoEtixx - Quick Step
+4, KANGERT TanelAstana Pro Team
+5, BRAMBILLA GianlucaEtixx - Quick Step
+6, KOCHETKOV PavelTeam Katusha 
+7, FUGLSANG JakobAstana Pro Team
+8, WELLENS TimLotto Soudal
+9, VAN ZYL JohannTeam Dimension Data
+10, PETILLI SimoneLampre - Merida
+11, FIRSANOV SergeyGazprom-RusVelo
+12, NIEVE MikelTeam Sky
+13, MARTÍNEZ Daniel FelipeWilier - Southeast
+14, SIUTSOU KanstantsinTeam Dimension Data
+15, HERRADA JoséMovistar Team
+30,30,13
+2,5,11,2,14,4,7,6,10,1,13,12,3,9,8,15
+3,7,14,11,1,5,4,6,10,2,15,13,9,8,3,12
+5,8,7,14,11,12,5,1,4,6,15,10,3,2,9,13
+2,11,4,8,10,12,14,7,13,5,1,6,9,15,2,3
+3,5,11,7,14,12,1,4,3,6,9,15,2,13,10,8
+3,3,8,4,6,14,2,5,11,7,13,10,12,15,1,9
+1,14,7,12,6,4,1,15,10,5,9,2,13,8,11,3
+3,3,5,2,4,14,6,7,15,9,1,13,10,12,11,8
+2,5,11,14,6,7,1,4,3,10,8,12,2,13,9,15
+2,11,7,14,1,4,12,15,9,6,2,10,8,5,13,3
+1,3,8,14,11,1,12,5,7,9,13,4,6,15,10,2
+2,12,7,1,5,14,4,11,6,15,9,10,2,13,8,3
+1,3,2,6,14,11,7,4,1,13,5,12,8,10,9,15

@@ -1,0 +1,31 @@
+15
+1, KHALILOV MikhayloColombia - Selle Italia 
+2, SENIUSHKIN YauheniPanaria - Fiordo
+3, PUGACI IgorSaeco - Longoni Sport
+4, EVANS CadelMapei - Quickstep
+5, VERHEYEN GeertRabobank ProTeam
+6, PEREZ CUAPIO Julio AlbertoPanaria - Fiordo
+7, SCHRECK StephanTeam Telekom
+8, GRABSCH RalfTeam Telekom
+9, MAZZOLENI RenzoTeam Colpack - Astro 
+10, MARICHAL ThierryLotto - Adecco
+11, CAVAGNIS OscarLandbouwkrediet - Colnago
+12, GIGLI MatteoTeam Colpack - Astro 
+13, ZANETTE DenisFassa Bortolo
+14, HAMBURGER BoIndex - Alexia Alluminio
+15, SCIANDRI MaximilianLampre - Daikin
+30,30,14
+2,1,4,15,3,5,7,6,14,10,8,13,11,2,9,12
+3,1,4,13,11,14,6,3,15,7,2,12,5,9,8,10
+2,4,3,6,5,8,15,14,7,13,2,11,10,9,1,12
+3,4,14,3,13,6,5,1,15,7,8,9,2,10,12,11
+2,6,4,3,5,14,10,7,8,9,11,2,13,15,1,12
+2,1,11,15,4,7,8,13,14,9,5,10,6,3,2,12
+3,15,5,3,4,9,6,14,10,2,8,7,11,13,1,12
+4,4,3,5,1,9,6,10,13,8,2,11,7,14,15,12
+1,4,6,9,3,14,5,10,12,15,13,2,8,7,11,1
+2,1,4,5,13,9,15,8,11,14,6,7,2,10,3,12
+1,1,11,4,7,5,8,9,3,15,6,10,2,13,12,14
+1,1,4,11,15,14,13,5,3,6,7,8,10,12,9,2
+2,6,4,5,14,3,13,9,10,12,11,15,2,8,7,1
+2,1,3,4,6,15,14,8,13,5,9,10,2,7,11,12

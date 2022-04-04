@@ -1,0 +1,29 @@
+15
+1, LEIPHEIMER LeviAstana
+2, BERTOLINI AlessandroSerramenti PVC Diquigiovanni-Androni Giocattoli
+3, SEELDRAEYERS KevinQuickstep - Innergetic
+4, HUGUET YannCofidis
+5, PATE DannySlipstream - Chipotle presented by H3O
+6, CUMMINGS SteveBarloworld
+7, LUND AndersCSC ProTeam
+8, JÃGOU LilianFranÃ§aise des Jeux
+9, THOMAS GeraintBarloworld
+10, EFIMKIN AlexanderQuickstep - Innergetic
+11, ARDILA Mauricio AlbertoRabobank ProTeam
+12, HORRACH JoanCaisse d'Epargne
+13, PEREZ CUAPIO Julio AlbertoCSF Group - Navigare
+14, CÃRDENAS FÃ©lix RafaelBarloworld
+15, GASPAROTTO EnricoBarloworld
+30,30,12
+2,15,1,11,10,14,3,12,8,7,4,9,6,13,2,5
+3,1,3,11,13,14,8,2,12,7,10,9,15,6,5,4
+4,8,10,1,3,7,11,14,12,15,13,2,4,6,5,9
+2,1,14,5,15,11,9,6,2,12,4,7,3,10,8,13
+3,8,9,2,1,3,15,10,11,7,6,5,12,14,13,4
+2,15,2,8,9,3,14,11,1,10,7,13,12,5,4,6
+4,14,1,13,11,15,2,12,8,6,9,3,7,10,4,5
+2,14,11,1,3,15,12,8,2,10,13,6,9,7,5,4
+5,14,1,11,2,12,13,9,7,6,8,10,4,5,15,3
+1,15,1,10,11,14,7,8,9,12,3,2,13,4,6,5
+1,5,6,9,1,4,7,10,12,8,11,14,2,3,15,13
+1,10,11,14,12,1,15,2,3,4,13,8,7,9,6,5

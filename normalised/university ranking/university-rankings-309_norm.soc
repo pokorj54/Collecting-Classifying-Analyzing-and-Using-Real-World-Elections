@@ -1,0 +1,34 @@
+15
+1,King Abdulaziz University
+2,Technical University of Denmark
+3,Yonsei University
+4,Shanghai Jiao Tong University
+5,University of Birmingham
+6,University of Victoria
+7,Tsinghua University
+8,Georgia Institute of Technology
+9,University of Twente
+10,Yale University
+11,University of Basel
+12,University of Pennsylvania
+13,Deakin University
+14,University of Lausanne
+15,Stony Brook University
+30,30,17
+2,10,12,5,11,14,8,15,7,4,2,3,6,9,13,1
+1,10,12,15,14,11,8,5,7,4,2,3,6,9,13,1
+1,10,12,7,14,8,11,15,2,5,4,9,13,6,3,1
+1,12,10,15,8,7,11,14,5,2,3,4,6,9,13,1
+4,7,2,11,9,4,8,3,14,12,1,10,5,15,13,6
+1,11,14,2,1,13,5,8,6,9,15,10,7,12,3,4
+1,10,12,11,15,2,5,8,7,3,14,4,6,9,13,1
+1,10,12,11,5,8,7,2,4,1,14,15,6,3,9,13
+3,12,10,3,7,8,5,4,11,14,13,1,15,2,6,9
+2,10,12,7,8,3,5,11,2,4,9,15,14,1,6,13
+2,12,10,8,15,14,5,11,7,4,2,3,6,9,13,1
+2,10,12,11,2,5,8,4,7,1,14,15,6,3,9,13
+3,10,12,8,7,3,9,11,14,5,4,6,2,15,13,1
+1,12,10,7,4,8,5,3,15,11,14,2,6,9,13,1
+2,12,10,8,11,15,2,6,14,7,1,5,9,13,3,4
+1,10,12,1,8,2,5,11,6,14,15,4,7,3,9,13
+2,3,7,8,12,10,2,15,4,5,9,11,14,13,1,6

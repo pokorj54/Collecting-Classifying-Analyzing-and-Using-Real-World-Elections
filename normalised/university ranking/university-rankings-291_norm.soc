@@ -1,0 +1,30 @@
+15
+1,University of Oxford
+2,University of Cambridge
+3,Boston University
+4,Harvard University
+5,Duke University
+6,University of Southern California
+7,Vanderbilt University
+8,Leiden University
+9,University of California
+10,Northwestern University
+11,Emory University
+12,University of Pennsylvania
+13,University of British Columbia
+14,Brown University
+15,University of Rochester
+30,30,13
+5,4,9,12,2,5,1,10,6,3,13,7,11,15,14,8
+3,1,13,2,4,8,9,5,15,6,11,3,10,12,14,7
+4,4,9,12,1,2,5,10,13,6,3,7,11,8,15,14
+2,7,11,15,5,12,9,3,4,14,1,2,6,10,8,13
+2,5,6,9,7,1,10,2,8,12,13,15,4,14,11,3
+2,9,4,1,2,12,13,5,10,8,14,6,7,3,11,15
+2,4,2,1,9,12,15,14,5,7,8,10,6,3,13,11
+3,4,9,12,1,5,2,10,3,7,11,13,6,8,15,14
+2,4,12,2,1,10,14,5,9,15,7,11,6,3,13,8
+2,4,2,9,1,12,5,6,14,8,3,13,10,15,7,11
+1,4,9,1,12,2,13,5,10,6,3,7,11,8,14,15
+1,4,12,9,5,6,1,10,11,2,15,7,3,14,13,8
+1,4,2,1,12,9,13,10,6,5,3,14,7,11,15,8

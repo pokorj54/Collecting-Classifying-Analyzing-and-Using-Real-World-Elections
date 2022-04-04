@@ -1,0 +1,32 @@
+15
+1,National Cheng Kung University
+2,University of Bremen
+3,Curtin University
+4,University of Copenhagen
+5,University of the Witwatersrand
+6,Ewha Womans University
+7,University of Sussex
+8,University of Bern
+9,Boston University
+10,Simon Fraser University
+11,Vienna University of Technology
+12,Iowa State University
+13,National Tsing Hua University
+14,Dalhousie University
+15,Tohoku University
+30,30,15
+2,4,9,15,8,12,5,14,7,2,10,11,3,13,1,6
+3,4,15,9,8,1,12,3,14,5,10,13,7,2,11,6
+4,15,6,9,11,5,12,10,14,4,8,1,2,3,7,13
+3,4,5,15,8,13,9,12,7,3,14,10,1,6,2,11
+3,4,9,15,12,8,1,13,14,10,7,11,3,5,6,2
+3,15,9,13,1,8,4,11,12,7,14,10,2,5,6,3
+2,9,7,4,12,8,10,5,6,2,14,15,13,3,11,1
+1,7,4,9,12,5,8,15,1,14,10,6,13,11,2,3
+2,4,9,15,8,12,5,2,10,14,13,11,7,3,6,1
+2,4,15,9,13,14,6,1,3,7,12,5,8,2,10,11
+1,4,9,15,8,12,14,7,10,13,1,11,5,6,2,3
+1,1,5,15,14,11,6,12,13,8,2,4,10,3,7,9
+1,15,5,4,7,8,13,12,9,11,1,14,10,6,2,3
+1,5,1,9,14,4,15,12,7,11,13,8,3,10,6,2
+1,3,7,8,11,4,14,5,10,2,9,12,6,15,1,13

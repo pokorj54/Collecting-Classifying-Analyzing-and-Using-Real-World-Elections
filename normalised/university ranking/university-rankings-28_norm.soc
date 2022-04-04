@@ -1,0 +1,31 @@
+15
+1,Harvard University
+2,Carnegie Mellon University
+3,Emory University
+4,University of Rochester
+5,University of Zurich
+6,University of Helsinki
+7,Northwestern University
+8,Georgia Institute of Technology
+9,University of Oslo
+10,McGill University
+11,Stanford University
+12,University of California
+13,University of Southern California
+14,University of Maryland
+15,University of Sydney
+30,30,14
+3,1,12,11,2,10,4,14,9,7,15,6,8,5,13,3
+3,12,11,1,2,10,7,8,15,6,13,5,14,3,9,4
+3,12,1,11,7,2,4,8,3,14,13,5,10,6,15,9
+2,1,12,11,9,2,13,5,7,14,6,4,10,15,3,8
+1,1,12,11,15,7,10,6,13,14,9,5,3,8,4,2
+2,1,11,12,7,3,10,13,14,6,4,5,15,2,8,9
+3,1,12,11,13,7,8,3,4,15,10,2,14,5,6,9
+3,1,11,12,7,14,5,13,10,3,4,6,8,15,2,9
+3,15,5,10,1,8,9,11,2,12,6,4,13,3,7,14
+2,1,11,7,12,4,8,2,10,3,13,14,5,6,9,15
+1,1,11,12,7,13,14,8,10,3,4,6,2,15,5,9
+2,1,12,11,2,4,10,14,6,7,13,3,8,5,9,15
+1,1,12,11,7,10,13,14,3,15,6,8,4,2,5,9
+1,1,11,12,10,8,7,13,2,5,15,3,4,14,6,9

@@ -1,0 +1,29 @@
+15
+1, CARAPAZ RichardMovistar Team
+2, CONTI ValerioUAE-Team Emirates
+3, DENZ NicoAG2R La Mondiale
+4, BIERMANS JentheTeam Katusha Alpecin
+5, NEILANDS KristsIsrael Cycling Academy
+6, YATES SimonMitchelton-Scott
+7, GEBREMEDHIN AwetIsrael Cycling Academy
+8, IRIZAR MarkelTrek - Segafredo
+9, DE GENDT ThomasLotto Soudal
+10, CATALDO DarioAstana Pro Team
+11, IZAGIRRE IonAstana Pro Team
+12, CAMPENAERTS VictorLotto Soudal
+13, VENDRAME AndreaAndroni Giocattoli - Sidermec
+14, KONOVALOVAS IgnatasGroupama - FDJ
+15, FORMOLO DavideBORA - hansgrohe
+30,30,12
+2,6,15,11,10,1,8,2,14,5,9,7,4,13,12,3
+2,15,13,6,1,2,11,10,9,12,4,5,8,14,7,3
+2,1,2,6,15,13,10,9,4,14,7,5,8,11,12,3
+3,9,1,6,10,4,15,2,12,7,13,11,3,8,5,14
+4,12,1,9,11,15,5,10,6,2,4,14,8,13,3,7
+3,1,6,15,10,2,7,13,11,9,14,3,5,4,12,8
+2,2,6,1,10,15,13,7,9,11,5,8,3,4,12,14
+3,15,6,1,14,11,2,10,13,4,5,12,9,8,3,7
+3,1,15,6,11,2,9,12,13,5,10,7,8,3,4,14
+2,4,8,15,1,5,10,6,14,13,12,7,3,9,11,2
+2,6,1,15,12,10,2,11,14,5,13,9,3,7,4,8
+2,3,15,2,1,10,8,6,11,5,13,4,9,7,14,12

@@ -1,0 +1,23 @@
+13
+1,Ian McCall
+2,Joseph Benavidez
+3,Henry Cejudo
+4,Kyoji Horiguchi
+5,Zach Makovsky
+6,Jussier Formiga
+7,Ray Borg
+8,John Moraga
+9,John Dodson
+10,Chris Cariaso
+11,Dustin Ortiz
+12,Demetrious Johnson
+13,Wilson Reis
+21,21,8
+1,12,9,2,6,1,8,4,3,5,10,11,13,7
+1,12,9,2,6,1,8,3,4,5,10,11,13,7
+7,12,9,2,6,1,3,8,4,5,10,11,13,7
+2,12,9,2,6,1,3,8,4,5,11,10,13,7
+2,12,9,2,6,1,3,8,4,5,11,10,7,13
+1,12,2,9,6,1,3,8,4,5,11,7,13,10
+3,12,2,9,6,1,3,4,8,5,11,7,13,10
+4,12,2,9,3,1,6,4,8,5,11,7,13,10

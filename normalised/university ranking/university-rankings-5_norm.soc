@@ -1,0 +1,32 @@
+15
+1,University of Maryland
+2,California Institute of Technology
+3,Autonomous University of Madrid
+4,University of Montreal
+5,University of Rochester
+6,Cornell University
+7,Boston University
+8,University of Gothenburg
+9,Drexel University
+10,Georgetown University
+11,University of Cambridge
+12,Queen Mary University of London
+13,Oregon State University
+14,University of Florence
+15,University of Waterloo
+30,30,15
+1,11,2,6,7,1,4,5,13,12,8,3,14,10,15,9
+2,11,2,6,1,5,12,10,13,8,7,4,14,9,15,3
+4,2,11,6,1,7,13,5,4,8,15,12,9,14,3,10
+1,11,6,2,1,7,5,13,12,4,14,15,8,9,3,10
+1,11,6,2,7,1,5,4,12,8,10,14,13,3,9,15
+5,11,2,6,7,1,5,4,8,13,14,12,15,9,10,3
+1,12,11,4,2,15,6,5,3,7,8,1,10,9,14,13
+1,11,2,6,5,1,12,7,4,13,8,3,14,15,9,10
+1,2,11,7,6,12,5,1,8,13,4,10,14,3,9,15
+3,11,6,10,5,7,15,1,9,13,8,12,14,2,4,3
+3,11,2,6,1,7,14,5,8,10,4,12,9,13,15,3
+4,2,11,6,7,4,15,1,8,12,5,10,13,3,14,9
+1,11,2,6,1,8,7,5,4,13,12,3,14,15,9,10
+1,11,6,1,4,7,2,15,8,3,5,14,13,12,10,9
+1,5,2,1,10,7,6,9,11,3,12,8,13,14,4,15

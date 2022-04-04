@@ -1,0 +1,26 @@
+15
+1,Conquest of Planet Earth: The Space Alien Game
+2,Raptor
+3,Cuba
+4,Gloomhaven
+5,Star Trek Panic
+6,Leonardo da Vinci
+7,Great Western Trail
+8,Letters from Whitechapel
+9,Antike II
+10,Scotland Yard
+11,La Cosa Nostra
+12,Formula D
+13,Star Wars: Imperial Assault
+14,Oasis
+15,Reef
+30,30,9
+15,4,7,9,10,6,11,5,14,1,8,2,13,12,3,15
+5,4,7,9,6,10,11,5,14,1,8,2,13,3,12,15
+3,4,7,6,9,10,5,1,14,11,15,8,13,2,3,12
+1,4,9,6,10,5,11,1,14,8,2,13,3,12,15,7
+1,4,7,9,6,10,11,5,14,1,8,2,13,12,3,15
+2,4,6,9,10,5,11,1,14,8,2,13,3,12,15,7
+1,4,6,9,10,5,11,14,1,8,2,13,3,12,15,7
+1,4,6,9,10,5,1,14,11,8,13,2,3,12,15,7
+1,4,7,6,15,9,10,5,1,14,11,8,13,2,3,12

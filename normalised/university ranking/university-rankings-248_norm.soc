@@ -1,0 +1,32 @@
+15
+1,University of Leicester
+2,University of Porto
+3,Swedish University of Agricultural Sciences
+4,Leiden University
+5,Nanjing University
+6,Wake Forest University
+7,Karolinska Institute
+8,University of Amsterdam
+9,Georgia Institute of Technology
+10,University of Illinois at Chicago
+11,University of Victoria
+12,University of Warsaw
+13,University of North Carolina at Chapel Hill
+14,University of Pennsylvania
+15,University of Kiel
+30,30,15
+2,14,9,7,13,8,4,10,1,11,3,5,15,6,2,12
+2,1,7,9,11,4,8,5,3,15,2,10,12,14,13,6
+2,14,9,7,13,10,4,8,5,6,1,15,3,2,12,11
+1,14,13,7,8,4,9,10,5,15,6,1,2,11,3,12
+3,14,13,8,7,5,4,9,10,2,1,15,11,12,3,6
+2,14,13,7,8,4,1,9,15,10,6,3,11,5,2,12
+1,14,13,7,9,8,4,6,10,15,1,2,5,11,12,3
+3,3,9,7,5,8,4,14,15,13,6,2,1,10,11,12
+4,14,2,4,12,9,7,13,15,8,6,5,10,1,11,3
+2,14,7,4,12,9,15,13,8,10,5,3,1,11,2,6
+4,14,13,4,7,9,8,1,10,15,3,2,12,11,6,5
+1,14,13,9,4,7,8,10,11,6,1,3,15,5,2,12
+1,14,7,13,15,4,9,8,10,5,3,1,11,2,12,6
+1,14,13,7,4,8,9,6,15,10,1,5,11,3,2,12
+1,14,13,9,6,4,7,11,8,12,15,1,3,10,5,2

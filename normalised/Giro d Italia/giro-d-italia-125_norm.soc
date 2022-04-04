@@ -1,0 +1,29 @@
+15
+1, SENNI ManuelBMC Racing Team
+2, HAGA ChadTeam Sunweb
+3, VILLELLA DavideCannondale-Drapac Pro Cycling Team
+4, COSTA RuiUAE Team Emirates
+5, CICCONE GiulioBardiani - CSF
+6, QUINZIATO ManuelBMC Racing Team
+7, DUPONT HubertAG2R La Mondiale
+8, FERRARI RobertoUAE Team Emirates
+9, RAVASI EdwardUAE Team Emirates
+10, KONRAD PatrickBORA - hansgrohe
+11, JUUL-JENSEN ChristopherORICA-Scott
+12, PÖSTLBERGER LukasBORA - hansgrohe
+13, VAN EMDEN JosTeam LottoNL-Jumbo
+14, BAK Lars YttingLotto Soudal
+15, JUNGELS BobQuick-Step Floors
+30,30,12
+3,10,4,15,7,1,3,2,9,11,13,5,14,12,6,8
+8,13,6,15,2,12,10,14,4,11,1,9,7,8,5,3
+1,15,13,4,14,6,3,10,2,11,7,1,12,9,8,5
+2,4,2,15,14,7,13,10,5,6,1,3,11,12,9,8
+1,4,7,15,10,1,9,3,11,2,5,14,6,13,12,8
+4,15,10,7,1,4,2,9,5,12,6,11,3,13,14,8
+3,7,15,3,10,5,4,2,13,11,6,1,14,9,12,8
+1,15,10,7,5,1,9,11,3,14,4,13,6,2,12,8
+2,15,4,7,2,10,3,9,12,11,6,1,5,14,13,8
+1,8,3,15,10,4,13,12,7,14,5,6,2,1,9,11
+1,8,15,4,12,3,2,9,13,7,6,10,5,1,14,11
+3,15,4,2,8,7,10,14,12,3,13,6,9,1,11,5

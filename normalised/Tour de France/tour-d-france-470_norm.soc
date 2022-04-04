@@ -1,0 +1,36 @@
+15
+1, LAPORTE ChristopheCofidis
+2, MEZGEC LukaMitchelton-Scott
+3, KEUKELEIRE JensEF Pro Cycling
+4, PEDERSEN CasperTeam Sunweb
+5, NAESEN OliverAG2R La Mondiale
+6, OSS DanielBORA - hansgrohe
+7, DEVENYNS DriesDeceuninck - Quick Step
+8, MOLARD RudyGroupama - FDJ
+9, ELISSONDE KennyTrek - Segafredo
+10, CATALDO DarioMovistar Team
+11, VAN BAARLE DylanINEOS Grenadiers
+12, FRISON FrederikLotto Soudal
+13, COLBRELLI SonnyBahrain - McLaren
+14, IMPEY DarylMitchelton-Scott
+15, POLANC JanUAE-Team Emirates
+30,30,19
+2,2,5,14,15,6,3,4,10,8,7,1,11,13,9,12
+2,9,15,11,5,8,3,10,14,13,6,7,1,12,2,4
+2,9,15,5,8,11,3,14,13,10,2,4,6,1,12,7
+1,2,5,14,3,12,6,1,4,9,13,15,8,10,7,11
+2,5,2,1,15,4,6,3,11,9,7,14,10,12,8,13
+1,9,8,15,4,11,5,10,6,3,14,2,13,7,1,12
+2,13,2,5,3,8,15,10,1,9,11,7,6,14,4,12
+2,2,15,5,6,1,14,11,13,10,9,8,4,3,7,12
+1,9,8,15,10,7,5,11,6,13,14,3,2,4,1,12
+1,9,11,15,8,7,5,10,4,13,6,14,1,3,2,12
+2,9,15,8,5,11,14,13,3,6,10,2,4,7,1,12
+1,1,8,13,10,2,6,15,11,7,5,14,4,12,9,3
+1,9,8,15,11,10,7,3,4,5,14,13,6,2,12,1
+2,2,5,7,13,14,9,8,15,1,3,10,4,6,11,12
+2,9,8,15,11,3,10,7,6,5,13,4,14,2,12,1
+2,2,1,4,6,15,8,3,14,10,7,5,11,12,13,9
+2,15,1,4,11,13,5,8,7,12,6,9,10,14,3,2
+1,2,4,5,13,14,1,9,11,10,8,6,3,15,7,12
+1,9,5,2,14,15,3,8,7,10,1,13,11,4,12,6

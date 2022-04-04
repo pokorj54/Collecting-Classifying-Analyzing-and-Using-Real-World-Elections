@@ -1,0 +1,31 @@
+15
+1,Harvard University
+2,University of Toronto
+3,University of Helsinki
+4,University of Rochester
+5,Utrecht University
+6,University of Copenhagen
+7,Stanford University
+8,University of Southern California
+9,Rice University
+10,University of Pennsylvania
+11,University of Oxford
+12,Osaka University
+13,Yale University
+14,Princeton University
+15,Northwestern University
+30,30,14
+2,1,14,11,13,7,10,9,4,3,12,2,15,8,6,5
+2,1,7,10,11,14,15,13,4,2,12,8,6,5,9,3
+3,6,13,4,10,7,12,14,1,9,11,8,15,3,5,2
+5,1,2,7,10,11,13,15,5,6,12,8,14,3,4,9
+1,1,7,13,11,10,14,15,2,6,12,5,8,9,4,3
+1,1,14,7,11,13,10,2,12,8,6,3,9,15,4,5
+3,7,1,13,10,11,14,2,15,8,12,9,5,4,3,6
+3,5,11,14,12,15,7,10,2,1,6,4,13,9,8,3
+3,1,7,14,13,10,11,15,8,2,5,4,12,6,3,9
+1,11,6,2,1,9,7,13,14,3,5,4,8,10,15,12
+2,1,7,10,11,12,15,8,13,4,9,14,2,6,5,3
+2,1,7,10,2,11,13,15,14,8,5,6,9,4,3,12
+1,1,7,11,10,13,2,15,14,6,5,8,12,3,4,9
+1,9,14,7,1,15,10,11,13,4,2,5,8,3,6,12

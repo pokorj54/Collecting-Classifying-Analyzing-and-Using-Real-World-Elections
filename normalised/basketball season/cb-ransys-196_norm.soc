@@ -1,0 +1,22 @@
+15
+1,Oregon
+2,Alabama
+3,Gonzaga
+4,Arizona
+5,Connecticut
+6,Illinois
+7,Marquette
+8,Oklahoma
+9,Ohio St
+10,Kansas
+11,Kentucky
+12,Duke
+13,Cincinnati
+14,Maryland
+15,Pittsburgh
+30,30,5
+5,12,8,10,13,14,3,2,15,4,5,9,1,7,6,11
+6,10,14,12,8,13,3,15,2,1,6,11,7,5,4,9
+7,10,14,12,13,2,8,3,7,15,11,1,9,6,4,5
+7,10,12,14,13,8,2,3,15,7,11,1,6,4,9,5
+5,14,10,8,12,5,1,15,4,6,11,13,2,3,9,7

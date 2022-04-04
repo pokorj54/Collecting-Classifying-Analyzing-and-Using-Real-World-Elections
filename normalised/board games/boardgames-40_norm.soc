@@ -1,0 +1,23 @@
+15
+1,Monsterpocalypse
+2,Ora et Labora
+3,Assyria
+4,Hermagor
+5,TurfMaster
+6,Code 777
+7,Samarkand: Routes to Riches
+8,Keyflower
+9,Chess
+10,One Night Ultimate Werewolf Daybreak
+11,Rommel in the Desert
+12,Powerboats
+13,Luna
+14,Descent: Journeys in the Dark
+15,Steampunk Rally
+30,30,6
+3,2,11,4,7,3,6,12,5,1,14,9,10,13,15,8
+14,2,11,4,7,6,3,12,5,1,14,9,10,13,15,8
+3,2,11,4,7,3,12,6,5,1,14,10,9,13,8,15
+7,2,11,4,7,3,12,6,5,1,14,9,10,13,15,8
+2,11,4,7,3,12,6,5,1,14,10,9,13,15,8,2
+1,11,4,7,3,12,6,5,1,14,10,13,9,15,8,2

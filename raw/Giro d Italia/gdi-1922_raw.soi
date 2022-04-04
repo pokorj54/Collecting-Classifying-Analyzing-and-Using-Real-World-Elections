@@ -1,0 +1,41 @@
+29
+1, VALPREDA Romolo
+2, GORDINI MicheleBianchi - Salga
+3, GIRARDENGO CostanteBianchi - Salga
+4, ARDUINO CamilloBianchi - Salga
+5, PETIVA Emilio
+6, SIVOCCI Alfredo
+7, ANNONI Luigi
+8, FERRARI Paride
+9, SCHIERANO Domenico
+10, ERBA Angelo
+11, LUGLI Italiano
+12, ALLASIA Domenico
+13, ENRICI Giuseppe
+14, LINARI Pietro
+15, LAZZARETTI Romolo
+16, BUYSSE Lucien
+17, SANTHIA Giuseppe
+18, AZZINI Giuseppe
+19, GUIDI Angelo
+20, SIGBALDI Pietro
+21, BELLONI GaetanoBianchi - Salga
+22, AIMO Bartolomeo
+23, AIMO Pietro
+24, GAY FedericoBianchi - Salga
+25, DI BIASE Nicola
+26, BERTOLINO Dino
+27, BRUNERO Giovanni
+28, BASSI Giovanni
+29, TRENTAROSSI GiovanniBianchi - Salga
+10,10,10
+1,21,27,2,29,3,22,5,4,13,16
+1,27,22,6,8,28,9,13,19,15,25
+1,3,18,27,22,7,5,16,21,24,6
+1,21,3,24,14,6,18
+1,6,14,7,27,17,22,13,23,15
+1,22,27,14,7,9,6,13,12,28,10
+1,14,6,7,27,22,11,13,23,8,15
+1,27,22,13,14,6,11,9,20,23,7
+1,7,27,13,6,15,28,22,9,23,25
+1,22,27,6,13,9,8,23,26,1,28

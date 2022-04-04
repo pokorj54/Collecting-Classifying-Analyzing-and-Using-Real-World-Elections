@@ -1,0 +1,33 @@
+15
+1, KOSTYUK DenysChocolade Jacques - Wincor Nixdorf
+2, SERPELLINI MarcoGerolsteiner
+3, LODA NicolaTenax
+4, SIRONI GianlucaVini Caldirola - Nobili Rubinetterie
+5, HAMBURGER BoAcqua & Sapone - Caffe Mokambo
+6, PUGACI IgorDe Nardi
+7, FURLAN AngeloAlessio - Bianchi
+8, DAVIS ScottCeramica Panaria - Margres
+9, MORI ManueleSaunier Duval - Prodir
+10, USOV AlexandrePhonak Hearing Systems
+11, WILSON MatthewFdjeux.com
+12, MIHOLJEVIĆ VladimirAlessio - Bianchi
+13, ZAMPIERI SteveVini Caldirola - Nobili Rubinetterie
+14, BOSISIO GabrieleTenax
+15, WEGELIUS CharlesDe Nardi
+30,30,16
+2,15,13,12,5,3,6,2,4,9,8,10,11,7,1,14
+3,10,7,1,5,4,12,3,2,9,13,11,6,8,15,14
+2,10,1,12,3,4,14,5,2,9,7,13,15,8,6,11
+1,12,13,5,1,6,15,4,3,9,2,8,10,11,7,14
+1,13,12,2,5,8,6,15,4,3,7,14,1,11,10,9
+4,10,3,1,5,12,7,13,8,2,4,9,14,11,15,6
+4,10,9,3,5,12,4,13,11,14,2,7,8,15,1,6
+1,10,3,7,9,5,14,1,12,2,4,13,6,15,8,11
+2,10,7,9,13,4,5,3,12,11,2,1,14,15,6,8
+4,9,12,5,1,3,10,15,13,6,4,7,2,14,11,8
+1,10,7,9,3,5,12,13,1,4,8,2,11,15,6,14
+1,12,13,6,4,1,5,2,15,3,10,8,9,7,11,14
+1,7,10,3,5,9,1,12,4,13,11,8,14,2,15,6
+1,10,7,11,5,8,12,3,4,13,9,1,2,15,6,14
+1,13,12,5,2,4,15,6,7,3,1,9,11,14,8,10
+1,13,12,15,5,1,8,6,3,9,2,10,4,7,14,11

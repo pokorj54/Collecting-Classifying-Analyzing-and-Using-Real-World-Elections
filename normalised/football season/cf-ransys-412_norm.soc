@@ -1,0 +1,22 @@
+15
+1,Mississippi
+2,Baylor
+3,San Diego St
+4,Florida St
+5,Washington
+6,Washington St
+7,Texas Tech
+8,Vanderbilt
+9,New Mexico
+10,Tulane
+11,Kansas
+12,UNLV
+13,UAB
+14,Akron
+15,Nevada
+30,30,5
+10,4,12,5,1,14,6,2,7,15,11,13,10,8,3,9
+4,4,5,13,6,1,12,14,11,7,9,10,8,15,3,2
+6,4,5,1,14,10,13,12,15,7,11,9,6,8,2,3
+5,4,5,1,12,14,10,13,6,7,11,9,3,15,8,2
+5,5,4,15,1,14,10,12,7,6,8,13,9,11,3,2

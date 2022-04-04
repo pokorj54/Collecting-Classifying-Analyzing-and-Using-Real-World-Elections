@@ -1,0 +1,31 @@
+15
+1, ŠTANGELJ GorazdAstana
+2, LARSSON Gustav ErikSaxo Bank 
+3, EIBEGGER MarkusFooton-Servetto
+4, TROFIMOV YuriBbox Bouygues Telecom
+5, WEENING PieterRabobank ProTeam
+6, HAYMAN MathewSky Procycling
+7, ALBASINI MichaelTeam HTC - Columbia 
+8, WEGELIUS CharlesOmega Pharma-Lotto 
+9, KIREYEV RomanAstana
+10, PETROV EvgeniTeam Katusha 
+11, SUTTON ChrisSky Procycling
+12, PORTE RichieSaxo Bank 
+13, ZANDIO XabierCaisse d'Epargne
+14, KLIMOV SergeyTeam Katusha 
+15, SPEZIALETTI AlessandroLampre - Farnese Vini
+30,30,14
+3,14,13,12,6,9,5,2,10,11,4,1,7,3,8,15
+3,12,2,5,9,8,10,6,11,14,1,7,4,13,15,3
+4,2,12,10,8,5,7,4,3,14,6,9,15,1,13,11
+4,11,12,14,5,2,1,4,3,9,7,8,10,6,13,15
+2,10,12,4,8,5,2,7,1,14,3,13,9,15,11,6
+3,3,12,10,6,9,1,2,5,14,7,13,15,8,4,11
+1,8,12,4,10,13,5,1,7,15,14,3,9,2,6,11
+3,3,12,4,5,10,13,9,8,15,14,1,2,6,11,7
+1,10,12,4,8,3,13,7,2,5,11,1,15,9,6,14
+1,12,13,5,8,3,4,10,15,2,1,9,7,14,11,6
+1,12,4,8,5,13,10,2,9,6,15,7,11,1,3,14
+1,6,12,11,5,3,10,14,9,4,2,13,15,7,1,8
+2,4,12,8,3,5,2,10,15,7,13,14,9,1,6,11
+1,9,12,4,13,10,3,8,1,15,2,5,14,6,7,11

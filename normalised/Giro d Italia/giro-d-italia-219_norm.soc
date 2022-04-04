@@ -1,0 +1,29 @@
+15
+1, VAN DEN BROECK JurgenSilence - Lotto
+2, GARATE Juan ManuelQuickstep - Innergetic
+3, MARTENS PaulRabobank ProTeam
+4, VOIGT JensCSC ProTeam
+5, PÃREZ Marlon AlirioCaisse d'Epargne
+6, MONIER DamienCofidis
+7, ILLIANO RaffaeleSerramenti PVC Diquigiovanni-Androni Giocattoli
+8, CAMAÃO IkerSaunier Duval - Scott
+9, GUSEV VladimirAstana
+10, BALIANI FortunatoCSF Group - Navigare
+11, MAZZANTI LucaTinkoff Credit Systems
+12, CAVENDISH MarkTeam High Road
+13, OCHOA Carlos JosÃ©Serramenti PVC Diquigiovanni-Androni Giocattoli
+14, RICCÃ RiccardoSaunier Duval - Scott
+15, MCCARTNEY JasonCSC ProTeam
+30,30,12
+2,12,14,1,4,10,8,9,2,6,13,5,11,7,3,15
+2,14,10,1,2,9,11,13,8,4,15,3,7,6,5,12
+4,3,15,1,14,2,11,5,10,9,13,8,4,7,6,12
+3,14,1,10,4,2,9,11,15,7,13,6,5,3,8,12
+4,14,1,11,2,13,9,3,5,4,10,8,15,6,12,7
+2,14,2,1,11,4,10,9,8,13,5,15,7,3,12,6
+4,14,1,2,13,11,9,10,8,5,7,3,15,4,6,12
+2,12,5,8,2,1,4,13,11,14,9,7,15,10,3,6
+2,14,1,10,4,11,13,2,5,3,15,6,9,7,12,8
+3,12,11,8,6,1,2,10,9,4,14,5,13,3,15,7
+1,9,4,3,15,12,7,6,14,5,2,1,10,8,11,13
+1,1,14,9,15,4,6,2,10,8,3,13,11,5,12,7

@@ -1,0 +1,30 @@
+15
+1, APOLLONIO MassimoVini Caldirola - Sidermec
+2, GASPERONI CristianCantina Tollo - Alexia Alluminio
+3, PIERI DarioNavigare - Gaerne
+4, PICCOLI MarianoLampre - Daikin - Colnago
+5, BETTINI PaoloMapei - Quickstep
+6, INDURAIN PrudencioVitalicio Seguros - Grupo Generali
+7, SASTRE CarlosO.N.C.E. - Deutsche Bank
+8, SHEFER AlexandreRiso Scotti - Vinavil
+9, AXELSSON NiklasNavigare - Gaerne
+10, VIRENQUE RichardPolti
+11, HONCHAR SerhiyVini Caldirola - Sidermec
+12, FORNACIARI PaoloMapei - Quickstep
+13, GOTTI IvanPolti
+14, FRUTTI MatteoLampre - Daikin - Colnago
+15, HVASTIJA MartinAlessio - Ballan
+30,30,13
+3,13,11,9,8,10,2,5,4,6,14,12,3,1,15,7
+4,3,6,9,11,5,8,13,12,14,4,10,2,15,1,7
+2,3,6,11,1,9,13,8,14,12,4,2,5,10,7,15
+4,10,2,11,13,8,9,6,7,12,1,14,3,4,15,5
+6,5,6,13,4,11,8,9,2,14,3,15,12,1,10,7
+1,13,9,8,10,11,2,5,4,6,15,12,14,1,3,7
+1,11,4,8,13,6,5,10,2,3,15,9,1,7,12,14
+2,11,13,9,8,15,2,5,10,3,6,4,14,7,1,12
+1,3,1,5,4,13,11,15,12,6,8,2,9,7,10,14
+1,9,13,4,11,8,6,3,5,7,10,14,15,1,12,2
+2,3,14,15,11,1,8,6,13,5,9,12,4,2,7,10
+2,5,4,3,11,8,9,13,6,1,14,10,2,12,15,7
+1,3,2,4,8,11,6,13,15,10,5,9,1,14,7,12

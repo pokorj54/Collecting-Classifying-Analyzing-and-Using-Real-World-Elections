@@ -1,0 +1,23 @@
+15
+1,San Diego
+2,Missouri St
+3,UNLV
+4,Norfolk St
+5,South Carolina
+6,Kentucky
+7,Florida Intl
+8,Washington
+9,James Madison
+10,NC State
+11,G Washington
+12,Youngstown St
+13,Cincinnati
+14,Creighton
+15,Citadel
+30,30,6
+4,5,7,14,10,2,3,9,6,15,13,8,1,12,11,4
+12,5,14,7,10,2,3,9,6,13,8,15,1,12,11,4
+5,5,10,6,1,8,14,7,2,15,3,9,13,12,11,4
+4,5,14,2,3,10,7,9,6,8,13,15,1,11,12,4
+3,5,14,9,7,2,3,10,13,6,15,4,8,12,1,11
+2,5,14,2,9,3,7,10,6,13,15,8,4,1,11,12

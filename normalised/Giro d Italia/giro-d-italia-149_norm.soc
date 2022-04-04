@@ -1,0 +1,28 @@
+15
+1, FAGNINI Gian MatteoSaeco - Cannondale
+2, PETITO RobertoSaeco - Cannondale
+3, BALDUCCI GabrieleNavigare - Gaerne
+4, SECCHIARI FrancescoSaeco - Cannondale
+5, HAMBURGER BoCantina Tollo - Alexia Alluminio
+6, BRIGNOLI ErmannoMercatone Uno - Bianchi
+7, CEREZO Francisco JavierVitalicio Seguros - Grupo Generali
+8, MINALI NicolaCantina Tollo - Alexia Alluminio
+9, HVASTIJA MartinAlessio - Ballan
+10, BROGNARA AndreaCantina Tollo - Alexia Alluminio
+11, SASTRE CarlosO.N.C.E. - Deutsche Bank
+12, LEONI EndrioLiquigas-Pata
+13, SHEFER AlexandreRiso Scotti - Vinavil
+14, TOSATTO MatteoAlessio - Ballan
+15, ZANETTE DenisPolti
+30,30,11
+3,13,4,7,5,2,6,14,9,1,10,8,12,3,11,15
+4,3,1,13,2,7,12,14,5,4,6,9,15,8,11,10
+3,1,14,5,13,2,4,7,11,9,6,3,10,15,8,12
+2,14,3,13,15,6,2,8,12,7,9,5,10,1,4,11
+2,1,3,8,6,2,13,7,9,15,5,4,14,11,10,12
+5,13,4,5,14,7,6,3,2,10,8,12,9,1,15,11
+2,14,8,12,3,13,1,2,10,5,7,4,15,11,9,6
+3,12,14,8,1,13,5,10,7,2,9,4,15,11,6,3
+2,12,3,8,14,1,9,10,13,6,7,15,5,11,2,4
+3,2,4,13,9,14,7,1,10,11,6,5,3,12,15,8
+1,13,4,7,14,6,11,2,5,15,10,8,3,9,12,1

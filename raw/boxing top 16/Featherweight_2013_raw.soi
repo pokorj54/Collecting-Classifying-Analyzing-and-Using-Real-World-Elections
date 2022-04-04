@@ -1,0 +1,28 @@
+16
+1,Dennis Siver
+2,Darren Elkins
+3,Conor McGregor
+4,Frankie Edgar
+5,Ricardo Lamas
+6,Dennis Bermudez
+7,Cub Swanson
+8,Dustin Poirier
+9,Jeremy Stephens
+10,Chad Mendes
+11,Chan Sung Jung
+12,Diego Brandao
+13,Jose Aldo
+14,Nik Lentz
+15,Erik Koch
+16,Clay Guida
+31,31,10
+2,13,10,5,11,4,1,7,8,14,15,16
+1,13,10,5,11,4,7,1,8,15,14,16
+1,13,10,5,4,11,7,1,8,14,16,15
+6,13,10,5,4,11,7,1,8,16,14,15
+3,13,10,5,4,11,7,1,8,16,15,14
+2,13,10,5,4,7,11,1,8,16,14,15
+2,13,10,5,4,7,11,1,8,14,16,15
+6,13,10,5,4,7,11,8,1,14,16,15
+7,13,10,5,4,7,11,8,1,14,16,2
+1,13,10,5,4,7,11,8,1,14,16,15,2,3,6,12,9

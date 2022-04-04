@@ -1,0 +1,21 @@
+11
+1,Derrick Lewis
+2,Alistair Overeem
+3,Marcin Tybura
+4,Aleksei Oleinik
+5,Francis Ngannou
+6,Daniel Cormier
+7,Shamil Abdurakhimov
+8,Stipe Miocic
+9,Curtis Blaydes
+10,Alexander Volkov
+11,Junior Dos Santos
+31,31,8
+4,6,8,1,5,9,10,2,11,4,3,7
+3,6,8,5,1,9,10,2,11,4,3,7
+6,6,8,5,11,9,1,10,2,4,3,7
+6,6,8,5,11,9,1,10,2,4,7,3
+2,6,8,5,11,9,1,2,10,4,7,3
+4,6,8,5,11,9,1,10,2,7,4,3
+2,8,6,5,11,9,1,10,2,7,4,3
+4,8,6,5,9,11,1,10,2,7,4,3

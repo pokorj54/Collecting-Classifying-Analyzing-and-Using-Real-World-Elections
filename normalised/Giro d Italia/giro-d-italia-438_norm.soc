@@ -1,0 +1,31 @@
+15
+1, BAK Lars YttingLotto Belisol 
+2, DE GENDT ThomasOmega Pharma - Quick-Step
+3, JUUL-JENSEN ChristopherTinkoff - Saxo
+4, TANNER DavidBelkin-Pro Cycling Team
+5, VEELERS TomTeam Giant - Shimano
+6, SCARPONI MicheleAstana Pro Team
+7, ROVNY IvanTinkoff - Saxo
+8, AMADOR AndreyMovistar Team
+9, FINETTO MauroNeri Sottoli
+10, BONO MatteoLampre - Merida
+11, HANSEN AdamLotto Belisol 
+12, MEZGEC LukaTeam Giant - Shimano
+13, QUINTANA NairoMovistar Team
+14, DUQUE Leonardo FabioTeam Colombia
+15, KELDERMAN WilcoBelkin-Pro Cycling Team
+30,30,14
+2,12,14,15,13,4,1,8,7,10,9,5,11,3,2,6
+2,12,7,14,4,6,15,9,13,8,10,5,2,1,11,3
+3,5,12,9,14,2,10,1,11,7,4,13,15,6,8,3
+4,15,13,14,10,9,7,6,1,4,3,2,8,11,5,12
+2,14,15,6,13,12,9,1,8,4,7,10,2,5,3,11
+1,13,15,7,11,1,6,2,8,3,10,14,9,4,12,5
+2,14,6,5,13,15,7,9,2,4,11,10,3,1,8,12
+4,15,2,13,1,6,9,8,3,11,7,10,5,4,14,12
+2,15,13,9,7,6,2,1,14,11,10,8,4,12,3,5
+1,9,12,4,15,11,14,13,1,10,5,8,6,7,2,3
+2,15,13,6,7,9,10,2,14,8,11,4,1,5,3,12
+1,15,13,14,1,11,10,9,7,4,8,3,2,5,12,6
+3,13,15,2,8,3,7,1,12,14,10,5,11,4,9,6
+1,15,9,13,6,1,10,11,14,5,2,3,4,7,12,8

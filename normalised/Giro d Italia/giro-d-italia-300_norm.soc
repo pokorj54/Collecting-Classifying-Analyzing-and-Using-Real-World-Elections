@@ -1,0 +1,28 @@
+15
+1, TAFI AndreaMapei - Quickstep
+2, FRUTTI MatteoLampre - Daikin - Colnago
+3, DOTTI FaustoLiquigas-Pata
+4, BUENAHORA HernanVitalicio Seguros - Grupo Generali
+5, PETACCHI AlessandroNavigare - Gaerne
+6, DELLA VEDOVA MarcoLampre - Daikin - Colnago
+7, GILI MarcoAmica Chips - Costa de Almeria
+8, BROGNARA AndreaCantina Tollo - Alexia Alluminio
+9, VELO MarcoMercatone Uno - Bianchi
+10, CASAROTTO DavideTVM - Farm Frites
+11, GONTCHENKOV AlexanderAlessio - Ballan
+12, SCIREA MarioSaeco - Cannondale
+13, SMETANINE SergueiVitalicio Seguros - Grupo Generali
+14, BERZIN EvgeniAmica Chips - Costa de Almeria
+15, TRONCA AmilcareAmica Chips - Costa de Almeria
+30,30,11
+1,9,12,14,1,4,7,6,15,5,3,11,10,13,8,2
+5,5,15,4,9,14,1,12,13,2,8,3,11,10,7,6
+4,13,5,2,12,9,6,1,8,4,15,14,7,3,11,10
+1,9,4,14,13,6,12,15,8,2,3,11,5,1,7,10
+2,11,9,14,15,5,7,1,4,6,13,3,2,8,12,10
+4,9,4,15,3,6,12,14,1,5,2,8,13,7,11,10
+4,11,7,13,9,1,15,5,6,4,8,12,14,10,3,2
+3,7,13,5,9,1,8,11,4,2,12,6,15,3,14,10
+2,5,7,9,3,12,15,1,4,14,6,2,13,11,8,10
+3,4,9,6,15,14,3,2,12,1,7,13,8,5,10,11
+1,13,11,9,15,7,14,12,3,6,1,4,2,5,8,10

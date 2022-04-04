@@ -1,0 +1,32 @@
+15
+1,Tsinghua University
+2,University of Cincinnati
+3,University of Wollongong
+4,Eindhoven University of Technology
+5,University of Manitoba
+6,University of Innsbruck
+7,University of Turku
+8,Maastricht University
+9,Sharif University of Technology
+10,Carnegie Mellon University
+11,Harvard University
+12,University of Chicago
+13,Laval University
+14,VU University Amsterdam
+15,Johns Hopkins University
+30,30,15
+2,11,15,12,1,6,14,10,2,3,4,13,7,5,8,9
+4,11,12,15,1,10,4,13,14,8,2,5,9,3,7,6
+1,11,12,15,10,6,14,1,13,8,2,3,4,5,7,9
+3,6,8,3,4,11,12,15,10,13,14,7,1,5,2,9
+2,11,12,15,10,9,5,2,6,13,1,14,8,4,7,3
+1,15,12,11,10,1,7,2,4,13,14,6,9,8,3,5
+2,11,15,12,14,1,2,6,10,13,5,7,8,3,4,9
+3,11,12,15,10,6,14,8,2,1,13,4,3,9,5,7
+2,15,4,1,8,9,13,14,10,3,11,5,6,12,2,7
+3,11,15,1,14,12,8,2,13,5,10,7,3,4,9,6
+1,11,12,15,10,9,1,14,13,8,2,6,3,4,5,7
+1,11,15,12,14,2,10,1,8,13,5,6,4,7,3,9
+3,11,12,1,15,2,5,10,3,13,4,14,6,7,8,9
+1,11,12,15,10,14,2,3,13,6,4,8,1,5,7,9
+1,11,12,15,10,6,5,4,1,14,2,8,13,7,3,9

@@ -1,0 +1,28 @@
+15
+1, BELKOV MaximTeam Katusha 
+2, MALAGUTI AlessandroNippo - Vini Fantini 
+3, NIEMIEC PrzemysławLampre - Merida
+4, SÁNCHEZ Luis LeónAstana Pro Team
+5, POLANC JanLampre - Merida
+6, STAMSNIJDER TomTeam Giant - Alpecin
+7, ACEVEDO JanierTeam Cannondale - Garmin 
+8, KREUZIGER RomanTinkoff - Saxo
+9, JUUL-JENSEN ChristopherTinkoff - Saxo
+10, VAN DEN BROECK JurgenLotto Soudal
+11, FRAPPORTI MarcoAndroni Giocattoli - Sidermec
+12, DE BACKER BertTeam Giant - Alpecin
+13, KEISSE IljoEtixx - Quick Step
+14, VEIKKANEN JussiFDJ
+15, DE NEGRI Pier PaoloNippo - Vini Fantini 
+30,30,11
+6,10,1,4,5,7,6,8,3,12,14,15,2,13,11,9
+2,8,10,3,11,1,15,4,2,5,7,6,9,13,14,12
+2,13,4,15,10,12,11,2,6,8,7,3,5,1,14,9
+1,2,8,10,15,4,5,11,3,7,12,13,1,14,6,9
+2,4,5,8,10,3,1,11,15,9,13,7,2,14,12,6
+6,10,3,8,4,11,14,9,15,1,13,5,2,6,7,12
+2,1,8,10,4,12,7,15,2,13,3,5,14,6,9,11
+2,10,8,4,5,15,3,11,2,6,7,13,1,14,9,12
+3,8,10,3,4,5,7,6,13,15,9,11,2,14,12,1
+1,4,10,3,8,15,5,1,14,9,11,2,12,6,7,13
+3,5,10,8,3,4,7,1,6,11,9,13,2,15,14,12

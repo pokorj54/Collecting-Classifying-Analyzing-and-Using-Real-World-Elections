@@ -1,0 +1,34 @@
+15
+1, WHITE MatthewDiscovery Channel 
+2, MAZZANTI LucaCeramica Panaria - Navigare
+3, BILEKA VolodymyrDiscovery Channel 
+4, CORTINOVIS AlessandroTeam Milram
+5, KNEES ChristianTeam Milram
+6, LE BOULANGER YoannBouygues Telecom
+7, SIMONI GilbertoSaunier Duval
+8, OLSEN AaronT-Mobile Team
+9, GATTO OscarGerolsteiner
+10, DRANCOURT PierreBouygues Telecom
+11, CUMMINGS SteveDiscovery Channel 
+12, VAN DEN BROECK JurgenPredictor - Lotto
+13, SAVOLDELLI PaoloAstana
+14, BONO MatteoLampre-Fondital
+15, PAGOTO AndreaCeramica Panaria - Navigare
+30,30,17
+1,7,13,12,5,8,3,1,2,6,9,15,11,4,14,10
+2,7,13,2,6,3,5,4,12,11,9,1,15,14,10,8
+3,7,13,2,5,3,6,4,14,11,10,15,9,8,1,12
+2,9,3,13,7,14,2,6,15,1,4,5,11,12,8,10
+4,13,5,7,2,15,3,4,1,6,11,8,12,10,9,14
+2,13,12,7,11,3,5,6,1,15,8,4,10,14,2,9
+2,5,2,15,7,10,12,13,1,3,6,11,4,9,8,14
+2,3,10,5,4,2,7,12,13,15,1,6,9,14,8,11
+1,13,7,2,5,6,12,3,15,11,4,10,1,8,14,9
+2,7,13,6,12,15,5,4,3,14,2,11,8,1,10,9
+2,9,13,3,2,7,5,12,6,15,1,11,8,10,4,14
+1,7,6,13,2,3,1,15,10,14,9,11,4,5,12,8
+1,13,7,2,3,6,4,8,11,5,14,12,9,15,10,1
+1,9,13,3,4,5,15,8,11,6,12,10,7,1,14,2
+2,13,3,2,15,7,6,5,12,4,1,11,14,10,9,8
+1,6,4,7,13,15,3,12,11,2,5,1,9,14,8,10
+1,7,13,6,2,15,3,8,4,12,1,10,5,14,9,11

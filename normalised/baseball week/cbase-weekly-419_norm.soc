@@ -1,0 +1,23 @@
+15
+1,IL Chicago
+2,Loy Marymount
+3,North Dakota
+4,South Florida
+5,Mississippi
+6,Nebraska
+7,Indiana St
+8,Ark Little Rock
+9,Creighton
+10,South Alabama
+11,Oakland
+12,Sam Houston St
+13,UT Arlington
+14,Ohio St
+15,Bucknell
+30,30,6
+3,5,9,12,6,10,13,2,15,8,14,4,7,1,11,3
+13,5,9,12,6,13,2,10,14,4,8,15,7,1,11,3
+3,5,12,6,9,13,10,2,4,14,8,15,1,7,11,3
+4,5,9,12,6,13,2,10,4,14,8,7,15,1,11,3
+4,9,5,12,6,10,2,13,15,14,8,7,4,1,11,3
+3,5,6,2,13,12,9,4,10,7,14,1,8,15,11,3

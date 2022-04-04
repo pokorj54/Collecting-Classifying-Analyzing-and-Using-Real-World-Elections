@@ -1,0 +1,23 @@
+15
+1,Julianna Peña
+2,Pannie Kianzad
+3,Sara McMann
+4,Holly Holm
+5,Marion Reneau
+6,Lina Lansberg
+7,Amanda Nunes
+8,Ketlen Vieira
+9,Julia Avila
+10,Aspen Ladd
+11,Irene Aldana
+12,Germaine de Randamie
+13,Yana Kunitskaya
+14,Sijara Eubanks
+15,Macy Chiasson
+8,8,6
+1,7,12,4,10,11,8,1,13,3,5,6,15,2,14,9
+1,7,12,4,10,11,1,8,13,3,5,6,15,2,14,9
+2,7,12,4,10,11,1,8,13,3,5,15,6,2,14,9
+2,7,12,4,10,11,13,1,8,3,5,15,6,2,14,9
+1,7,12,4,10,11,13,1,8,3,5,6,15,2,14,9
+1,7,12,4,10,11,13,1,8,3,15,6,2,5,14,9

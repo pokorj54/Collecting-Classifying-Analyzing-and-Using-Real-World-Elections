@@ -1,0 +1,30 @@
+15
+1, BASSO IvanCannondale 
+2, DOMONT AxelAG2R La Mondiale
+3, FEDI AndreaNeri Sottoli
+4, PUCCIO SalvatoreTeam Sky
+5, RATTO DanieleCannondale 
+6, KEIZER MartijnBelkin-Pro Cycling Team
+7, MONFORT MaximeLotto Belisol 
+8, PANTANO JarlinsonTeam Colombia
+9, POZZOVIVO DomenicoAG2R La Mondiale
+10, HOOGERLAND JohnnyAndroni Giocattoli - Venezuela
+11, TIRALONGO PaoloAstana Pro Team
+12, LE BON JohanFDJ.fr 
+13, BOOKWALTER BrentBMC Racing Team
+14, VORGANOV EduardTeam Katusha 
+15, HANSEN AdamLotto Belisol 
+30,30,13
+5,9,1,7,12,6,2,11,10,8,14,15,3,4,5,13
+1,9,7,1,4,12,5,8,6,10,14,2,15,11,13,3
+4,9,8,7,1,13,11,2,6,14,12,3,10,15,4,5
+2,7,8,4,6,1,11,5,14,9,12,2,13,15,10,3
+3,7,1,5,9,4,8,10,12,14,6,2,11,15,3,13
+4,12,1,3,2,5,4,15,7,6,13,14,11,10,9,8
+2,8,6,9,2,1,7,15,11,14,13,4,5,10,12,3
+2,3,14,9,11,7,1,2,8,6,5,13,12,4,15,10
+2,7,11,14,1,15,9,2,8,6,10,13,12,5,4,3
+1,9,8,1,7,2,12,15,10,13,14,5,3,4,6,11
+1,9,7,1,8,11,4,12,2,10,14,6,15,13,5,3
+2,9,1,7,8,14,11,6,10,2,4,12,13,15,3,5
+1,9,7,1,8,14,4,11,6,12,13,2,15,5,10,3

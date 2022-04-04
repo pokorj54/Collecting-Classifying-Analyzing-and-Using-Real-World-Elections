@@ -1,0 +1,28 @@
+15
+1, HOLLENSTEIN RetoTeam Katusha Alpecin
+2, YATES SimonMitchelton-Scott
+3, CONTI ValerioUAE-Team Emirates
+4, HIRT JanAstana Pro Team
+5, VAN DER SANDE ToshLotto Soudal
+6, SCHWARZMANN MichaelBORA - hansgrohe
+7, COVILI LucaBardiani - CSF
+8, GEBREMEDHIN AwetIsrael Cycling Academy
+9, DURBRIDGE LukeMitchelton-Scott
+10, SERRY PieterDeceuninck - Quick Step
+11, ROTA LorenzoBardiani - CSF
+12, VILLELLA DavideAstana Pro Team
+13, MARCATO MarcoUAE-Team Emirates
+14, PETERS NansAG2R La Mondiale
+15, BOUWMAN KoenTeam Jumbo-Visma
+30,30,11
+6,3,2,12,5,6,14,13,9,7,10,8,1,15,11,4
+1,2,9,3,10,12,4,14,1,15,7,8,13,11,5,6
+2,7,2,3,15,4,10,14,8,11,12,5,1,6,9,13
+1,3,10,14,15,11,2,7,1,12,5,9,8,13,4,6
+2,2,3,14,9,10,15,12,11,4,1,5,6,8,7,13
+5,11,5,13,6,1,2,12,9,8,15,10,7,14,4,3
+3,2,3,4,15,10,12,7,9,11,5,1,14,8,6,13
+1,13,3,1,14,2,12,9,5,15,7,10,6,4,8,11
+2,2,5,12,10,14,9,13,1,3,4,6,8,7,15,11
+5,2,14,6,3,4,10,13,12,1,5,9,11,15,7,8
+2,5,11,15,2,12,4,9,14,3,1,10,6,13,7,8

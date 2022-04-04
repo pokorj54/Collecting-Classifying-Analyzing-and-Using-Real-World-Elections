@@ -1,0 +1,31 @@
+15
+1, SOUPE GeoffreyFDJ - BigMat
+2, TXURRUKA AmetsEuskaltel - Euskadi
+3, PIRAZZI StefanoColnago CSF Bardiani
+4, DUPONT HubertAG2R La Mondiale
+5, SABATINI FabioLiquigas - Cannondale
+6, TOSATTO MatteoTeam Saxo Bank - Tinkoff Bank
+7, BRUTT PavelTeam Katusha 
+8, RASMUSSEN AlexTeam Garmin - Barracuda
+9, ZEITS AndreyAstana Pro Team
+10, KUSCHYNSKI AleksandrTeam Katusha 
+11, RABOTTINI MatteoFarnese Vini-Neri-Sottoli
+12, FAILLI FrancescoFarnese Vini-Neri-Sottoli
+13, TSCHOPP JohannBMC Racing Team
+14, LAGUTIN SergeyVacansoleil - DCM
+15, SANTAROMITA IvanBMC Racing Team
+30,30,14
+1,15,2,14,4,3,13,1,6,5,9,10,7,11,12,8
+3,1,14,11,3,6,9,7,4,12,15,5,13,10,2,8
+3,5,1,14,6,7,15,4,3,12,13,2,9,11,10,8
+2,1,14,4,2,13,9,15,5,7,3,12,11,10,6,8
+2,8,5,1,11,6,14,7,2,3,4,12,10,13,15,9
+2,3,14,4,2,13,9,1,6,7,10,12,15,5,8,11
+2,4,14,13,11,1,15,2,9,10,3,8,5,6,12,7
+3,11,3,2,13,4,14,7,1,12,15,10,8,5,9,6
+3,14,13,15,4,3,1,11,9,2,6,12,5,7,8,10
+1,13,12,4,2,14,5,3,9,11,7,10,15,6,1,8
+3,1,10,5,14,8,15,6,7,4,12,11,2,9,3,13
+3,13,11,15,4,14,2,6,5,1,12,7,3,9,10,8
+1,1,5,14,4,12,10,13,15,6,2,3,11,9,8,7
+1,13,14,4,3,2,15,5,7,12,11,9,10,6,8,1

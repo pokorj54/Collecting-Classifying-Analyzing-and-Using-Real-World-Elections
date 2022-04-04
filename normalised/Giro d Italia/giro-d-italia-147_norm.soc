@@ -1,0 +1,33 @@
+15
+1, ARAMENDIA JavierEuskaltel - Euskadi
+2, MENCHOV DenisGeox-TMC Transformers
+3, LAGUTIN SergeyVacansoleil - DCM
+4, DUPONT HubertAG2R La Mondiale
+5, RICCI BITTI DavideFarnese Vini-Neri-Sottoli
+6, DE CLERCQ BartOmega Pharma-Lotto 
+7, ZAHNER SimonBMC Racing Team
+8, BAKELANTS JanOmega Pharma-Lotto 
+9, ULISSI DiegoLampre - ISD
+10, CODOL MassimoAcqua & Sapone
+11, TANKINK BramRabobank Cycling Team
+12, SPEZIALETTI AlessandroLampre - ISD
+13, GADRET JohnAG2R La Mondiale
+14, DIDIER LaurentSaxo Bank - Sungard
+15, RASMUSSEN AlexHTC - High Road
+30,30,16
+3,13,4,8,2,10,6,11,14,9,1,12,3,7,5,15
+1,2,4,13,8,10,11,9,14,3,1,6,7,12,5,15
+2,15,9,6,2,8,4,11,7,5,3,13,10,12,1,14
+1,7,3,9,2,10,14,4,13,11,15,1,8,6,12,5
+1,13,2,4,11,10,6,9,12,14,5,15,3,1,7,8
+2,2,13,4,8,11,9,6,10,12,1,7,5,3,15,14
+4,9,8,4,2,11,13,1,10,3,6,12,5,7,14,15
+2,8,11,9,12,3,6,13,4,2,10,14,7,15,5,1
+1,8,2,11,13,9,7,6,4,3,10,1,5,12,15,14
+3,11,3,8,2,10,13,4,9,1,7,6,12,15,5,14
+4,13,4,3,2,6,11,9,8,10,12,14,5,15,7,1
+2,13,2,8,4,10,6,11,1,7,9,12,5,14,3,15
+1,3,11,13,4,8,10,9,2,6,1,5,7,15,12,14
+1,15,7,3,9,11,10,4,13,2,6,1,14,12,5,8
+1,2,6,4,10,8,11,9,13,3,7,1,12,15,14,5
+1,2,13,9,4,8,6,10,3,14,12,5,15,7,1,11

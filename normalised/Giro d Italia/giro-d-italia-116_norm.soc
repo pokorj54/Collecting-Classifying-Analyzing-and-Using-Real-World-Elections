@@ -1,0 +1,28 @@
+15
+1, EKIMOV ViatcheslavAmica Chips - Costa de Almeria
+2, GARZELLI StefanoMercatone Uno - Bianchi
+3, SIMONI GilbertoAlessio - Ballan
+4, BLANCO SantiagoVitalicio Seguros - Grupo Generali
+5, ZINTCHENKO AndreiVitalicio Seguros - Grupo Generali
+6, FERRIGATO AndreaAlessio - Ballan
+7, MAGNANI MarcoCantina Tollo - Alexia Alluminio
+8, ZANETTE DenisPolti
+9, PODENZANA MassimoMercatone Uno - Bianchi
+10, SAVOLDELLI PaoloSaeco - Cannondale
+11, JALABERT LaurentO.N.C.E. - Deutsche Bank
+12, RADAELLI MauroVini Caldirola - Sidermec
+13, IVANOV SergeiTVM - Farm Frites
+14, PANETTA StefanoNavigare - Gaerne
+15, DUMA VladimirNavigare - Gaerne
+30,30,11
+2,15,6,5,2,11,1,10,9,4,14,13,3,8,7,12
+4,15,10,11,5,3,6,13,2,4,9,7,1,8,12,14
+2,13,10,6,11,14,5,4,2,3,1,9,15,7,12,8
+4,11,10,1,2,5,4,9,15,3,7,14,13,6,8,12
+5,7,10,13,11,2,4,3,9,8,5,6,14,1,15,12
+4,13,10,11,15,5,6,1,8,4,3,9,2,7,12,14
+3,4,5,2,10,11,9,3,13,6,15,14,12,8,1,7
+2,6,15,10,11,5,3,13,1,2,4,9,12,8,14,7
+1,2,10,11,13,8,14,7,3,4,9,5,6,1,15,12
+1,6,10,2,5,15,4,13,3,1,9,11,14,12,7,8
+2,5,11,10,3,4,13,9,2,15,1,7,6,14,8,12

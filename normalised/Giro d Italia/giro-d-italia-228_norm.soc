@@ -1,0 +1,32 @@
+15
+1, CUNEGO DamianoLampre - Farnese Vini
+2, LASTRAS PabloCaisse d'Epargne
+3, GAUDIN DamienBbox Bouygues Telecom
+4, FISCHER Murilo AntonioTeam Garmin - Transitions
+5, MARTIN DanTeam Garmin - Transitions
+6, BONO MatteoLampre - Farnese Vini
+7, MIHOLJEVIĆ VladimirAcqua & Sapone
+8, EIBEGGER MarkusFooton-Servetto
+9, SUTTON ChrisSky Procycling
+10, SERPA José RodolfoAndroni Giocattoli - Serramenti PVC Diquigiovanni
+11, DE GREEF FrancisOmega Pharma-Lotto 
+12, HINAULT SébastienAG2R La Mondiale
+13, STAMSNIJDER TomRabobank ProTeam
+14, ARROYO DavidCaisse d'Epargne
+15, MAZZANTI LucaTeam Katusha 
+30,30,15
+1,8,1,11,14,10,15,7,6,2,4,12,5,13,9,3
+4,13,1,14,5,12,10,8,3,7,2,11,4,15,6,9
+3,1,14,11,7,10,15,2,5,9,6,12,13,8,4,3
+4,12,11,14,9,1,8,15,7,4,10,13,5,6,2,3
+2,14,1,11,10,7,8,15,5,2,13,12,4,6,9,3
+2,1,5,14,10,7,11,15,6,8,4,2,12,3,13,9
+1,13,14,1,7,6,11,12,15,10,9,8,5,4,2,3
+1,1,14,5,7,8,10,11,3,9,15,6,12,4,2,13
+2,14,10,11,6,5,3,1,7,2,12,13,15,8,4,9
+3,9,12,2,13,4,11,15,14,8,5,1,7,10,3,6
+2,14,1,8,11,7,10,15,5,13,6,12,2,4,9,3
+1,1,14,8,7,11,10,12,15,2,6,9,4,5,3,13
+1,14,1,7,11,8,10,4,6,5,2,15,13,12,3,9
+2,12,8,11,1,14,7,4,6,15,10,3,2,13,5,9
+1,13,7,4,11,5,6,9,2,10,1,12,3,15,14,8

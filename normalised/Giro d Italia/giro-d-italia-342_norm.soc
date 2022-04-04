@@ -1,0 +1,29 @@
+15
+1, GUARNIERI JacopoGroupama - FDJ
+2, CHAVES EstebanMitchelton-Scott
+3, BOLE GregaBahrain Merida
+4, IRIZAR MarkelTrek - Segafredo
+5, PETERS NansAG2R La Mondiale
+6, MADOUAS ValentinGroupama - FDJ
+7, HINDLEY JaiTeam Sunweb
+8, ULISSI DiegoUAE-Team Emirates
+9, VUILLERMOZ AlexisAG2R La Mondiale
+10, NIBALI AntonioBahrain Merida
+11, KUSS SeppTeam Jumbo-Visma
+12, CIMOLAI DavideIsrael Cycling Academy
+13, CICCONE GiulioTrek - Segafredo
+14, CARTHY HughEF Education First
+15, JUUL-JENSEN ChristopherMitchelton-Scott
+30,30,12
+1,12,2,3,5,4,8,10,14,9,6,7,1,13,15,11
+2,6,13,14,9,2,15,11,7,8,3,10,5,4,12,1
+6,12,1,5,2,14,6,9,8,3,7,11,15,10,13,4
+3,14,8,2,13,7,15,9,10,11,5,6,3,12,4,1
+3,12,2,8,9,6,14,1,5,4,7,10,15,13,3,11
+1,14,8,2,15,5,7,6,9,10,4,3,13,12,11,1
+3,6,5,2,13,15,8,9,10,7,3,14,11,4,12,1
+1,12,1,8,4,6,2,14,13,9,10,15,11,3,5,7
+3,2,14,13,9,8,6,5,7,11,10,4,15,12,1,3
+2,8,9,2,14,5,6,13,1,10,12,7,15,11,4,3
+3,12,6,14,1,8,2,9,15,5,7,3,10,13,11,4
+2,12,9,2,14,6,5,1,15,13,11,8,7,10,3,4

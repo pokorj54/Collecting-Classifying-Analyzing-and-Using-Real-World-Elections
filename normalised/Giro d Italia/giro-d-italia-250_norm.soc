@@ -1,0 +1,27 @@
+15
+1, ELTINK TheoRabobank ProTeam
+2, KARPETS VladimirCaisse d'Epargne
+3, BETTINI PaoloQuickstep - Innergetic
+4, EFIMKIN AlexanderQuickstep - Innergetic
+5, TRUSOV NikolayTinkoff Credit Systems
+6, SZMYD SylwesterLampre
+7, PASAMONTES LuisCaisse d'Epargne
+8, HONDO DaniloSerramenti PVC Diquigiovanni-Androni Giocattoli
+9, LASTRAS PabloCaisse d'Epargne
+10, MARTENS PaulRabobank ProTeam
+11, KOZONTCHUK DmitryRabobank ProTeam
+12, PETROV EvgeniTinkoff Credit Systems
+13, BAILETTI PaoloLPR Brakes - Ballan
+14, VANOTTI AlessandroLiquigas
+15, VAN DEN BROECK JurgenSilence - Lotto
+30,30,10
+4,3,7,15,1,4,12,13,14,2,6,11,10,8,5,9
+3,5,10,15,3,4,12,2,7,6,13,8,11,1,9,14
+4,3,15,6,12,4,7,2,10,11,1,9,14,13,8,5
+5,5,14,8,9,3,15,4,12,13,6,7,1,2,11,10
+1,15,6,7,4,12,13,3,2,14,8,9,1,11,5,10
+3,5,8,15,3,7,6,13,1,2,4,11,12,10,14,9
+1,12,2,10,5,14,8,9,4,3,6,11,15,7,13,1
+2,15,2,6,11,7,3,9,12,1,13,8,10,5,14,4
+4,3,12,15,2,7,6,5,8,14,10,11,1,13,9,4
+3,3,15,6,12,2,7,11,9,14,13,1,10,4,8,5

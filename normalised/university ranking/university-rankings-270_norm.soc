@@ -1,0 +1,32 @@
+15
+1,Karolinska Institute
+2,Northwestern University
+3,Yale University
+4,Vanderbilt University
+5,University of Oslo
+6,University of Sydney
+7,New York University
+8,Princeton University
+9,Harvard University
+10,University of Southern California
+11,Stanford University
+12,Boston University
+13,Utrecht University
+14,University of Cambridge
+15,University of Pennsylvania
+30,30,15
+3,11,9,3,14,15,8,2,7,10,1,12,6,4,13,5
+1,13,8,1,6,2,11,14,4,15,9,3,10,5,12,7
+2,9,11,15,2,14,10,4,3,6,7,12,8,1,5,13
+4,4,3,15,7,11,8,12,9,1,14,10,2,13,5,6
+3,9,8,11,14,3,7,15,5,1,10,12,2,4,13,6
+3,9,11,14,15,3,2,13,7,4,12,10,8,6,1,5
+2,9,11,3,14,15,8,7,2,13,10,12,4,1,6,5
+1,9,11,15,14,3,7,2,8,12,1,4,13,10,5,6
+1,8,11,9,14,3,15,2,1,6,7,13,10,12,4,5
+3,9,14,8,3,11,15,7,2,10,12,1,4,5,13,6
+2,8,11,9,2,14,15,3,12,7,4,13,10,1,6,5
+1,9,11,15,8,14,2,3,7,12,10,1,4,5,13,6
+2,9,11,8,3,15,14,2,7,10,1,4,13,12,6,5
+1,9,14,8,11,3,15,5,7,4,1,10,2,13,12,6
+1,9,11,15,14,3,2,8,7,10,12,13,4,1,5,6

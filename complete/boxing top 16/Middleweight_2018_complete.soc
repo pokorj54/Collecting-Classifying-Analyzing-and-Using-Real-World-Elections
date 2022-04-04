@@ -1,0 +1,20 @@
+12
+1,Brad Tavares
+2,Paulo Costa
+3,Robert Whittaker
+4,Chris Weidman
+5,Ronaldo Souza
+6,Antonio Carlos Junior
+7,Uriah Hall
+8,Yoel Romero
+9,David Branch
+10,Luke Rockhold
+11,Kelvin Gastelum
+12,Derek Brunson
+26,26,6
+1,3,8,5,10,4,11,12,9,7,1,2,6
+1,3,8,5,10,4,11,12,9,1,7,6,2
+3,3,8,10,4,11,5,12,9,1,7,6,2
+3,3,8,10,4,11,5,12,9,1,7,2,6
+11,3,8,10,4,11,5,12,9,2,1,6,7
+7,3,8,10,5,11,4,2,12,1,9,6,7

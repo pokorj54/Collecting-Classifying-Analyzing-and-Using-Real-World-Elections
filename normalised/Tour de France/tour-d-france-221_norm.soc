@@ -1,0 +1,34 @@
+15
+1, MARICHAL ThierryCofidis
+2, PELLIZOTTI FrancoLiquigas
+3, SCHOLZ RonnyGerolsteiner
+4, ARVESEN Kurt-AsleCSC ProTeam
+5, MOOS AlexandrePhonak Hearing Systems
+6, BERTOLINI AlessandroDomina Vacanze
+7, ALBASINI MichaelLiquigas
+8, ZBERG BeatGerolsteiner
+9, AERTS MarioDavitamon - Lotto
+10, EVANS CadelDavitamon - Lotto
+11, SPRICK MatthieuBouygues Telecom
+12, MENCHOV DenisRabobank ProTeam
+13, SINKEWITZ PatrikQuickstep - Innergetic
+14, WEGMANN FabianGerolsteiner
+15, WAUTERS MarcRabobank ProTeam
+30,30,17
+4,4,14,13,5,11,10,3,6,9,2,12,7,15,8,1
+5,15,4,10,3,12,8,7,2,13,5,14,9,6,11,1
+1,10,2,12,13,8,5,3,14,4,6,9,15,7,1,11
+4,2,10,5,11,13,14,3,6,4,9,7,8,15,1,12
+1,10,3,14,2,12,5,9,13,4,7,8,15,11,6,1
+2,4,10,13,2,12,3,14,5,8,6,9,15,11,1,7
+1,10,6,5,4,9,13,11,2,14,3,8,7,12,1,15
+2,10,8,9,4,13,14,3,5,15,12,2,6,11,1,7
+1,10,5,14,13,3,12,8,9,2,1,6,7,4,11,15
+1,13,5,4,10,1,6,3,8,14,2,12,11,15,9,7
+1,2,4,10,11,6,5,15,13,3,14,9,7,1,12,8
+1,10,12,13,5,8,14,3,2,11,9,1,6,7,4,15
+2,2,4,10,13,1,9,8,3,12,11,14,7,5,6,15
+1,4,2,10,13,9,1,12,3,5,8,11,7,14,15,6
+1,4,10,13,2,1,3,14,9,5,12,15,11,7,6,8
+1,6,4,7,13,2,10,5,1,3,12,8,11,9,15,14
+1,4,10,2,5,3,11,6,13,12,1,15,9,14,8,7

@@ -1,0 +1,33 @@
+15
+1, CUNEGO DamianoLampre-Fondital
+2, ZAMPIERI StevePhonak Hearing Systems
+3, SASTRE CarlosCSC ProTeam
+4, ILLIANO RaffaeleSelle Italia - Serramenti Diquigiovanni
+5, WEGELIUS CharlesLiquigas
+6, VILA Francisco JavierLampre-Fondital
+7, ENGELS AddyQuickstep - Innergetic
+8, SELLA EmanueleCeramica Panaria - Navigare
+9, VAN HUFFEL WimDavitamon - Lotto
+10, DUQUE Leonardo FabioCofidis
+11, BASSO IvanCSC ProTeam
+12, DE MAAR MarcRabobank ProTeam
+13, TRENTIN GuidoSaunier Duval - Prodir
+14, TSCHOPP JohannPhonak Hearing Systems
+15, LOMBARDI GiovanniCSC ProTeam
+30,30,16
+2,11,1,6,8,10,3,14,13,7,9,2,4,15,5,12
+4,6,8,11,14,1,9,4,10,13,3,2,7,15,5,12
+1,10,1,7,6,11,15,12,8,13,9,2,5,14,3,4
+1,6,1,11,10,12,7,13,8,9,2,3,15,5,14,4
+3,10,6,1,15,11,8,9,2,13,14,5,3,4,12,7
+1,11,1,8,6,14,3,9,10,7,4,5,13,12,2,15
+2,15,5,11,1,6,10,8,9,13,4,14,7,3,2,12
+4,11,13,6,1,5,15,8,3,12,9,2,10,7,4,14
+1,11,1,5,14,3,9,6,8,4,13,15,10,2,12,7
+2,11,1,6,9,5,2,8,13,10,3,14,15,4,12,7
+3,10,12,6,1,15,11,7,9,2,8,13,14,5,4,3
+1,5,10,7,6,9,4,11,1,3,13,14,8,2,15,12
+1,11,1,9,6,4,13,2,10,8,3,5,7,12,14,15
+2,10,1,11,8,6,12,14,9,4,3,2,7,5,13,15
+1,11,8,5,1,6,9,2,10,3,13,14,12,15,4,7
+1,7,8,4,9,11,2,1,13,6,3,14,10,12,15,5

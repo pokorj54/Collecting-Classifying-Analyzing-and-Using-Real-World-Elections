@@ -1,0 +1,24 @@
+15
+1,St Francis NY
+2,Sam Houston St
+3,Colorado
+4,Portland St
+5,Toledo
+6,Vanderbilt
+7,Northern Iowa
+8,Louisville
+9,Pepperdine
+10,Syracuse
+11,Mississippi St
+12,Alabama
+13,Alcorn St
+14,Cent Arkansas
+15,Missouri KC
+30,30,7
+4,8,10,11,6,7,12,5,4,3,15,2,9,14,1,13
+7,8,6,11,10,12,5,7,2,4,3,9,15,1,14,13
+3,8,6,11,12,10,5,7,2,4,3,15,9,1,14,13
+5,6,8,7,11,10,12,5,2,3,4,9,15,1,13,14
+1,6,8,10,7,11,12,5,2,9,4,3,1,15,14,13
+7,8,11,6,10,7,12,5,2,4,15,3,9,1,14,13
+3,8,10,11,6,12,7,5,4,3,15,2,9,14,1,13

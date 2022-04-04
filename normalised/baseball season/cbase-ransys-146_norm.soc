@@ -1,0 +1,21 @@
+15
+1,Valparaiso
+2,Florida St
+3,E Illinois
+4,North Florida
+5,LSU
+6,Binghamton
+7,ULM
+8,TN Martin
+9,G Washington
+10,Hawaii
+11,Wake Forest
+12,MD E Shore
+13,F Dickinson
+14,UNC Greensboro
+15,Pacific
+30,30,4
+7,2,5,15,10,4,7,6,11,8,14,9,3,1,13,12
+11,2,5,15,10,4,11,6,7,8,3,14,9,1,13,12
+7,2,5,15,10,4,11,6,7,8,14,3,9,1,13,12
+5,2,5,10,15,4,11,6,7,8,3,14,9,1,13,12

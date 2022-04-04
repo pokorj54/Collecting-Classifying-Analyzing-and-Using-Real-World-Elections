@@ -1,0 +1,33 @@
+15
+1, MINNAARD MarcoWanty - Groupe Gobert
+2, THOMAS GeraintTeam Sky
+3, GERRANS SimonBMC Racing Team
+4, DE GENDT ThomasLotto Soudal
+5, VAN KEIRSBULCK GuillaumeWanty - Groupe Gobert
+6, DUMOULIN TomTeam Sunweb
+7, GRELLIER FabienDirect Energie
+8, ROLLAND PierreTeam EF Education First-Drapac p/b Cannondale
+9, MOLARD RudyGroupama - FDJ
+10, SOLER MarcMovistar Team
+11, FROOME ChrisTeam Sky
+12, MARTIN DanUAE-Team Emirates
+13, VERMOTE JulienTeam Dimension Data
+14, BURGHARDT MarcusBORA - hansgrohe
+15, TERPSTRA NikiQuick-Step Floors
+30,30,16
+3,2,6,11,12,4,9,1,8,10,14,3,13,5,7,15
+2,2,11,6,15,14,8,9,3,10,4,13,12,5,1,7
+3,2,11,6,5,12,8,1,9,3,14,15,10,7,4,13
+2,12,2,11,6,9,1,8,4,10,3,15,14,7,13,5
+2,6,2,11,9,12,1,13,3,5,8,14,4,7,10,15
+2,4,8,13,11,6,2,12,1,5,15,3,9,7,10,14
+1,15,7,10,11,9,2,6,8,1,12,4,5,3,13,14
+3,5,6,8,2,1,11,14,9,12,3,13,7,10,15,4
+2,2,12,6,11,8,10,9,5,4,14,13,3,1,7,15
+2,2,6,11,12,8,9,13,4,1,3,5,10,14,7,15
+2,2,6,9,12,15,13,14,8,1,11,5,4,7,10,3
+2,2,12,13,6,11,1,5,3,8,9,7,14,4,10,15
+1,2,6,11,12,13,14,8,5,4,1,10,15,9,7,3
+1,10,9,11,2,6,12,4,8,13,1,3,14,5,15,7
+1,12,2,6,11,8,1,9,10,13,5,3,4,7,15,14
+1,1,6,3,9,13,2,12,11,14,10,4,7,8,15,5

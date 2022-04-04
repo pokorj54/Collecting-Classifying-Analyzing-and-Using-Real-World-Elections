@@ -1,0 +1,33 @@
+15
+1, MOLETTA AndreaGerolsteiner
+2, DE MAAR MarcRabobank ProTeam
+3, PEREZ CUAPIO Julio AlbertoCeramica Panaria - Navigare
+4, CALCAGNI PatrickLiquigas
+5, HAYMAN MathewRabobank ProTeam
+6, FORNACIARI PaoloLampre-Fondital
+7, ERVITI ImanolCaisse d'Epargne - Illes Balears
+8, DI LUCA DaniloLiquigas
+9, VILA Francisco JavierLampre-Fondital
+10, SCARSELLI LeonardoQuickstep - Innergetic
+11, SELLA EmanueleCeramica Panaria - Navigare
+12, VOGELS HenkDavitamon - Lotto
+13, BLAUDZUN MichaelCSC ProTeam
+14, RICHEZE MaximilianoCeramica Panaria - Navigare
+15, NIERMANN GrischaRabobank ProTeam
+30,30,16
+1,9,8,15,13,1,3,7,5,2,6,10,4,11,14,12
+6,3,8,9,11,15,7,13,5,6,2,10,1,12,14,4
+2,15,9,1,8,13,6,7,3,10,14,11,4,12,5,2
+3,8,9,11,15,3,7,6,13,10,4,1,5,12,14,2
+1,12,14,5,7,9,8,1,15,4,6,11,13,10,2,3
+1,9,11,8,3,4,15,7,1,13,6,10,14,5,2,12
+1,14,12,2,9,8,1,5,6,11,13,7,10,15,4,3
+2,3,9,11,8,7,15,1,14,13,6,10,4,2,5,12
+1,1,9,8,7,2,15,11,6,13,12,5,4,3,14,10
+1,11,4,9,8,1,3,15,6,13,10,7,2,5,12,14
+4,15,10,8,7,9,11,13,1,2,5,6,14,4,12,3
+1,9,11,8,15,1,10,7,13,6,4,2,5,12,3,14
+1,9,11,3,13,1,7,6,8,15,5,10,14,2,4,12
+3,14,4,12,8,11,9,1,5,2,15,7,13,10,3,6
+1,3,8,11,9,15,1,7,2,6,13,4,5,10,12,14
+1,14,4,7,12,5,1,9,8,2,11,15,13,6,10,3

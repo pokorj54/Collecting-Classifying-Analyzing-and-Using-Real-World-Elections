@@ -1,0 +1,34 @@
+15
+1,University of Southern Denmark
+2,University of Kiel
+3,Tel Aviv University
+4,Autonomous University of Madrid
+5,Kansas State University
+6,University of Bologna
+7,VU University Amsterdam
+8,McMaster University
+9,National Tsing Hua University
+10,Oregon State University
+11,University of Florence
+12,San Diego State University
+13,University of Cape Town
+14,Georgia Institute of Technology
+15,Wuhan University
+30,30,17
+3,13,14,8,7,2,12,6,10,1,5,11,4,9,15,3
+4,8,2,7,14,10,3,4,9,6,13,11,1,12,15,5
+4,14,3,8,13,5,2,1,6,10,4,12,11,15,9,7
+1,14,7,8,10,3,11,12,2,6,13,4,1,5,9,15
+2,14,10,7,8,3,2,9,1,13,5,11,12,6,4,15
+1,7,3,6,15,8,14,4,11,1,13,10,9,2,5,12
+2,3,13,5,14,10,2,8,12,9,11,6,7,4,1,15
+2,13,8,14,1,7,4,3,2,6,5,11,10,15,12,9
+1,14,3,13,12,5,10,15,8,11,6,7,4,2,9,1
+1,7,3,14,8,6,11,4,2,9,10,15,13,5,1,12
+1,3,11,13,8,2,14,7,6,10,4,5,1,12,9,15
+2,7,14,8,3,2,10,11,6,5,13,12,4,1,9,15
+1,7,8,14,2,3,6,11,10,4,13,1,12,5,9,15
+1,3,7,10,14,8,2,13,4,11,6,12,5,1,9,15
+2,13,1,4,9,15,5,7,10,11,8,14,6,2,3,12
+1,13,8,14,9,10,2,7,3,4,6,11,1,12,15,5
+1,14,3,9,8,7,15,2,6,4,10,5,13,12,1,11

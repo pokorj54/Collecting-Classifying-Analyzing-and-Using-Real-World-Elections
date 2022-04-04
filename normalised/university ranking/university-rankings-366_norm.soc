@@ -1,0 +1,32 @@
+15
+1,Pohang University of Science and Technology
+2,University of Valencia
+3,University of Vienna
+4,Pompeu Fabra University
+5,Zhejiang University
+6,Syracuse University
+7,University of Cambridge
+8,University of Stuttgart
+9,Stellenbosch University
+10,University of Liverpool
+11,University of Sydney
+12,University of Otago
+13,Technical University of Denmark
+14,Autonomous University of Madrid
+15,University of Bologna
+30,30,15
+1,1,13,9,5,11,7,8,6,10,4,15,14,12,2,3
+5,7,11,1,13,5,3,6,10,15,8,9,14,12,4,2
+2,7,11,3,4,10,13,14,15,5,2,12,1,8,6,9
+4,7,13,3,10,15,12,14,8,11,2,6,5,1,4,9
+2,7,9,8,10,3,11,6,5,15,12,14,2,13,1,4
+2,7,11,10,13,3,1,15,2,12,14,9,5,4,6,8
+3,1,13,7,11,5,9,15,8,10,6,14,12,2,4,3
+1,7,3,11,13,10,1,5,15,2,14,9,8,12,4,6
+1,7,3,4,10,11,13,5,8,12,15,14,1,6,2,9
+2,7,11,5,15,10,2,13,14,3,1,12,4,8,6,9
+2,7,11,15,10,3,13,2,14,5,1,12,4,8,9,6
+2,7,8,11,6,10,3,15,13,1,5,2,14,9,12,4
+1,7,4,6,1,13,10,2,11,15,14,12,8,3,9,5
+1,7,8,10,11,3,13,5,14,4,15,12,1,2,9,6
+1,3,7,11,12,13,10,4,8,14,9,2,15,6,1,5

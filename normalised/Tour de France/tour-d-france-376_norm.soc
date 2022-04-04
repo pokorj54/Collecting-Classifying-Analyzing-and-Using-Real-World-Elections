@@ -1,0 +1,33 @@
+15
+1, ENGELS AddyQuickstep Cycling Team
+2, TROFIMOV YuriTeam Katusha 
+3, GRIVKO AndreyPro Team Astana
+4, BOLE GregaLampre - ISD
+5, EVANS CadelBMC Racing Team
+6, AMADOR AndreyMovistar Team
+7, NIERMANN GrischaRabobank Cycling Team
+8, MURAVYEV DmitriyRadioShack
+9, JEANNESSON ArnoldFDJ
+10, IGLINSKIY MaximPro Team Astana
+11, FUGLSANG JakobLeopard Trek
+12, GUSEV VladimirTeam Katusha 
+13, TOSATTO MatteoSaxo Bank - Sungard
+14, HONDO DaniloLampre - ISD
+15, SIEBERG MarcelOmega Pharma-Lotto 
+30,30,16
+1,5,2,9,11,12,7,4,15,13,3,1,14,8,10,6
+3,5,11,2,9,12,7,14,1,15,13,3,6,4,10,8
+5,4,14,5,11,12,7,2,9,15,10,13,3,1,6,8
+2,8,6,5,9,12,2,11,14,7,15,13,3,10,4,1
+1,5,9,2,8,12,7,11,15,3,1,14,13,10,4,6
+2,5,9,2,12,11,7,1,4,3,15,13,14,10,8,6
+3,5,9,11,12,2,8,15,7,13,14,3,10,4,6,1
+1,3,5,9,12,2,7,14,13,15,6,4,11,8,10,1
+1,12,4,10,5,9,2,7,11,13,1,8,14,3,6,15
+1,9,11,5,14,4,7,8,15,6,2,13,3,1,12,10
+3,4,10,9,14,13,5,12,7,11,15,2,3,6,8,1
+2,5,8,9,11,7,2,12,4,3,6,15,1,14,13,10
+1,5,4,14,12,11,15,2,9,6,13,1,3,7,10,8
+2,5,9,11,2,12,7,13,14,10,15,8,6,3,1,4
+1,9,11,5,4,2,12,10,13,14,3,15,7,1,8,6
+1,9,5,2,15,7,12,13,4,14,6,10,1,3,11,8

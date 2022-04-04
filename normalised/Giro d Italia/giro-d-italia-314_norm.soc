@@ -1,0 +1,30 @@
+15
+1, SEELDRAEYERS KevinQuickstep Cycling Team
+2, MACHADO TiagoRadioShack
+3, RABOTTINI MatteoFarnese Vini-Neri-Sottoli
+4, SZMYD SylwesterLiquigas - Cannondale
+5, VISCONTI GiovanniFarnese Vini-Neri-Sottoli
+6, PIRAZZI StefanoColnago - CSF Inox
+7, KRUIJSWIJK StevenRabobank Cycling Team
+8, CAZAUX PierreEuskaltel - Euskadi
+9, GUSTOV VolodymyrSaxo Bank - Sungard
+10, DI LUCA DaniloTeam Katusha 
+11, KOZONTCHUK DmitryGeox-TMC Transformers
+12, DEIGNAN PhilipRadioShack
+13, SAMOILAU BranislauMovistar Team
+14, DE GREEF FrancisOmega Pharma-Lotto 
+15, CLEMENT StefRabobank Cycling Team
+30,30,13
+1,7,2,1,3,14,5,13,9,8,6,4,10,15,11,12
+2,7,2,5,3,14,10,6,15,12,11,4,13,9,8,1
+1,13,7,15,6,2,5,4,12,1,10,3,14,11,9,8
+3,2,7,15,12,5,14,6,13,8,4,9,3,1,11,10
+5,5,3,7,9,11,13,8,2,15,14,12,1,4,6,10
+4,1,12,11,14,3,7,15,9,2,4,5,6,10,13,8
+4,7,2,14,13,4,5,3,10,11,9,8,6,1,12,15
+1,2,1,7,8,6,11,9,15,13,12,10,5,14,4,3
+3,10,7,2,1,6,9,4,5,13,12,14,8,11,15,3
+1,7,13,14,2,12,4,1,9,15,6,3,8,10,11,5
+1,7,2,12,6,14,15,11,9,13,10,4,1,5,3,8
+2,2,1,7,6,10,3,9,14,13,4,5,11,12,15,8
+2,5,14,1,2,6,7,13,15,9,11,12,10,3,4,8

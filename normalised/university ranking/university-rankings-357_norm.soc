@@ -1,0 +1,32 @@
+15
+1,University of Helsinki
+2,University of Oslo
+3,University of Utah
+4,University of California
+5,Harvard University
+6,Cornell University
+7,Carnegie Mellon University
+8,Boston University
+9,University of Toronto
+10,Duke University
+11,Karolinska Institute
+12,Brown University
+13,University of Sydney
+14,University of Maryland
+15,University of British Columbia
+30,30,15
+2,5,4,6,10,14,9,15,11,12,7,3,8,1,13,2
+2,5,6,4,10,12,8,9,3,7,15,14,11,2,13,1
+3,10,4,14,8,5,12,6,11,7,1,3,15,2,9,13
+2,4,5,6,9,7,10,15,11,13,12,1,14,8,3,2
+3,5,9,4,15,13,10,6,14,1,8,2,11,3,12,7
+1,5,4,9,10,6,8,11,15,3,14,1,12,7,2,13
+2,5,6,4,10,3,13,8,15,9,7,14,11,12,2,1
+2,5,4,6,2,7,11,14,15,9,1,10,12,8,3,13
+1,5,4,6,7,9,2,3,10,11,14,12,1,8,15,13
+1,5,4,9,6,10,15,14,8,11,1,7,3,12,2,13
+4,5,4,6,10,9,15,14,12,3,8,11,1,13,7,2
+2,5,4,6,7,12,1,14,10,9,3,8,15,11,2,13
+2,5,4,9,6,10,7,15,11,8,12,13,14,3,1,2
+2,4,5,10,7,8,12,6,9,15,14,3,1,11,13,2
+1,13,15,9,11,5,4,2,6,7,1,10,14,8,12,3

@@ -1,0 +1,23 @@
+15
+1,UT Arlington
+2,Ark Pine Bluff
+3,Jackson St
+4,SE Louisiana
+5,Evansville
+6,Youngstown St
+7,Hofstra
+8,South Florida
+9,Delaware St
+10,Tennessee Tech
+11,UCLA
+12,Fresno St
+13,Wake Forest
+14,Mercer
+15,IL Chicago
+30,30,6
+7,12,4,14,1,11,5,13,8,3,10,2,15,7,9,6
+7,12,4,1,14,11,13,5,8,10,15,7,9,6,3,2
+6,12,4,11,14,1,5,13,8,10,15,3,7,2,6,9
+3,12,4,11,1,14,5,8,13,10,15,7,6,3,9,2
+2,12,4,14,11,5,1,13,8,3,2,15,10,7,9,6
+5,11,12,4,1,14,8,13,5,15,10,7,6,3,9,2

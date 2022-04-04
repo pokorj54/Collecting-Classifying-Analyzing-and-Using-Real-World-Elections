@@ -1,0 +1,26 @@
+15
+1,Mythotopia
+2,The Red Dragon Inn
+3,The Duke
+4,Clans
+5,Dominion: Intrigue
+6,Alien Frontiers
+7,Cosmic Encounter
+8,Dawn of the Zeds (Second edition)
+9,Tash-Kalar: Arena of Legends
+10,Guilds of London
+11,Panamax
+12,Robo Rally
+13,Dungeons & Dragons: Conquest of Nerath Board Game
+14,World War II: Barbarossa to Berlin
+15,Exit: The Game  The Forgotten Island
+30,30,9
+3,15,7,10,12,4,2,14,1,8,13,6,3,9,11,5
+9,15,7,12,4,2,10,14,1,8,13,6,3,9,11,5
+1,7,15,4,10,2,14,12,8,1,13,6,3,9,11,5
+3,15,7,12,10,4,2,14,1,8,13,6,3,9,11,5
+4,15,12,7,10,4,2,14,1,8,13,6,3,9,11,5
+3,7,15,12,4,10,2,14,1,8,13,6,3,9,11,5
+1,7,4,10,2,15,14,12,8,1,13,6,3,9,11,5
+5,15,7,12,4,2,10,14,1,13,8,6,3,9,11,5
+1,15,7,10,4,12,2,14,1,8,13,6,3,9,11,5

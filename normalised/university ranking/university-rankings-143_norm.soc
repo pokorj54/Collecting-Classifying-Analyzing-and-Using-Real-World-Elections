@@ -1,0 +1,33 @@
+15
+1,Northwestern University
+2,University of Zurich
+3,University of Nottingham
+4,University of Southern California
+5,Boston University
+6,Emory University
+7,Osaka University
+8,California Institute of Technology
+9,University of Rochester
+10,University of Oxford
+11,Seoul National University
+12,Tohoku University
+13,University of Maryland
+14,University of Geneva
+15,University of Pennsylvania
+30,30,16
+2,14,10,2,3,8,9,4,6,5,1,13,15,12,7,11
+1,10,15,11,1,7,12,4,13,5,2,6,8,3,9,14
+3,8,10,15,14,4,2,1,13,3,5,9,7,6,11,12
+2,8,10,15,1,4,11,7,5,12,2,6,9,13,3,14
+3,4,8,12,7,10,1,2,11,15,3,9,6,14,13,5
+2,15,10,1,8,7,11,4,13,5,12,6,9,14,2,3
+5,15,10,8,1,11,9,6,7,4,5,14,13,12,2,3
+2,8,10,15,9,14,12,7,13,1,4,5,11,6,2,3
+1,8,10,15,1,13,2,7,14,5,4,6,12,9,3,11
+2,8,10,15,1,7,12,11,4,5,2,13,3,6,14,9
+1,15,10,1,8,4,5,13,6,7,9,12,11,2,14,3
+2,15,8,10,1,13,4,6,5,9,7,2,3,12,14,11
+1,10,8,15,9,14,13,1,12,5,3,7,2,4,6,11
+1,8,10,15,14,7,13,4,2,5,3,1,9,11,12,6
+1,15,10,8,1,5,6,7,4,13,9,2,14,12,11,3
+1,8,1,10,15,5,9,6,13,4,2,14,3,11,12,7

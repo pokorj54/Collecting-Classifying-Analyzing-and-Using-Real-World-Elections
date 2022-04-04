@@ -1,0 +1,34 @@
+15
+1,University of British Columbia
+2,VU University Amsterdam
+3,Northwestern University
+4,Hokkaido University
+5,Maastricht University
+6,National Cheng Kung University
+7,Shanghai Jiao Tong University
+8,University of Antwerp
+9,Eindhoven University of Technology
+10,Wake Forest University
+11,University of Maryland
+12,Peking University
+13,Vanderbilt University
+14,Sun Yat-sen University
+15,University of North Carolina at Chapel Hill
+30,30,17
+1,3,12,10,6,15,13,7,11,1,9,14,4,2,5,8
+1,11,3,1,13,4,15,2,12,7,5,6,14,9,8,10
+3,11,15,1,3,13,4,9,12,2,10,7,6,5,14,8
+3,7,1,12,15,3,2,14,11,13,4,6,5,8,9,10
+3,3,1,12,15,9,5,6,2,13,11,8,7,4,10,14
+3,15,3,1,11,13,2,10,8,12,7,4,5,14,9,6
+1,15,3,13,1,11,2,10,12,5,7,4,8,14,9,6
+1,5,1,9,8,12,2,11,15,3,13,14,6,4,10,7
+3,13,3,11,1,15,4,2,12,7,5,6,14,9,8,10
+2,1,3,15,11,13,12,2,7,4,6,14,5,10,8,9
+1,12,3,1,15,13,4,11,9,10,7,8,5,2,6,14
+2,3,1,15,11,13,2,12,4,10,7,8,5,14,6,9
+1,12,15,13,3,4,1,10,7,14,11,6,5,9,8,2
+1,3,15,1,11,13,2,10,7,9,12,5,6,14,4,8
+1,11,1,13,3,15,10,4,7,12,2,6,5,14,8,9
+1,13,10,15,4,12,11,7,3,6,9,2,14,1,5,8
+2,3,15,1,11,13,12,2,4,7,8,14,9,10,5,6

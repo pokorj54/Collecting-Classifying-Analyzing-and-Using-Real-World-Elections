@@ -1,0 +1,30 @@
+15
+1, SERPELLINI MarcoGerolsteiner
+2, BERTOGLIATI RubensSaunier Duval - Prodir
+3, MIHOLJEVIĆ VladimirAlessio - Bianchi
+4, MOOS AlexandrePhonak Hearing Systems
+5, PEREZ CUAPIO Julio AlbertoCeramica Panaria - Margres
+6, LANFRANCHI PaoloCeramica Panaria - Margres
+7, TOSATTO MatteoFassa Bortolo
+8, BRARD FlorentChocolade Jacques - Wincor Nixdorf
+9, GINESTRI GiancarloTenax
+10, USOV AlexandrePhonak Hearing Systems
+11, CAÑADA DavidSaunier Duval - Prodir
+12, LJUNGQVIST MarcusAlessio - Bianchi
+13, DUMA VladimirLandbouwkrediet - Colnago
+14, NOÈ AndreaAlessio - Bianchi
+15, FERTONANI MarcoPhonak Hearing Systems
+30,30,13
+4,10,14,12,3,4,11,1,6,15,13,7,2,5,9,8
+1,4,14,6,11,2,15,3,12,13,1,5,9,8,10,7
+3,10,14,11,3,6,2,9,7,1,8,15,12,4,13,5
+5,10,14,4,11,3,2,6,12,7,1,15,13,9,5,8
+2,14,11,3,15,5,12,6,4,1,8,7,10,9,13,2
+3,5,14,3,11,4,9,15,13,12,1,6,10,7,8,2
+3,14,4,15,11,3,6,5,2,12,13,8,1,7,10,9
+1,10,14,6,13,9,4,3,1,11,12,8,15,5,2,7
+1,10,14,12,3,11,4,1,2,13,8,9,6,15,7,5
+2,10,12,11,4,3,7,14,1,6,2,9,13,5,15,8
+2,5,11,3,1,4,14,2,15,13,12,7,6,9,10,8
+1,10,3,14,4,11,6,2,7,13,9,5,1,15,12,8
+2,4,5,2,14,11,3,1,6,13,7,12,9,10,8,15

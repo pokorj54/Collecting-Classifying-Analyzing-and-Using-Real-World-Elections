@@ -1,0 +1,29 @@
+15
+1, SEROV AlexanderTinkoff Credit Systems
+2, OCHOA Carlos JosÃ©Serramenti PVC Diquigiovanni-Androni Giocattoli
+3, ERMETI GiairoLPR Brakes - Ballan
+4, MIZUROV AndreyAstana
+5, EICHLER MarkusMilram
+6, DE GROOT BramRabobank ProTeam
+7, MARTENS PaulRabobank ProTeam
+8, LASTRAS PabloCaisse d'Epargne
+9, GREIPEL AndrÃ©Team High Road
+10, POSSONI MorrisTeam High Road
+11, GAVAZZI FrancescoLampre
+12, IRIZAR MarkelEuskaltel - Euskadi
+13, MONIER DamienCofidis
+14, VALJAVEC TadejAG2R La Mondiale
+15, GASPAROTTO EnricoBarloworld
+30,30,12
+5,14,10,2,8,12,15,7,4,3,11,13,6,9,1,5
+3,14,10,2,12,4,3,7,1,8,6,11,13,9,15,5
+4,1,9,12,8,14,15,2,11,3,6,10,4,7,13,5
+4,7,11,14,4,10,12,2,15,6,1,9,13,8,3,5
+3,1,7,8,13,12,14,9,4,6,5,3,11,10,2,15
+2,14,10,8,2,12,11,6,7,9,4,13,3,1,15,5
+1,15,10,2,14,4,12,7,11,8,6,3,9,5,13,1
+2,9,15,6,1,14,12,4,13,2,3,7,8,11,10,5
+1,14,4,8,2,13,12,15,1,11,10,9,6,7,3,5
+1,9,12,13,10,3,4,14,2,7,15,11,1,6,8,5
+1,10,15,4,14,2,12,8,3,11,5,7,6,13,1,9
+3,4,14,13,7,8,15,3,12,10,11,6,2,1,9,5

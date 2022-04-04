@@ -1,0 +1,24 @@
+15
+1,Daniel Cormier
+2,Ryan Bader
+3,Corey Anderson
+4,Jimi Manuwa
+5,Glover Teixeira
+6,Gian Villante
+7,Mauricio Rua
+8,Rashad Evans
+9,Rogerio Nogueira
+10,Anthony Johnson
+11,Ilir Latifi
+12,Patrick Cummins
+13,Nikita Krylov
+14,Alexander Gustafsson
+15,Ovince Saint Preux
+30,30,7
+4,1,10,5,14,2,15,8,7,4,9,12,3,13,11,6
+4,1,10,5,14,2,15,7,8,4,9,13,3,11,12,6
+5,1,10,14,5,2,15,7,8,4,9,13,3,11,12,6
+4,1,10,14,5,2,4,15,7,13,3,9,11,12,8,6
+8,1,10,14,5,2,4,15,7,13,3,9,11,12,6,8
+3,1,10,5,14,2,15,8,7,4,9,12,3,11,13,6
+2,1,10,14,5,2,4,15,7,8,9,13,3,11,12,6

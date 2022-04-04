@@ -1,0 +1,21 @@
+15
+1,Duquesne
+2,Delaware
+3,Texas Tech
+4,Bradley
+5,Savannah St
+6,Mercer
+7,Northern Arizona
+8,Lehigh
+9,Notre Dame
+10,McNeese St
+11,Massachusetts
+12,Nevada
+13,Denver
+14,Iowa
+15,Duke
+30,30,4
+5,15,14,12,4,9,7,3,11,8,10,13,2,6,1,5
+9,15,14,12,4,9,11,3,7,8,10,13,2,1,6,5
+9,15,14,12,4,9,7,11,3,8,13,10,2,6,1,5
+7,15,14,12,4,9,11,3,7,8,13,10,2,6,1,5

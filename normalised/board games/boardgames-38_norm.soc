@@ -1,0 +1,28 @@
+15
+1,Hoity Toity
+2,John Company
+3,Empires: Age of Discovery
+4,Francis Drake
+5,Cold War: CIA vs KGB
+6,Gentes
+7,Escape: The Curse of the Temple
+8,Formula D
+9,Orléans
+10,Mansions of Madness: Second Edition
+11,Belfort
+12,Mechs vs. Minions
+13,Dixit: Odyssey
+14,Heroscape Master Set:  Battle for the Underdark
+15,Pandemic Legacy: Season 2
+30,30,11
+1,5,2,14,1,13,9,10,15,12,4,11,8,7,3,6
+6,2,5,1,14,13,9,10,15,12,4,11,8,7,3,6
+6,2,5,14,1,13,9,10,15,12,4,11,8,7,3,6
+1,5,6,14,1,2,13,10,9,12,15,4,11,7,8,3
+2,2,5,1,14,13,9,15,10,12,4,11,8,7,3,6
+4,5,14,1,2,13,9,10,15,12,4,11,8,7,3,6
+2,5,14,1,6,2,13,10,9,12,15,4,11,7,8,3
+2,5,14,2,1,13,9,10,15,12,4,11,8,7,3,6
+3,6,5,14,1,2,13,10,9,12,15,4,11,7,8,3
+1,5,14,1,2,13,9,10,12,15,4,11,7,8,3,6
+2,5,14,6,1,2,13,10,9,12,15,4,11,7,8,3

@@ -1,0 +1,27 @@
+15
+1,Razzia!
+2,Lovecraft Letter
+3,The Great Heartland Hauling Co.
+4,Ground Floor
+5,Mystery of the Abbey
+6,Tower of Babel
+7,Firefly: The Game
+8,Lisboa
+9,Zombicide
+10,John Company
+11,Axis & Allies: 1942
+12,A Game of Thrones: The Card Game (Second Edition)
+13,Battlestar Galactica: The Board Game
+14,1830: Railways & Robber Barons
+15,Welcome Back to the Dungeon
+30,30,10
+2,3,4,5,15,1,11,10,6,14,7,12,9,13,8,2
+7,3,4,5,15,10,1,11,6,14,7,12,9,13,8,2
+2,3,4,5,15,1,11,6,10,14,7,12,9,13,8,2
+1,15,5,3,10,4,11,1,6,14,7,12,9,8,13,2
+4,3,4,5,15,1,10,11,6,14,7,12,9,13,8,2
+3,3,5,15,4,10,11,1,6,14,7,12,9,8,13,2
+5,3,15,5,4,10,11,1,6,14,7,12,9,8,13,2
+3,15,3,5,4,10,11,1,6,14,7,12,9,8,13,2
+2,15,3,5,10,4,11,1,6,14,7,12,9,8,13,2
+1,2,4,3,5,15,1,11,6,10,14,7,12,9,13,8

@@ -1,0 +1,32 @@
+15
+1,University of Eastern Finland
+2,Iowa State University
+3,Swinburne University of Technology
+4,University at Buffalo
+5,Hokkaido University
+6,Claude Bernard University Lyon 1
+7,University of Cambridge
+8,Queensland University of Technology
+9,University of Helsinki
+10,University of Innsbruck
+11,Ewha Womans University
+12,Aalto University
+13,University of Bern
+14,University of Valencia
+15,University of Strasbourg
+30,30,15
+1,7,9,6,5,2,13,15,4,14,12,1,10,11,8,3
+3,5,7,11,9,14,6,10,1,2,15,4,13,12,8,3
+2,7,15,9,5,10,2,13,6,4,3,14,12,11,8,1
+1,7,5,11,6,4,12,15,2,9,13,10,8,14,3,1
+1,7,2,12,5,10,4,14,13,9,15,6,1,11,8,3
+4,7,13,4,5,9,2,12,8,15,1,10,11,3,6,14
+2,7,9,5,13,14,6,2,4,15,8,12,1,11,10,3
+1,10,7,3,13,8,15,12,4,6,9,1,14,2,11,5
+3,7,9,15,13,10,5,2,6,4,14,1,11,12,8,3
+3,7,9,13,2,6,15,4,5,14,1,10,12,11,8,3
+3,7,9,6,13,15,5,2,10,4,14,1,12,3,11,8
+3,7,15,9,13,5,6,2,4,10,3,14,12,11,8,1
+1,8,12,11,2,7,13,5,10,4,3,6,1,15,9,14
+1,7,15,2,9,10,5,13,6,4,14,1,11,12,8,3
+1,7,2,9,13,6,15,14,5,4,10,1,8,3,11,12

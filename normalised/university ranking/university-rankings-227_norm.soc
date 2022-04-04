@@ -1,0 +1,30 @@
+15
+1,University of Sydney
+2,Stanford University
+3,Seoul National University
+4,Yale University
+5,University of Nottingham
+6,Princeton University
+7,University of Zurich
+8,Leiden University
+9,Harvard University
+10,Duke University
+11,Carnegie Mellon University
+12,University of Oxford
+13,University of California
+14,Tel Aviv University
+15,University of Oslo
+30,30,13
+4,9,2,13,4,12,6,10,7,8,1,5,11,14,3,15
+1,9,13,6,12,4,2,11,15,8,10,1,5,7,3,14
+3,10,1,13,6,2,12,11,8,7,3,5,9,14,4,15
+5,9,6,13,2,12,4,15,11,7,5,8,10,1,3,14
+4,6,13,9,2,12,11,10,4,7,8,5,1,15,3,14
+2,9,13,2,4,12,10,3,6,1,14,8,11,7,15,5
+3,9,6,12,4,13,2,11,10,8,14,3,7,15,1,5
+1,9,2,13,6,4,12,10,11,8,7,5,14,1,15,3
+1,12,1,7,5,9,15,2,4,11,8,13,6,10,14,3
+2,3,9,13,2,10,12,14,4,1,5,6,11,8,7,15
+1,9,2,13,10,4,12,6,11,3,1,7,14,8,15,5
+1,4,10,13,7,2,6,9,12,11,3,5,8,15,1,14
+2,9,6,2,13,12,4,11,15,14,10,8,7,5,3,1

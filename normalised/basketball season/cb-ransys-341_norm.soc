@@ -1,0 +1,22 @@
+15
+1,WKU
+2,St John's
+3,Wofford
+4,St Francis NY
+5,Ohio St
+6,Austin Peay
+7,Bucknell
+8,Gardner Webb
+9,Cornell
+10,Idaho
+11,Charlotte
+12,TN Martin
+13,PFW
+14,Louisiana Tech
+15,Tennessee St
+30,30,5
+7,5,11,1,2,14,8,6,4,12,3,15,10,7,9,13
+12,5,1,11,2,14,8,12,6,3,4,15,10,7,9,13
+2,5,1,11,2,14,8,12,3,6,4,10,15,7,9,13
+3,5,1,11,2,14,8,12,3,6,4,15,10,7,9,13
+6,5,1,11,2,14,12,8,4,6,3,10,7,15,13,9

@@ -1,0 +1,32 @@
+15
+1,University of Arizona
+2,University of Cambridge
+3,University of British Columbia
+4,Vanderbilt University
+5,California Institute of Technology
+6,New York University
+7,Carnegie Mellon University
+8,Rice University
+9,Harvard University
+10,University of Utah
+11,Karolinska Institute
+12,Yale University
+13,Boston University
+14,University of Toronto
+15,University of Oxford
+30,30,15
+3,9,15,5,10,2,4,12,6,8,13,3,14,7,11,1
+3,9,15,2,12,14,5,6,13,11,3,4,1,10,7,8
+2,9,5,12,2,15,6,14,1,3,10,13,8,4,11,7
+2,9,15,2,12,6,13,14,5,10,7,3,11,4,1,8
+3,8,5,9,2,15,7,12,13,6,14,4,3,10,11,1
+1,9,2,5,15,12,6,7,4,11,8,3,14,13,10,1
+5,5,9,15,2,12,14,7,3,11,6,1,13,10,4,8
+3,5,1,15,11,10,2,7,4,14,3,9,12,8,13,6
+2,5,9,12,2,15,14,6,7,3,11,13,4,8,1,10
+1,4,12,6,5,13,9,8,11,15,2,1,7,10,3,14
+1,15,2,3,14,11,9,5,8,12,7,13,6,1,4,10
+1,9,2,5,15,12,6,7,14,10,11,13,1,3,8,4
+1,9,2,15,5,12,7,6,11,14,8,3,4,1,13,10
+1,9,14,2,15,12,3,5,6,4,13,1,11,10,7,8
+1,9,2,5,15,12,7,6,8,14,10,13,3,11,4,1

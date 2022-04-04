@@ -1,0 +1,32 @@
+15
+1,Stellenbosch University
+2,Sapienza University of Rome
+3,University of Cape Town
+4,University of Bristol
+5,University of Illinois at Chicago
+6,University of Konstanz
+7,Rutgers
+8,University of Utah
+9,McGill University
+10,Zhejiang University
+11,University of Virginia
+12,University of Bologna
+13,University of Twente
+14,VU University Amsterdam
+15,Sharif University of Technology
+30,30,15
+1,9,7,13,4,14,8,11,3,15,5,6,10,1,2,12
+2,9,10,14,2,4,11,8,5,12,3,13,6,1,15,7
+1,7,14,11,8,4,9,5,12,3,6,10,2,13,1,15
+1,10,9,14,2,12,8,4,7,11,5,3,13,1,15,6
+2,7,4,2,8,9,14,11,10,5,12,3,13,15,1,6
+3,9,3,15,2,7,4,8,14,11,10,5,12,13,1,6
+4,9,8,4,11,14,2,5,3,12,10,6,1,13,7,15
+5,9,2,8,3,15,4,11,12,14,10,5,1,13,6,7
+3,3,4,11,9,8,14,7,12,6,5,2,15,13,1,10
+1,9,3,4,13,6,5,14,1,12,2,7,11,8,10,15
+2,9,14,4,11,8,2,12,3,5,1,10,13,6,15,7
+1,11,9,1,8,3,4,2,10,12,14,13,5,6,15,7
+2,5,11,13,3,9,4,10,14,8,7,15,12,1,2,6
+1,1,13,10,3,15,14,8,6,11,4,5,9,7,12,2
+1,2,8,4,9,11,3,14,10,5,12,1,13,6,15,7

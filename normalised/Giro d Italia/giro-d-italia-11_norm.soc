@@ -1,0 +1,30 @@
+15
+1, LANCASTER BrettOrica GreenEDGE
+2, DALL'ANTONIA TizianoCannondale Pro Cycling Team
+3, LASTRAS PabloMovistar Team
+4, MORABITO SteveBMC Racing Team
+5, LONGO BORGHINI PaoloCannondale Pro Cycling Team
+6, LE BON JohanFDJ
+7, BRAMBILLA GianlucaOmega Pharma - Quick-Step
+8, ROULSTON HaydenRadioShack - Leopard
+9, SCARPONI MicheleLampre - Merida
+10, VERMOTE JulienOmega Pharma - Quick-Step
+11, RUIJGH RobVacansoleil - DCM
+12, BONNAFOND GuillaumeAG2R La Mondiale
+13, STETINA PeterGarmin Sharp
+14, PIRES BrunoTeam Saxo - Tinkoff
+15, BELLEMAKERS DirkLotto Belisol Team
+30,30,13
+1,4,9,14,13,5,7,15,2,11,10,12,1,3,6,8
+2,15,9,5,4,13,12,14,2,8,1,6,11,10,7,3
+4,9,4,11,13,14,12,3,5,1,8,6,15,10,7,2
+3,9,10,8,15,1,5,11,4,14,13,12,7,2,3,6
+3,9,13,4,14,5,11,12,3,2,6,15,1,10,8,7
+4,12,6,9,4,15,14,11,5,3,10,2,7,13,1,8
+3,1,9,12,5,2,4,15,10,8,14,11,6,3,7,13
+3,1,11,9,14,7,13,3,12,8,15,5,6,4,2,10
+2,9,13,11,6,4,8,2,14,3,1,12,15,5,10,7
+1,13,1,12,9,6,2,14,4,11,8,10,5,15,3,7
+1,9,3,15,13,5,14,11,12,6,7,8,2,1,10,4
+2,7,9,4,11,5,3,2,6,12,13,1,15,14,10,8
+1,1,9,8,11,13,2,4,14,5,10,3,7,15,12,6

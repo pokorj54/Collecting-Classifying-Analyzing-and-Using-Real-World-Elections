@@ -1,0 +1,29 @@
+15
+1, KONOVALOVAS IgnatasCervelo Test Team
+2, DI LUCA DaniloLPR Brakes - Farnese Vini
+3, GUSTOV VolodymyrCervelo Test Team
+4, SOKOLOV EvgenyBbox Bouygues Telecom
+5, FROOME ChrisBarloworld - Bianchi
+6, BONNAFOND GuillaumeAG2R La Mondiale
+7, VORGANOV EduardXacobeo-Galicia
+8, SPRICK MatthieuBbox Bouygues Telecom
+9, BRANDT ChristopheSilence - Lotto
+10, FAILLI FrancescoAcqua & Sapone
+11, DEIGNAN PhilipCervelo Test Team
+12, BERTAGNOLLI LeonardoSerramenti PVC Diquigiovanni-Androni Giocattoli
+13, MIHOLJEVIĆ VladimirLiquigas
+14, GOLČER JureLPR Brakes - Farnese Vini
+15, SENAC Jean-CharlesAG2R La Mondiale
+30,30,12
+3,2,5,7,9,10,15,13,11,3,6,12,1,14,4,8
+5,1,2,5,7,6,4,10,15,8,9,13,12,14,11,3
+2,2,5,13,1,7,8,14,11,3,12,15,9,10,6,4
+3,2,7,8,9,13,14,12,11,10,15,3,5,6,1,4
+2,7,2,10,9,12,6,3,1,14,5,13,15,11,8,4
+4,2,11,3,7,5,9,10,8,12,6,13,14,4,15,1
+3,2,12,5,3,14,7,8,9,13,1,4,10,6,15,11
+1,2,7,3,12,11,14,5,9,13,6,8,15,10,4,1
+2,2,7,13,14,9,10,15,12,6,11,5,3,8,4,1
+2,7,9,1,5,10,3,2,13,14,12,15,11,8,6,4
+1,7,9,12,10,2,3,5,14,8,13,11,6,15,1,4
+2,11,5,2,6,7,12,3,9,8,1,10,13,14,15,4

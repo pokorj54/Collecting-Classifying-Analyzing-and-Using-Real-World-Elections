@@ -1,0 +1,32 @@
+15
+1,University of Sussex
+2,University of Bristol
+3,University of Exeter
+4,University of Rochester
+5,University of Delaware
+6,University of Manitoba
+7,Syracuse University
+8,University of California
+9,California Institute of Technology
+10,National Tsing Hua University
+11,Stellenbosch University
+12,Aalborg University
+13,Queensland University of Technology
+14,University of Amsterdam
+15,Rensselaer Polytechnic Institute
+30,30,15
+1,4,8,9,10,2,14,15,7,5,12,1,3,11,6,13
+1,8,9,2,4,14,3,10,1,15,5,6,7,11,12,13
+2,8,9,1,2,4,5,6,14,15,11,3,10,7,12,13
+1,8,9,2,4,14,5,3,1,15,12,6,7,10,11,13
+2,8,9,4,10,15,5,2,14,3,1,12,6,13,11,7
+1,9,8,2,14,4,10,7,3,1,6,15,11,13,5,12
+3,8,9,4,5,6,15,11,14,2,3,7,12,13,1,10
+3,1,3,2,13,9,12,8,14,4,11,6,15,7,5,10
+2,8,14,2,9,4,3,13,6,10,11,5,12,1,7,15
+2,8,9,14,4,2,6,5,15,3,1,10,11,7,12,13
+3,9,8,14,2,10,5,13,3,11,1,6,4,12,15,7
+1,8,9,4,14,15,7,1,6,2,10,3,5,11,12,13
+3,8,9,1,2,5,4,14,3,10,12,15,6,13,11,7
+2,8,9,14,2,4,10,6,5,3,1,15,7,13,11,12
+3,8,9,2,14,4,3,1,5,6,15,10,7,11,12,13

@@ -1,0 +1,32 @@
+15
+1, HERMANS BenRadioShack - Nissan
+2, SPEZIALETTI AlessandroLampre - ISD
+3, WYSS DaniloBMC Racing Team
+4, BENEDETTI CesareTeam Netapp
+5, PAGANI AngeloColnago CSF Bardiani
+6, GASTAUER BenAG2R La Mondiale
+7, CASAR SandyFDJ - BigMat
+8, MALORI AdrianoLampre - ISD
+9, DE NEGRI Pier PaoloFarnese Vini-Neri-Sottoli
+10, DIETZIKER AndreasTeam Netapp
+11, MORENO DanielTeam Katusha 
+12, SCARPONI MicheleLampre - ISD
+13, SALERNO CristianoLiquigas - Cannondale
+14, KAISEN OlivierLotto Belisol Team
+15, TIRALONGO PaoloAstana Pro Team
+30,30,15
+4,4,10,3,12,11,1,6,8,15,7,2,5,13,14,9
+2,3,11,15,9,10,12,7,4,5,6,8,2,13,1,14
+3,15,12,11,7,10,13,3,9,1,6,8,14,4,2,5
+3,8,11,7,15,5,1,12,10,3,14,9,4,2,6,13
+2,7,15,12,11,13,3,5,6,2,8,14,1,10,4,9
+1,8,4,11,15,7,12,10,6,3,2,5,1,14,9,13
+3,3,1,15,6,12,7,8,11,13,2,9,5,14,10,4
+1,7,1,4,11,12,15,5,2,13,6,10,3,9,8,14
+2,15,12,11,7,9,2,13,6,14,8,5,1,3,4,10
+1,12,15,11,7,8,13,3,6,1,10,5,2,9,4,14
+2,15,12,11,7,1,2,5,3,10,6,8,13,14,9,4
+1,15,12,11,7,3,1,2,6,4,13,8,10,5,14,9
+1,11,12,15,10,4,13,1,5,7,14,6,2,8,3,9
+2,15,11,12,7,6,8,13,3,9,2,1,10,4,14,5
+2,15,11,9,13,4,7,12,8,2,10,3,5,6,14,1

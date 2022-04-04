@@ -1,0 +1,32 @@
+15
+1, KANGERT TanelAstana Pro Team
+2, LASTRAS PabloMovistar Team
+3, BONNAFOND GuillaumeAG2R La Mondiale
+4, CARUSO GiampaoloTeam Katusha 
+5, LOCATELLI StefanoBardiani Valvole - CSF Inox 
+6, PAOLINI LucaTeam Katusha 
+7, WAUTERS WillemVacansoleil - DCM
+8, CANOLA MarcoBardiani Valvole - CSF Inox 
+9, WYNANTS MaartenBlanco Pro Cycling Team
+10, TUFT SveinOrica GreenEDGE
+11, DUARTE FabioTeam Colombia
+12, MARTENS PaulBlanco Pro Cycling Team
+13, SANTAROMITA IvanBMC Racing Team
+14, VANDE VELDE ChristianGarmin Sharp
+15, DUQUE Leonardo FabioTeam Colombia
+30,30,15
+2,1,11,13,4,2,12,14,3,6,8,10,7,15,5,9
+2,6,1,4,15,5,13,9,2,3,7,8,11,14,10,12
+2,1,11,13,4,6,12,2,15,3,10,14,9,7,5,8
+3,11,1,13,5,12,3,14,2,15,9,7,4,10,6,8
+1,12,3,15,11,1,9,2,8,6,13,14,4,10,5,7
+3,6,4,1,3,13,9,12,14,11,5,7,15,10,8,2
+3,4,13,1,5,11,6,15,3,2,12,14,9,7,10,8
+1,11,6,1,4,13,14,12,2,3,10,9,5,15,7,8
+5,12,1,8,4,6,5,11,3,15,13,2,9,10,14,7
+1,6,4,13,11,1,15,8,5,9,7,3,12,14,2,10
+1,12,8,6,15,1,14,11,13,4,2,3,5,7,10,9
+3,1,4,13,2,12,11,15,3,5,6,7,9,14,10,8
+1,1,10,13,8,11,12,9,5,4,3,6,15,2,14,7
+1,6,1,4,13,5,11,15,3,10,14,2,12,7,9,8
+1,1,9,3,14,15,10,4,6,11,12,2,13,7,8,5

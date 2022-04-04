@@ -1,0 +1,27 @@
+15
+1,Bora Bora
+2,The Pillars of the Earth
+3,Tiny Epic Kingdoms
+4,Magic: The Gathering
+5,Biblios
+6,Kashgar: Merchants of the Silk Road
+7,First Train to Nuremberg
+8,Vikings
+9,Constantinopolis
+10,Elder Sign
+11,Agricola (Revised Edition)
+12,Age of Conan: The Strategy Board Game
+13,The Red Dragon Inn
+14,Hoity Toity
+15,Zombicide
+30,30,10
+2,6,3,13,14,4,12,9,7,1,2,5,8,15,10,11
+9,3,6,13,14,4,9,12,7,1,2,5,8,15,10,11
+1,3,6,13,14,4,12,9,7,1,2,5,8,15,10,11
+10,3,6,13,14,9,12,4,7,1,2,5,8,15,10,11
+1,3,13,6,14,9,12,4,7,1,2,5,8,15,10,11
+2,3,6,13,14,9,4,12,7,1,2,5,8,15,10,11
+2,3,13,14,6,9,12,4,7,1,2,5,8,15,10,11
+1,3,6,13,14,9,12,7,4,1,2,5,8,15,10,11
+1,11,4,1,2,5,8,15,10,3,13,14,9,6,12,7
+1,3,13,14,6,9,12,7,4,1,2,5,8,15,10,11

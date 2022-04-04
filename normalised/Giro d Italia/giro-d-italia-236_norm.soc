@@ -1,0 +1,33 @@
+15
+1, CAÑADA DavidSaunier Duval - Prodir
+2, COLOMBO GabrieleDomina Vacanze
+3, SIJMENS NicoLandbouwkrediet - Colnago
+4, MORI ManueleSaunier Duval - Prodir
+5, DEREPAS DavidFdjeux.com
+6, DUMA VladimirLandbouwkrediet - Colnago
+7, NAUDUŽS AndrisDomina Vacanze
+8, BRUSEGHIN MarzioFassa Bortolo
+9, MARÍN Ruber AlveiroColombia - Selle Italia
+10, SELLA EmanueleCeramica Panaria - Margres
+11, FERRIGATO AndreaAcqua & Sapone - Caffe Mokambo
+12, DAVIS ScottCeramica Panaria - Margres
+13, MOUREY FrancisFdjeux.com
+14, SCIREA MarioDomina Vacanze
+15, GARATE Juan ManuelLampre
+30,30,16
+3,7,10,15,1,8,6,9,5,12,3,11,13,4,2,14
+4,10,1,15,12,5,14,4,8,6,7,2,9,3,11,13
+1,4,1,15,2,7,10,5,14,8,11,3,9,6,12,13
+2,7,1,15,5,10,3,2,11,9,12,6,8,4,14,13
+4,7,4,5,15,1,10,9,8,11,12,13,2,14,3,6
+3,7,5,14,15,1,4,10,9,6,8,3,11,13,12,2
+1,4,1,15,10,8,11,6,3,7,14,2,13,12,9,5
+1,10,15,1,4,11,6,14,2,9,13,5,3,7,8,12
+1,8,15,1,5,10,6,11,13,2,7,3,9,4,12,14
+2,15,10,1,3,11,6,5,7,13,8,12,4,14,9,2
+1,10,15,1,5,6,8,9,4,11,3,2,14,7,12,13
+1,5,10,15,1,14,4,9,6,11,8,3,13,2,7,12
+2,15,10,8,1,3,9,13,6,12,14,5,11,4,7,2
+2,15,1,10,9,5,4,12,6,3,8,11,2,7,13,14
+1,15,10,1,8,3,9,4,5,6,12,11,14,7,2,13
+1,7,4,15,11,6,10,5,1,9,8,3,12,14,2,13

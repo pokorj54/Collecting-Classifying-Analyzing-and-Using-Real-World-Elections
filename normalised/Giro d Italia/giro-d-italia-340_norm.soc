@@ -1,0 +1,29 @@
+15
+1, LUTTENBERGER PeterO.N.C.E. - Deutsche Bank
+2, DONATI MassimoVini Caldirola - Sidermec
+3, TETERIOUK AndreiLiquigas-Pata
+4, HERNANDEZ EduardoKelme - Costa Blanca
+5, BALDUCCI GabrieleNavigare - Gaerne
+6, TOSATTO MatteoAlessio - Ballan
+7, MISSAGLIA GabrieleLampre - Daikin - Colnago
+8, GLOMSER GerritNavigare - Gaerne
+9, HAMBURGER BoCantina Tollo - Alexia Alluminio
+10, FONTANELLI FabianoMercatone Uno - Bianchi
+11, HERAS RobertoKelme - Costa Blanca
+12, IVANOV SergeiTVM - Farm Frites
+13, VRIES PieterTVM - Farm Frites
+14, TRENTI GuidoCantina Tollo - Alexia Alluminio
+15, MICELI NicolaLiquigas-Pata
+30,30,12
+2,6,15,1,9,7,12,3,8,11,4,14,2,13,10,5
+5,5,6,15,14,10,7,8,12,1,4,2,13,3,11,9
+3,14,7,10,8,3,5,15,12,11,1,9,6,4,2,13
+3,5,7,6,11,1,10,12,3,8,9,2,15,4,14,13
+1,6,8,5,15,1,10,7,11,12,14,3,9,4,2,13
+1,7,5,12,1,14,15,10,9,2,3,8,11,6,4,13
+3,7,6,14,5,12,10,11,9,15,13,3,2,8,1,4
+2,1,11,3,12,15,7,9,2,6,8,10,4,13,5,14
+4,6,1,11,9,15,7,12,8,3,4,2,5,10,14,13
+3,3,1,11,12,7,2,15,6,10,13,8,4,9,5,14
+2,1,12,15,11,7,9,3,2,8,6,4,14,5,13,10
+1,3,8,10,15,1,11,12,7,6,2,9,4,14,5,13

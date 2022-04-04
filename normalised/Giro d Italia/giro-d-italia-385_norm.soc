@@ -1,0 +1,29 @@
+15
+1, CÃRDENAS FÃ©lix RafaelBarloworld
+2, LÃWIK GerbenRabobank ProTeam
+3, VANDE VELDE ChristianSlipstream - Chipotle presented by H3O
+4, BLAUDZUN MichaelCSC ProTeam
+5, BRUSEGHIN MarzioLampre
+6, PÃREZ AlanEuskaltel - Euskadi
+7, HORRACH JoanCaisse d'Epargne
+8, LOOSLI DavidLampre
+9, BENÃTEZ JosÃ© AlbertoSaunier Duval - Scott
+10, LAVERDE Luis FelipeCSF Group - Navigare
+11, MANGEL LaurentAG2R La Mondiale
+12, PÃREZ Marlon AlirioCaisse d'Epargne
+13, KLIMOV SergeyTinkoff Credit Systems
+14, ZABEL ErikMilram
+15, DI LUCA DaniloLPR Brakes - Ballan
+30,30,12
+4,14,4,6,5,10,3,15,2,13,12,9,1,7,8,11
+2,14,8,5,15,6,1,10,2,11,4,3,12,9,13,7
+5,5,15,10,8,11,1,9,3,4,13,14,2,6,7,12
+3,10,15,3,1,5,12,4,2,14,7,13,8,6,11,9
+2,3,4,5,10,14,12,11,6,13,9,7,15,8,1,2
+3,14,12,6,2,11,5,8,3,15,4,9,13,10,7,1
+1,6,15,5,12,1,10,3,7,4,14,9,2,11,13,8
+3,15,5,1,10,4,8,7,9,12,14,2,3,11,6,13
+2,15,1,5,3,10,14,9,2,4,8,12,7,6,11,13
+3,5,3,15,4,1,11,10,6,7,8,13,14,12,2,9
+1,15,5,3,6,1,13,9,12,10,14,4,7,2,11,8
+1,5,15,3,1,10,4,7,6,8,12,14,2,11,13,9

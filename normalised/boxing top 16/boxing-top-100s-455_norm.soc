@@ -1,0 +1,25 @@
+15
+1,Mauricio Rua
+2,Nikita Krylov
+3,Dominick Reyes
+4,Jan Blachowicz
+5,Glover Teixeira
+6,Jon Jones
+7,Ilir Latifi
+8,Thiago Santos
+9,Alexander Gustafsson
+10,Corey Anderson
+11,Johnny Walker
+12,Anthony Smith
+13,Daniel Cormier
+14,Volkan Oezdemir
+15,Misha Cirkunov
+30,30,8
+5,6,13,8,12,3,10,4,9,14,5,11,7,15,1,2
+3,6,13,9,8,12,3,4,14,10,7,5,11,1,15,2
+3,6,13,8,12,3,4,9,10,14,5,11,7,15,1,2
+6,6,13,8,12,3,4,9,10,14,5,11,7,2,1,15
+3,6,13,8,12,3,9,4,14,10,7,5,11,1,2,15
+5,6,13,8,12,3,4,9,14,10,7,5,11,1,2,15
+4,6,13,8,12,3,4,9,10,14,5,11,7,15,2,1
+1,6,13,8,12,3,4,9,14,10,5,11,7,2,1,15

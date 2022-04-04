@@ -1,0 +1,27 @@
+15
+1, CUMMINGS SteveBarloworld
+2, RICCÃ RiccardoSaunier Duval - Scott
+3, EICHLER MarkusMilram
+4, KLIMOV SergeyTinkoff Credit Systems
+5, SEROV AlexanderTinkoff Credit Systems
+6, GUSEV VladimirAstana
+7, HANSEN AdamTeam High Road
+8, MISSAGLIA GabrieleSerramenti PVC Diquigiovanni-Androni Giocattoli
+9, BRUSEGHIN MarzioLampre
+10, MENCHOV DenisRabobank ProTeam
+11, POZZOVIVO DomenicoCSF Group - Navigare
+12, PERGET MathieuCaisse d'Epargne
+13, GARATE Juan ManuelQuickstep - Innergetic
+14, TRUSOV NikolayTinkoff Credit Systems
+15, LEIPHEIMER LeviAstana
+30,30,10
+5,2,11,15,10,9,13,14,6,8,7,12,5,1,4,3
+4,10,2,9,11,15,13,7,8,12,6,1,4,5,14,3
+2,2,13,9,10,15,11,6,4,8,7,1,3,14,12,5
+1,9,10,15,2,6,11,13,7,1,14,4,5,8,12,3
+4,5,14,2,9,8,11,15,10,6,13,4,12,7,3,1
+5,11,2,10,9,13,15,6,12,8,5,1,4,14,7,3
+2,14,2,9,10,13,11,7,6,15,8,5,12,4,1,3
+5,2,9,10,11,15,13,6,4,8,12,14,5,7,3,1
+1,14,8,5,13,15,9,7,12,2,6,10,4,1,11,3
+1,2,10,13,11,15,6,9,8,4,12,3,1,14,5,7

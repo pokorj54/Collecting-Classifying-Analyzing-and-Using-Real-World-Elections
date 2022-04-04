@@ -1,0 +1,31 @@
+15
+1, SCARPONI MicheleAcqua & Sapone
+2, DE PAOLI DanieleAlessio
+3, CONTI RobertoAcqua & Sapone
+4, EVANS CadelMapei - Quickstep
+5, NARDELLO DanieleMapei - Quickstep
+6, MASON OscarSaeco - Longoni Sport
+7, CEREZO Francisco JavierCSC ProTeam - Tiscali
+8, METLUSHENKO YuriLandbouwkrediet - Colnago
+9, SCHWEDA RaphaelTeam Coast
+10, BARBERO SergioLampre - Daikin
+11, SACCHI FabioSaeco - Longoni Sport
+12, CAVAGNIS OscarLandbouwkrediet - Colnago
+13, MICHAELSEN LarsTeam Coast
+14, PUGACI IgorSaeco - Longoni Sport
+15, DETILLOUX ChristopheLotto - Adecco
+30,30,14
+3,4,1,2,14,11,7,15,8,5,6,10,13,9,12,3
+1,4,1,2,14,12,13,7,11,15,3,10,9,5,6,8
+1,4,1,14,2,5,11,6,3,9,15,7,13,10,12,8
+2,1,4,14,11,2,10,5,6,3,7,13,15,12,8,9
+2,12,2,13,4,7,11,6,14,10,1,5,9,15,8,3
+3,12,13,2,4,6,15,5,7,8,10,9,14,1,3,11
+4,9,11,14,2,10,4,5,7,1,3,6,12,8,13,15
+3,4,1,5,2,9,11,14,3,15,7,12,13,10,6,8
+3,15,12,4,5,1,8,2,13,7,3,9,11,10,6,14
+3,4,2,1,7,5,11,12,14,15,10,6,9,13,8,3
+1,4,1,2,14,5,10,7,11,6,15,9,13,8,12,3
+1,8,15,13,4,6,2,11,1,12,7,5,14,10,3,9
+2,1,2,4,14,5,7,9,10,13,11,6,3,15,12,8
+1,14,4,1,5,2,6,9,7,10,15,8,13,11,12,3

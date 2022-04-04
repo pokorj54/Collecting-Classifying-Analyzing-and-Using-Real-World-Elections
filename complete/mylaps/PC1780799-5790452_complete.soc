@@ -1,0 +1,16 @@
+8
+1,3_categorie-b
+2,2_categorie-b
+3,2_categorie-a
+4,1_categorie-a
+5,6_categorie-a
+6,3_categorie-a
+7,1_categorie-b
+8,8_categorie-b
+6,6,6
+1,8,1,7,2,4,6,3,5
+1,7,2,1,8,4,3,5,6
+1,7,8,1,2,5,3,4,6
+1,2,1,7,8,4,3,6,5
+1,2,7,8,1,6,4,5,3
+1,7,1,2,8,3,4,6,5

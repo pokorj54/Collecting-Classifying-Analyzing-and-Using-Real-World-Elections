@@ -1,0 +1,29 @@
+15
+1, RADAELLI MauroVini Caldirola - Sidermec
+2, INDURAIN PrudencioVitalicio Seguros - Grupo Generali
+3, POZZI OscarRiso Scotti - Vinavil
+4, PANTANI MarcoMercatone Uno - Bianchi
+5, IVANOV SergeiTVM - Farm Frites
+6, CODOL MassimoLampre - Daikin - Colnago
+7, TETERIOUK AndreiLiquigas-Pata
+8, HAUPTMAN AndrejVini Caldirola - Sidermec
+9, MASON OscarLiquigas-Pata
+10, MISSAGLIA GabrieleLampre - Daikin - Colnago
+11, HVASTIJA MartinAlessio - Ballan
+12, FAUSTINI StefanoMobilvetta Design - Northwave
+13, PETACCHI AlessandroNavigare - Gaerne
+14, BORGHERESI SimoneMercatone Uno - Bianchi
+15, BLIJLEVENS JeroenTVM - Farm Frites
+30,30,12
+2,15,13,10,5,9,4,3,2,6,14,8,11,7,1,12
+3,4,6,9,7,5,10,14,2,3,8,15,11,13,12,1
+3,10,13,15,2,4,3,5,9,6,14,11,7,1,8,12
+4,15,4,10,8,9,11,13,5,2,6,7,1,12,3,14
+4,4,7,6,11,5,10,9,3,2,14,8,15,13,12,1
+2,7,4,6,14,9,5,2,3,10,1,8,13,11,15,12
+2,4,5,10,9,6,7,14,3,13,2,11,8,15,1,12
+2,15,13,10,8,11,4,6,9,2,5,7,1,14,3,12
+1,15,8,4,2,9,6,10,3,5,7,1,14,11,13,12
+3,15,4,13,2,9,3,6,10,5,7,8,11,14,1,12
+1,15,10,8,5,9,4,2,6,11,3,7,1,14,13,12
+3,4,6,3,2,10,9,13,5,15,7,14,11,12,1,8

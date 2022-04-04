@@ -1,0 +1,28 @@
+15
+1, SMETANINE SergueiVitalicio Seguros - Grupo Generali
+2, MCRAE William ChannMapei - Quickstep
+3, ARAZZI FrancescoAmica Chips - Costa de Almeria
+4, HVASTIJA MartinAlessio - Ballan
+5, CODOL MassimoLampre - Daikin - Colnago
+6, NAVAS DavidBanesto
+7, EKIMOV ViatcheslavAmica Chips - Costa de Almeria
+8, VIRENQUE RichardPolti
+9, LUTTENBERGER PeterO.N.C.E. - Deutsche Bank
+10, RADAELLI MauroVini Caldirola - Sidermec
+11, GONTCHENKOV AlexanderAlessio - Ballan
+12, FIGUERAS GiulianoMapei - Quickstep
+13, CASAROTTO DavideTVM - Farm Frites
+14, GILI MarcoAmica Chips - Costa de Almeria
+15, CABELLO FranciscoKelme - Costa Blanca
+30,30,11
+2,12,2,5,9,8,14,4,7,10,15,11,6,3,13,1
+3,5,9,7,4,12,2,8,15,1,11,6,14,10,3,13
+3,5,9,8,12,7,6,14,15,1,2,4,10,13,11,3
+5,11,3,14,1,12,2,4,9,5,7,6,10,13,8,15
+1,3,1,4,9,5,7,6,12,15,2,8,10,14,11,13
+5,12,3,1,9,11,14,2,7,5,4,8,10,15,13,6
+3,8,12,5,9,2,10,15,7,1,14,6,4,3,11,13
+1,14,1,3,9,5,2,11,7,15,8,12,4,6,10,13
+3,14,12,9,2,7,5,6,8,1,15,4,10,3,11,13
+2,1,3,14,2,9,12,5,6,8,15,7,10,11,4,13
+2,11,7,2,9,5,12,14,1,8,4,6,15,3,10,13

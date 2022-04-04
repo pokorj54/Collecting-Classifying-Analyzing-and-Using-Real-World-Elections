@@ -1,0 +1,28 @@
+15
+1,Stockpile
+2,Dominion: Intrigue
+3,First Martians: Adventures on the Red Planet
+4,Cutthroat Caverns
+5,New Bedford
+6,Pandemic: Reign of Cthulhu
+7,La Cosa Nostra
+8,Archipelago
+9,Sail to India
+10,Eminent Domain
+11,Keyflower
+12,Wits & Wagers Party
+13,Castles of Mad King Ludwig
+14,The Fox in the Forest
+15,Civilization
+30,30,11
+3,5,9,4,12,7,3,15,1,8,6,11,10,14,2,13
+4,13,5,7,12,9,4,3,15,1,6,8,14,11,10,2
+3,13,5,7,12,4,9,3,15,1,6,8,14,10,11,2
+6,13,5,7,12,9,4,3,15,1,6,8,14,10,11,2
+3,13,7,5,12,4,9,3,15,1,6,8,14,10,11,2
+3,5,9,4,12,7,3,15,1,8,6,14,10,11,2,13
+2,13,5,7,12,9,4,3,15,1,8,6,14,10,11,2
+1,5,9,4,12,7,3,15,1,8,6,14,11,10,2,13
+3,13,7,5,12,9,4,3,15,1,6,8,14,10,11,2
+1,7,13,5,12,9,4,3,15,1,6,8,14,10,11,2
+1,13,5,7,4,12,9,3,15,1,8,6,14,10,11,2

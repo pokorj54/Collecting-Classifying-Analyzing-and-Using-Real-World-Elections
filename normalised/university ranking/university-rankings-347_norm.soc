@@ -1,0 +1,32 @@
+15
+1,Osaka University
+2,University of Groningen
+3,University College Dublin
+4,National Cheng Kung University
+5,Peking University
+6,Newcastle University
+7,Swinburne University of Technology
+8,Yale University
+9,Autonomous University of Barcelona
+10,Georgia Institute of Technology
+11,University of Turin
+12,University College London
+13,University of Strasbourg
+14,Washington State University
+15,Kyushu University
+30,30,15
+2,8,12,13,2,1,10,5,15,11,9,4,6,3,14,7
+2,8,5,1,15,4,10,3,6,2,14,12,11,13,9,7
+4,8,12,10,1,2,14,11,13,15,6,7,5,3,4,9
+5,8,5,12,10,1,15,2,4,9,6,14,3,11,13,7
+3,8,15,1,5,12,9,4,6,13,14,10,3,2,7,11
+3,4,5,2,15,10,1,14,12,7,11,9,8,6,3,13
+1,8,12,1,10,5,2,13,6,15,9,7,3,14,11,4
+1,5,10,15,1,8,12,14,13,9,4,3,2,6,11,7
+1,8,12,1,2,13,6,10,5,15,9,14,11,3,7,4
+2,8,12,13,11,10,1,2,5,15,9,4,6,3,14,7
+1,8,12,10,5,2,1,4,3,6,9,15,14,13,11,7
+1,12,3,6,13,7,10,5,8,2,9,11,14,1,4,15
+1,8,12,13,1,10,3,2,11,5,15,6,4,9,14,7
+2,12,5,8,1,2,15,9,10,4,11,6,13,3,14,7
+1,12,8,1,5,2,10,15,9,4,13,6,11,3,14,7

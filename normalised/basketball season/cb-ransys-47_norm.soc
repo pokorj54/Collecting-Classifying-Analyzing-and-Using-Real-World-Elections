@@ -1,0 +1,22 @@
+15
+1,CS Northridge
+2,Arkansas St
+3,UT San Antonio
+4,Toledo
+5,Missouri KC
+6,Bradley
+7,Missouri St
+8,Georgia Tech
+9,San Francisco
+10,Baylor
+11,Northeastern
+12,Georgetown
+13,Pittsburgh
+14,UNC Greensboro
+15,Creighton
+30,30,5
+10,13,15,12,3,14,8,7,5,10,4,2,9,1,6,11
+8,13,15,12,14,3,8,7,5,4,10,2,1,9,6,11
+5,13,15,3,12,14,7,8,5,10,9,2,4,6,1,11
+5,13,15,12,14,3,8,7,5,4,10,1,2,9,6,11
+2,13,12,15,3,14,10,8,5,7,9,2,6,1,4,11

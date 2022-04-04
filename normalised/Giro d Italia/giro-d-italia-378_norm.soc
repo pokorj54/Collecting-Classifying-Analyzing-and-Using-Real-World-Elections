@@ -1,0 +1,30 @@
+15
+1, BORGHERESI SimoneMercatone Uno - Bianchi
+2, HERAS RobertoKelme - Costa Blanca
+3, FRUTTI MatteoLampre - Daikin - Colnago
+4, DOTTI FaustoLiquigas-Pata
+5, HERNANDEZ EduardoKelme - Costa Blanca
+6, CAMENZIND OscarLampre - Daikin - Colnago
+7, SIMONI GilbertoAlessio - Ballan
+8, CASAGRANDE FilippoVini Caldirola - Sidermec
+9, BLANCO SantiagoVitalicio Seguros - Grupo Generali
+10, PODENZANA MassimoMercatone Uno - Bianchi
+11, POZZI OscarRiso Scotti - Vinavil
+12, BERZIN EvgeniAmica Chips - Costa de Almeria
+13, SHEFER AlexandreRiso Scotti - Vinavil
+14, INDURAIN PrudencioVitalicio Seguros - Grupo Generali
+15, SCIREA MarioSaeco - Cannondale
+30,30,13
+3,9,6,10,1,13,7,2,14,11,4,8,15,12,5,3
+1,6,13,14,15,12,2,11,7,9,10,5,4,8,1,3
+3,14,6,13,11,7,3,15,9,2,10,4,1,12,5,8
+3,9,6,13,4,7,11,14,15,2,10,12,3,5,1,8
+1,6,8,2,10,7,13,9,12,11,14,15,1,3,4,5
+3,6,14,7,13,2,3,11,9,10,15,5,4,12,1,8
+1,6,2,11,12,9,13,14,10,7,1,5,4,3,8,15
+3,3,2,6,15,13,14,10,9,7,1,11,8,5,12,4
+2,6,9,14,7,5,13,10,15,12,8,2,4,11,1,3
+5,6,2,13,7,9,10,1,12,14,4,3,8,15,5,11
+3,7,6,9,13,2,10,12,1,11,8,4,14,5,15,3
+1,6,13,12,8,14,15,4,9,11,7,10,1,2,3,5
+1,14,6,11,13,12,9,7,10,1,15,2,8,3,4,5

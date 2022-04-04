@@ -1,0 +1,24 @@
+15
+1,Sacred Heart
+2,Mississippi St
+3,New Mexico
+4,Evansville
+5,Manhattan
+6,Notre Dame
+7,Florida A&M
+8,Oklahoma St
+9,East Carolina
+10,N Kentucky
+11,Ohio
+12,CS Fullerton
+13,Boston College
+14,LIU Brooklyn
+15,Oregon St
+30,30,7
+10,15,12,2,8,3,9,13,6,11,7,10,4,1,14,5
+8,15,2,12,8,9,3,13,6,11,10,7,4,1,14,5
+2,15,12,2,3,8,9,11,13,7,6,10,14,1,5,4
+4,15,12,8,3,2,9,6,13,11,7,10,4,1,5,14
+3,15,12,8,2,3,9,6,13,7,11,10,1,4,14,5
+2,15,12,8,2,9,3,13,6,11,7,10,4,1,14,5
+1,15,2,12,8,3,9,13,6,7,11,10,1,14,4,5

@@ -1,0 +1,34 @@
+15
+1, SUNDERLAND DylanNTT Pro Cycling
+2, BATTAGLIN EnricoBahrain - McLaren
+3, SERRY PieterDeceuninck - Quick Step
+4, BILBAO PelloBahrain - McLaren
+5, MATHIS MarcoCofidis
+6, HAGA ChadTeam Sunweb
+7, ROSSKOPF JoeyCCC Team
+8, GREGAARD JonasAstana Pro Team
+9, FUGLSANG JakobAstana Pro Team
+10, PUCCIO SalvatoreINEOS Grenadiers
+11, POZZOVIVO DomenicoNTT Pro Cycling
+12, MORTON LachlanEF Pro Cycling
+13, RUBIO Einer AugustoMovistar Team
+14, VILLELLA DavideMovistar Team
+15, VIVIANI EliaCofidis
+30,30,17
+2,15,2,4,11,10,9,7,6,14,13,8,1,12,3,5
+3,2,9,4,11,14,13,7,3,8,6,1,10,5,12,15
+3,10,7,15,9,5,4,14,1,2,11,6,3,8,13,12
+1,14,4,9,11,8,3,2,6,10,12,1,5,15,7,13
+3,2,15,11,4,9,10,7,5,6,14,13,3,12,8,1
+1,12,5,15,9,4,11,6,7,10,1,3,2,13,14,8
+1,13,4,11,3,9,14,7,10,15,2,1,6,8,5,12
+1,2,10,7,13,9,4,11,8,3,6,5,1,15,14,12
+1,7,4,11,9,2,3,6,5,15,14,10,13,1,8,12
+2,6,7,11,4,10,9,3,2,15,1,14,8,5,13,12
+2,6,3,4,12,5,11,7,10,9,8,2,13,15,1,14
+1,4,9,11,13,14,8,3,10,6,2,1,7,5,15,12
+3,9,11,4,14,2,3,8,6,13,10,15,7,12,5,1
+1,9,4,11,15,10,2,14,8,3,13,7,1,12,6,5
+2,4,9,11,14,7,3,13,2,15,8,12,6,1,5,10
+2,4,9,11,3,13,2,14,10,6,8,7,12,5,15,1
+1,11,4,9,14,8,3,1,13,6,7,10,2,5,15,12

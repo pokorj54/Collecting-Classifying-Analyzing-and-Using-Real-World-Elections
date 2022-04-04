@@ -1,0 +1,30 @@
+15
+1,Stanford University
+2,Osaka University
+3,University of Victoria
+4,Princeton University
+5,Cardiff University
+6,Laval University
+7,Lund University
+8,University of Bremen
+9,University of Stuttgart
+10,Georgetown University
+11,University of Sydney
+12,Kyoto University
+13,Indian Institute of Science
+14,Ghent University
+15,Cornell University
+30,30,13
+4,1,4,15,12,11,14,7,2,13,3,5,6,10,8,9
+3,1,15,12,2,11,14,10,6,5,4,13,9,8,3,7
+1,1,15,12,11,2,4,14,7,5,6,10,13,3,9,8
+5,4,1,15,12,5,14,2,7,11,6,9,3,10,13,8
+2,1,4,15,12,11,2,10,14,6,8,7,13,9,5,3
+2,14,4,10,2,12,11,1,6,9,8,13,5,15,7,3
+2,1,4,15,11,7,14,12,5,2,6,3,10,8,9,13
+5,1,15,4,12,7,2,11,14,5,6,10,3,9,13,8
+1,1,4,12,15,10,2,9,11,5,6,14,13,7,3,8
+1,12,1,2,13,4,10,15,7,5,6,11,3,8,14,9
+2,1,15,4,12,2,11,7,14,5,6,8,10,3,9,13
+1,4,1,15,12,2,5,14,11,7,10,6,9,3,13,8
+1,4,1,15,12,2,9,11,14,7,10,6,5,3,13,8

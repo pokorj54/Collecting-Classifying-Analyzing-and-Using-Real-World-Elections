@@ -1,0 +1,25 @@
+13
+1,Paige VanZant
+2,Jessica Penne
+3,Tecia Torres
+4,Felice Herrig
+5,Joanne Calderwood
+6,Carla Esparza
+7,Rose Namajunas
+8,Claudia Gadelha
+9,Joanna Jedrzejczyk
+10,Juliana Lima
+11,Maryna Moroz
+12,Randa Markos
+13,Michelle Waterson
+16,16,10
+1,9,6,8,7,2,3,12,11,1,5,4,10,13
+1,9,6,8,2,7,3,12,11,1,5,13,4,10
+2,9,8,6,7,2,3,12,11,1,5,13,4,10
+1,9,8,6,7,2,3,12,1,11,5,13,4,10
+1,9,8,6,7,2,3,12,1,5,11,13,10,4
+3,9,8,6,2,7,3,1,12,5,11,13,4,10
+3,9,8,6,7,2,3,1,12,5,11,13,10,4
+2,9,8,6,7,2,3,1,12,5,13,11,10,4
+1,9,8,6,7,3,2,12,1,5,11,13,10,4
+1,9,8,6,7,3,2,1,5,12,11,13,10,4

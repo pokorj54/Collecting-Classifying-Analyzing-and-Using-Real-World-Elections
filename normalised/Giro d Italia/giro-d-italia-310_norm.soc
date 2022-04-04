@@ -1,0 +1,32 @@
+15
+1, TOSATTO MatteoFassa Bortolo
+2, ZIEGLER ThomasGerolsteiner
+3, SCHNYDER PhilippeColombia - Selle Italia
+4, ROGINA RadoslavTenax
+5, VERHEYEN GeertChocolade Jacques - Wincor Nixdorf
+6, NAUDUŽS AndrisDomina Vacanze
+7, POZZI OscarTenax
+8, MERVAR BoštjanFormaggi Pinzolo Fiavè
+9, ANDRIOTTO DarioVini Caldirola - Nobili Rubinetterie
+10, GARDEYN GorikLotto - Domo
+11, FURLAN AngeloAlessio - Bianchi
+12, LODA NicolaTenax
+13, LAVERDE Luis FelipeFormaggi Pinzolo Fiavè
+14, ASTARLOA IgorLampre
+15, STEEGMANS GertLotto - Domo
+30,30,15
+1,6,11,8,12,4,9,13,10,14,5,2,7,1,3,15
+2,6,12,13,2,5,14,1,11,4,9,8,10,7,3,15
+2,11,6,12,4,14,13,8,10,9,1,5,7,15,3,2
+3,13,2,14,9,7,11,12,1,10,3,5,4,15,8,6
+5,2,13,11,5,9,1,6,15,3,7,8,12,14,4,10
+2,11,4,13,14,12,8,2,5,10,15,9,3,6,1,7
+2,14,1,12,5,4,13,3,2,8,9,7,6,10,11,15
+1,13,5,4,14,2,12,7,9,1,6,3,10,8,15,11
+3,13,14,12,7,9,5,4,10,11,6,2,8,1,3,15
+2,6,12,14,8,10,4,5,13,11,9,2,15,3,1,7
+1,11,6,12,4,5,14,13,8,2,10,3,1,9,15,7
+3,11,10,6,12,1,9,8,5,13,15,14,2,3,4,7
+1,6,12,11,10,8,5,13,2,14,3,4,1,7,9,15
+1,14,2,12,10,13,5,9,4,11,15,1,7,8,6,3
+1,13,5,7,12,2,14,4,9,1,10,6,11,15,8,3

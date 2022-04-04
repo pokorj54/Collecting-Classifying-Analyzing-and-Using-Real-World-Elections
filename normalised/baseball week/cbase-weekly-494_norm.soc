@@ -1,0 +1,24 @@
+15
+1,MD E Shore
+2,Northeastern
+3,FL Gulf Coast
+4,Mississippi St
+5,MS Valley St
+6,Bethune-Cookman
+7,Quinnipiac
+8,McNeese St
+9,William & Mary
+10,Connecticut
+11,Air Force
+12,Tulane
+13,Louisiana
+14,S Dakota St
+15,St Peter's
+30,30,7
+10,4,8,13,10,3,12,6,9,2,11,14,7,1,5,15
+2,4,8,13,3,12,10,11,6,9,2,14,7,5,1,15
+7,8,4,13,10,3,12,6,9,11,2,14,7,1,5,15
+4,4,8,10,13,3,6,12,9,2,11,14,7,1,5,15
+2,4,8,13,10,12,3,9,6,2,11,14,7,1,5,15
+1,4,8,13,3,10,12,6,9,2,11,14,7,5,1,15
+4,8,13,4,10,3,6,2,12,9,11,14,7,1,5,15

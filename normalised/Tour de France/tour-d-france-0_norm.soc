@@ -1,0 +1,33 @@
+15
+1, VOECKLER ThomasBouygues Telecom
+2, RIBLON ChristopheAG2R La Mondiale
+3, CIOLEK GeraldTeam Columbia
+4, KREUZIGER RomanLiquigas
+5, ASTARLOZA MikelEuskaltel - Euskadi
+6, LELAY DavidAgritubel
+7, VERDUGO GorkaEuskaltel - Euskadi
+8, ARROYO DavidCaisse d'Epargne
+9, CHAVANEL SylvainCofidis
+10, HUNTER RobertBarloworld
+11, TSCHOPP JohannBouygues Telecom
+12, TANKINK BramRabobank ProTeam
+13, O'GRADY StuartCSC ProTeam
+14, EISEL BernhardTeam Columbia
+15, DUMOULIN SamuelCofidis
+30,30,16
+1,10,14,3,9,4,12,13,5,1,7,6,15,8,2,11
+4,3,10,12,13,5,4,15,7,9,11,1,14,2,6,8
+2,5,4,7,12,9,3,10,13,6,1,11,8,14,15,2
+2,10,13,14,3,12,5,4,6,15,9,8,2,1,11,7
+2,3,10,2,15,5,8,13,12,6,1,7,4,11,9,14
+3,9,2,5,4,10,1,7,12,6,8,13,14,3,15,11
+1,10,4,12,9,5,3,13,8,2,1,14,6,11,15,7
+1,9,4,13,2,12,7,6,5,8,3,10,14,15,11,1
+3,12,9,5,4,8,11,1,2,6,14,7,3,10,13,15
+2,15,10,5,13,1,14,9,3,4,7,11,12,6,8,2
+2,3,4,15,5,8,6,9,10,13,11,7,12,2,1,14
+2,4,5,7,11,1,6,12,8,9,14,13,10,2,15,3
+2,4,5,11,8,6,12,9,3,13,7,10,2,15,1,14
+1,8,11,4,9,5,1,6,7,12,15,13,14,10,2,3
+1,5,15,4,10,2,9,12,6,13,7,8,11,14,3,1
+1,5,4,8,12,6,9,11,10,13,2,15,7,3,1,14

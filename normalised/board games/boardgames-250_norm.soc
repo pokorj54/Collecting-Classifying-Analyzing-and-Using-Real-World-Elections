@@ -1,0 +1,27 @@
+15
+1,Money!
+2,Guildhall: Job Faire
+3,Empires: Age of Discovery
+4,The Voyages of Marco Polo
+5,Jaipur
+6,Summoner Wars: Phoenix Elves vs Tundra Orcs
+7,Wings of War: Watch Your Back!
+8,Snake Oil
+9,Imperial
+10,Coup
+11,Lorenzo il Magnifico
+12,The Lord of the Rings: The Card Game
+13,Castaways
+14,Agricola: All Creatures Big and Small
+15,Pastiche
+30,30,10
+9,12,5,7,13,15,8,2,1,9,14,4,10,3,6,11
+4,12,5,13,7,15,8,2,1,9,14,4,10,3,6,11
+3,11,12,5,13,7,15,8,2,1,9,14,4,10,3,6
+1,12,5,13,7,15,8,11,2,9,1,14,10,4,6,3
+6,12,5,7,13,8,15,2,1,9,14,10,4,3,6,11
+1,12,5,7,13,15,8,2,1,9,14,10,4,3,6,11
+2,12,11,5,13,7,15,8,2,9,1,14,4,10,3,6
+2,12,5,13,7,11,15,8,2,9,1,14,10,4,6,3
+1,12,5,13,11,7,15,8,2,9,1,14,4,10,6,3
+1,12,5,13,11,7,15,8,2,9,1,14,10,4,6,3

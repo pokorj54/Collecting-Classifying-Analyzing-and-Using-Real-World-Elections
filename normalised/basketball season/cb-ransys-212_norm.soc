@@ -1,0 +1,23 @@
+15
+1,Alabama A&M
+2,Texas Tech
+3,Bucknell
+4,Belmont
+5,Norfolk St
+6,Col Charleston
+7,Temple
+8,Presbyterian
+9,Dayton
+10,Richmond
+11,N Dakota St
+12,McNeese St
+13,S Carolina St
+14,Seton Hall
+15,St Joseph's PA
+30,30,6
+8,2,14,4,3,7,6,9,15,11,10,12,5,8,13,1
+4,2,14,3,4,6,7,15,9,11,10,5,12,8,13,1
+10,2,14,4,3,7,6,15,9,11,10,5,12,8,13,1
+3,2,14,4,3,7,6,15,9,11,10,12,5,8,13,1
+3,2,14,3,4,7,15,9,6,11,10,12,5,8,1,13
+2,2,14,4,7,3,15,9,6,11,10,12,5,8,13,1

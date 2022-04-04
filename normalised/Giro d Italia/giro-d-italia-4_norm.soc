@@ -1,0 +1,31 @@
+15
+1, HAMBURGER BoIndex - Alexia Alluminio
+2, DE JONGH StevenRabobank ProTeam
+3, COLOMBO GabrieleAcqua & Sapone
+4, TONKOV PavelLampre - Daikin
+5, GASPERONI CristianAcqua & Sapone
+6, KONYCHEV DmitriFassa Bortolo
+7, MANZONI MarioIndex - Alexia Alluminio
+8, DE PAOLI DanieleAlessio
+9, MARICHAL ThierryLotto - Adecco
+10, MORENI CristianAlessio
+11, CEREZO Francisco JavierCSC ProTeam - Tiscali
+12, KHALILOV MikhayloColombia - Selle Italia 
+13, DI BIASE MorenoFormaggi Trentini
+14, TRENTI GuidoAcqua & Sapone
+15, MESA Hector OrlandoFormaggi Trentini
+30,30,14
+1,8,4,10,15,1,11,6,9,2,5,12,14,3,13,7
+2,12,8,10,4,11,6,1,14,2,3,9,5,7,13,15
+6,10,4,8,15,11,1,9,2,13,6,3,5,14,7,12
+2,10,4,8,12,9,2,5,6,11,3,1,14,13,15,7
+2,12,4,8,10,11,5,1,2,7,9,13,6,15,14,3
+2,10,4,8,1,15,11,2,7,12,6,9,14,3,5,13
+1,4,10,8,15,11,1,2,3,9,13,14,12,5,7,6
+1,2,13,7,14,12,8,3,6,11,1,4,15,10,5,9
+3,4,10,8,6,1,9,11,5,15,2,7,13,14,12,3
+3,12,2,13,8,6,11,10,4,14,3,9,7,15,5,1
+2,10,8,4,11,6,1,15,2,9,5,7,13,3,14,12
+3,10,13,12,2,11,14,8,7,4,15,1,9,5,3,6
+1,12,8,4,2,10,11,1,9,5,14,15,13,3,7,6
+1,12,2,14,8,10,3,11,1,4,9,13,5,15,7,6

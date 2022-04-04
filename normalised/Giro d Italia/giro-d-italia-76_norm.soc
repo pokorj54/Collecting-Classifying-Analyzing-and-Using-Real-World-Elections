@@ -1,0 +1,30 @@
+15
+1, REBELLIN DavidePolti
+2, MAGNANI MarcoCantina Tollo - Alexia Alluminio
+3, KONYCHEV DmitriMercatone Uno
+4, STRAZZER MassimoCantina Tollo - Alexia Alluminio
+5, SGAMBELLURI RobertoBrescialat
+6, FINESSO StefanoRos Mary - Amica Chips
+7, LODA NicolaBallan
+8, JEKER FabianFestina - Lotus
+9, COLONNA FedericoAsics - CGA
+10, FERRIGATO AndreaVitalicio Seguros
+11, GUERINI GiuseppePolti
+12, RAIMONDI GiancarloBrescialat
+13, CALCATERRA GiuseppeSaeco Macchine da Caffe' - Cannondale
+14, PIEPOLI LeonardoSaeco Macchine da Caffe' - Cannondale
+15, MICELI NicolaRiso Scotti - MG       
+30,30,13
+2,12,4,11,1,15,10,14,7,3,5,8,2,13,6,9
+5,11,1,2,15,8,14,5,6,10,7,3,12,13,4,9
+4,5,11,2,15,8,1,7,3,10,13,14,4,6,9,12
+2,10,3,1,5,11,2,14,15,7,6,13,12,9,4,8
+1,7,3,15,1,2,8,5,11,14,6,10,4,12,9,13
+4,5,8,11,9,14,1,15,2,10,12,4,3,7,13,6
+1,9,10,4,3,1,8,5,15,7,2,11,14,6,12,13
+3,4,7,9,10,12,15,3,5,11,1,14,2,8,13,6
+3,1,15,11,2,14,7,3,6,8,5,10,9,12,13,4
+1,10,7,8,11,5,15,2,14,1,6,4,12,9,13,3
+1,4,12,9,10,7,14,1,15,11,5,8,2,6,3,13
+2,7,1,5,11,8,2,15,14,3,13,4,10,12,9,6
+1,11,15,14,2,5,1,3,8,7,6,10,4,13,9,12

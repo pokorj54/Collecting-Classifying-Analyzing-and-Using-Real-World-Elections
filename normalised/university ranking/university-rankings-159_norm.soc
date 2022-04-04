@@ -1,0 +1,32 @@
+15
+1,University of Manitoba
+2,University College Cork
+3,Durham University
+4,Virginia Polytechnic Institute and State University
+5,University of Groningen
+6,Autonomous University of Madrid
+7,University of Maryland
+8,Pompeu Fabra University
+9,Rensselaer Polytechnic Institute
+10,Simon Fraser University
+11,University of Cambridge
+12,University of Turku
+13,University of Science and Technology of China
+14,Duke University
+15,Georgetown University
+30,30,15
+3,11,7,14,3,1,5,15,13,4,9,6,10,8,12,2
+2,11,14,7,5,13,4,6,3,1,12,10,15,8,2,9
+4,11,7,14,9,4,5,13,6,3,8,10,15,1,12,2
+1,14,5,15,13,11,9,2,1,4,10,8,3,7,6,12
+3,11,3,2,8,10,5,14,6,12,7,1,15,9,4,13
+2,11,14,7,5,15,3,13,1,6,4,9,8,10,12,2
+2,11,14,7,5,13,4,6,3,1,10,15,12,8,9,2
+2,11,14,5,3,4,7,1,10,8,15,13,9,2,12,6
+3,14,11,15,1,7,4,2,9,5,10,6,13,3,12,8
+1,11,14,7,5,8,3,6,4,13,10,1,12,15,9,2
+2,11,14,7,5,8,3,13,10,9,4,6,12,1,15,2
+2,11,14,7,5,9,3,1,4,15,6,13,10,2,8,12
+1,14,11,3,8,7,13,5,9,10,15,6,2,1,12,4
+1,14,13,7,15,11,6,12,9,3,8,4,2,5,1,10
+1,11,14,15,4,3,5,13,7,1,9,6,2,8,10,12

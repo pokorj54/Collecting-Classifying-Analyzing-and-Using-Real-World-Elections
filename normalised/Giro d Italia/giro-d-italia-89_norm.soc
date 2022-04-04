@@ -1,0 +1,33 @@
+15
+1, BAUMANN EricT-Mobile Team
+2, BELLI WladimirDomina Vacanze
+3, TAULER ToniIlles Balears - Caisse d'Epargne
+4, SCARSELLI LeonardoColombia - Selle Italia
+5, ENGELS AddyQuickstep - Innergetic
+6, CELESTINO MirkoDomina Vacanze
+7, TONTI AndreaLampre-Caffita
+8, SCHNYDER PhilippeColombia - Selle Italia
+9, GRILLO ParideCeramica Panaria - Navigare
+10, BARRY MichaelDiscovery Channel 
+11, BASSO IvanCSC ProTeam
+12, DEKKER ThomasRabobank ProTeam
+13, BRANDT ChristopheDavitamon - Lotto
+14, SCHMITZ BramT-Mobile Team
+15, SIMONI GilbertoLampre-Caffita
+30,30,16
+1,9,8,13,6,7,11,10,2,15,5,4,3,12,1,14
+3,9,1,6,7,2,11,10,13,15,5,4,12,3,8,14
+2,6,13,15,11,7,2,5,10,9,1,14,8,3,4,12
+1,11,12,2,13,15,6,7,14,5,1,10,8,3,4,9
+2,9,6,13,7,15,2,10,11,5,1,4,3,12,14,8
+4,11,15,12,13,5,14,2,3,10,1,4,9,6,7,8
+3,11,15,13,6,7,12,14,2,3,4,10,8,5,1,9
+1,6,11,15,2,7,5,14,13,12,3,4,1,8,9,10
+1,6,15,11,7,2,13,9,10,5,8,1,12,4,3,14
+2,15,2,12,11,7,14,10,4,9,3,13,8,1,5,6
+3,15,2,6,13,7,5,1,9,11,4,14,3,10,12,8
+2,2,15,11,6,7,12,13,14,10,5,4,8,3,1,9
+1,13,5,1,10,15,6,7,4,3,14,8,2,11,12,9
+1,9,12,15,11,1,6,13,10,14,2,4,8,3,5,7
+2,11,13,15,7,6,2,5,10,3,14,4,8,12,1,9
+1,6,13,15,11,2,7,12,9,4,3,10,14,8,5,1

@@ -1,0 +1,31 @@
+15
+1, TAMOURIDIS IoannisEuskaltel - Euskadi
+2, KEUKELEIRE JensOrica GreenEDGE
+3, CUMMINGS SteveBMC Racing Team
+4, LUDVIGSSON TobiasTeam Argos - Shimano
+5, APPOLLONIO DavideAG2R La Mondiale
+6, BAK Lars YttingLotto Belisol Team
+7, STETINA PeterGarmin Sharp
+8, FELLINE FabioAndroni Giocattoli - Venezuela
+9, VEUCHELEN FrederikVacansoleil - DCM
+10, KRUIJSWIJK StevenBlanco Pro Cycling Team
+11, COLBRELLI SonnyBardiani Valvole - CSF Inox 
+12, MODOLO SachaBardiani Valvole - CSF Inox 
+13, CLEMENT StefBlanco Pro Cycling Team
+14, AZANZA JorgeEuskaltel - Euskadi
+15, GATTO OscarVini Fantini
+30,30,14
+1,2,9,14,8,11,13,12,6,1,4,7,10,15,3,5
+4,10,2,14,7,1,6,8,9,4,13,12,15,11,3,5
+6,11,8,10,7,14,13,6,3,15,2,4,9,1,12,5
+1,13,10,4,7,14,8,6,9,2,12,15,1,11,3,5
+5,13,4,2,10,3,14,12,7,8,9,15,11,6,1,5
+1,15,8,11,14,7,2,13,10,9,6,1,5,12,3,4
+2,8,10,7,14,9,13,2,4,6,11,12,15,3,1,5
+1,5,1,12,6,7,15,11,2,10,9,14,13,3,8,4
+1,12,1,5,11,8,2,6,15,10,14,13,4,9,3,7
+2,14,10,8,7,11,12,2,13,9,6,1,4,15,3,5
+2,10,13,15,14,7,2,9,12,4,11,6,1,8,3,5
+2,8,15,14,13,10,12,11,7,1,2,6,9,4,3,5
+1,2,10,9,7,14,6,8,11,12,15,1,5,4,13,3
+1,1,14,10,11,7,8,12,6,5,9,4,15,3,2,13

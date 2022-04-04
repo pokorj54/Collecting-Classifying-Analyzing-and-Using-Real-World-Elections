@@ -1,0 +1,32 @@
+15
+1,Aalborg University
+2,Tsinghua University
+3,Oregon State University
+4,Medical University of Vienna
+5,Monash University
+6,University of Antwerp
+7,Boston University
+8,Maastricht University
+9,University of Cincinnati
+10,Brown University
+11,Boston College
+12,Harvard University
+13,Sapienza University of Rome
+14,Nanyang Technological University
+15,University of Ferrara
+30,30,15
+2,12,7,10,5,3,2,13,9,4,6,8,14,11,15,1
+2,12,10,7,13,2,3,4,5,14,8,9,1,6,11,15
+3,4,7,12,10,2,9,1,14,3,11,8,15,6,13,5
+4,12,7,2,13,5,14,10,9,8,4,3,6,15,11,1
+2,12,10,13,9,3,5,7,2,14,8,4,6,11,15,1
+1,12,2,14,5,7,10,9,8,13,4,6,11,3,1,15
+3,12,13,10,7,2,14,5,9,8,3,4,6,11,15,1
+1,12,2,14,5,10,8,7,6,11,1,13,9,3,4,15
+2,14,6,2,8,5,11,12,1,15,9,13,4,10,3,7
+2,12,2,7,10,5,3,11,13,6,14,4,9,8,15,1
+2,12,7,10,9,13,2,8,5,4,14,3,6,15,11,1
+2,12,2,7,10,14,5,6,8,11,13,9,4,3,1,15
+1,12,11,7,10,14,4,8,9,6,5,2,15,3,13,1
+2,12,10,13,7,4,5,2,14,3,8,9,1,6,11,15
+1,12,10,7,2,9,11,5,13,3,1,14,8,4,6,15

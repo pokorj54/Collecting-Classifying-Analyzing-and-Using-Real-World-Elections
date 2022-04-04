@@ -1,0 +1,29 @@
+15
+1,Leiden University
+2,University of Rochester
+3,University of Southern California
+4,Nagoya University
+5,New York University
+6,University College London
+7,University of British Columbia
+8,University of Nottingham
+9,University of Sydney
+10,Vanderbilt University
+11,Georgia Institute of Technology
+12,University of Copenhagen
+13,McGill University
+14,Karolinska Institute
+15,Northwestern University
+30,30,12
+3,6,7,9,12,15,13,5,3,10,14,1,8,4,11,2
+3,5,6,10,14,3,15,8,7,12,4,1,2,13,9,11
+3,6,7,9,14,13,12,8,11,1,2,3,5,15,10,4
+5,15,3,6,5,11,13,7,10,2,9,14,4,1,12,8
+3,3,15,11,4,5,2,9,6,8,13,10,7,14,1,12
+1,13,6,5,2,14,12,4,1,15,7,10,9,11,8,3
+2,6,2,14,4,13,10,1,5,15,3,7,11,12,9,8
+1,6,5,15,10,7,13,3,14,1,12,2,9,4,11,8
+3,15,6,7,13,5,3,10,9,11,1,2,14,12,4,8
+2,15,2,5,11,6,10,7,3,13,14,12,1,8,9,4
+2,15,2,11,10,5,13,6,3,7,14,4,1,12,9,8
+2,15,5,6,3,7,14,10,13,1,2,11,12,8,9,4

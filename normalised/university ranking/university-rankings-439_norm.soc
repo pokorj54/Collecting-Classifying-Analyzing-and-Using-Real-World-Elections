@@ -1,0 +1,33 @@
+15
+1,University of St Andrews
+2,Ewha Womans University
+3,Iowa State University
+4,Brown University
+5,Newcastle University
+6,Dartmouth College
+7,University of Essex
+8,National Taiwan University
+9,University of Warwick
+10,Swinburne University of Technology
+11,University College Dublin
+12,University of Otago
+13,McGill University
+14,University of Maryland
+15,University of Valencia
+30,30,16
+3,14,13,4,3,11,6,9,8,5,15,12,1,7,10,2
+4,6,8,13,4,11,3,14,5,7,12,9,15,1,2,10
+5,13,14,7,6,4,8,1,9,3,5,12,10,11,15,2
+1,1,10,7,9,12,11,13,5,14,15,3,4,2,6,8
+1,9,14,4,13,3,8,6,5,12,10,11,1,15,2,7
+1,14,13,4,5,6,3,1,8,9,11,15,12,10,2,7
+4,6,2,13,14,1,4,9,11,3,5,12,15,8,10,7
+2,13,6,4,14,8,7,1,9,11,3,5,15,12,2,10
+1,13,4,8,9,6,14,3,1,11,7,5,12,2,10,15
+1,14,4,13,3,9,6,8,5,11,15,1,12,2,7,10
+2,13,8,4,9,14,1,6,3,5,7,11,12,2,10,15
+1,6,14,4,8,1,13,2,5,15,9,3,7,12,11,10
+1,13,14,4,6,5,3,8,11,15,1,9,12,2,10,7
+1,2,3,6,8,1,10,13,9,5,11,14,4,12,15,7
+1,4,14,1,6,13,15,3,5,9,11,12,2,10,8,7
+1,14,13,4,1,3,5,6,9,8,10,12,11,2,15,7

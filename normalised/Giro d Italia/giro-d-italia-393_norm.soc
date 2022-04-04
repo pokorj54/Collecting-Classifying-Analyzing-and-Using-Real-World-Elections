@@ -1,0 +1,32 @@
+15
+1, RENIER FranckBouygues Telecom
+2, VALENTIN TristanCofidis
+3, LUENGO AnttonEuskaltel - Euskadi
+4, BILEKA VolodymyrDiscovery Channel 
+5, RICHEZE MaximilianoCeramica Panaria - Navigare
+6, GUSTOV VolodymyrCSC ProTeam
+7, BALIANI FortunatoCeramica Panaria - Navigare
+8, WALKER WilliamRabobank ProTeam
+9, PEREZ CUAPIO Julio AlbertoCeramica Panaria - Navigare
+10, MURAVYEV DmitriyAstana
+11, PETACCHI AlessandroTeam Milram
+12, SERRANO RicardoTinkoff Credit Systems
+13, BRESCHEL MattiCSC ProTeam
+14, MARZANO MarcoLampre-Fondital
+15, TOSATTO MatteoQuickstep - Innergetic
+30,30,15
+2,9,6,12,10,8,4,7,14,3,13,15,1,11,2,5
+2,11,5,8,1,7,15,12,4,6,10,9,14,13,2,3
+3,14,7,8,4,10,3,12,6,5,9,15,11,1,13,2
+1,14,5,4,7,6,11,2,13,3,1,8,10,9,12,15
+3,11,5,13,15,4,2,7,10,6,8,1,9,14,3,12
+3,7,15,4,6,9,10,14,1,13,11,8,3,12,2,5
+1,9,14,7,10,8,4,6,5,3,11,15,13,12,1,2
+1,11,5,1,12,14,4,8,15,2,10,6,9,7,3,13
+4,9,7,10,14,4,15,6,8,5,12,11,13,2,3,1
+2,4,8,12,6,15,7,11,10,2,9,13,1,5,3,14
+1,8,9,10,7,4,14,15,1,6,3,5,13,11,2,12
+2,11,5,4,12,1,8,2,10,15,7,13,6,14,9,3
+2,11,5,4,12,1,10,8,2,14,6,7,15,9,13,3
+1,12,15,13,11,10,14,8,6,4,1,2,7,3,5,9
+2,11,5,1,4,13,8,14,2,10,7,9,12,6,15,3

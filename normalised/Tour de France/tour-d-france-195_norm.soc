@@ -1,0 +1,31 @@
+15
+1, NARDELLO DanieleTeam Telekom
+2, AZEVEDO José BentoO.N.C.E. - Eroski
+3, ALDAG RolfTeam Telekom
+4, SØRENSEN NickiTeam CSC
+5, CHRISTENSEN Bekim leifTeam CSC
+6, MERCADO Juan MigueliBanesto.com
+7, MIHOLJEVIĆ VladimirAlessio
+8, CASAR SandyFdjeux.com
+9, ANDRIOTTO DarioVini Calderola - So.di
+10, BLAUDZUN MichaelTeam CSC
+11, ZUBELDIA HaimarEuskaltel - Euskadi
+12, LIESE ThomasTeam Bianchi
+13, PAOLINI LucaQuickstep - Davitamon
+14, FORNACIARI PaoloSaeco
+15, CHAVANEL SylvainBrioches La Boulangère
+30,30,14
+2,11,6,15,2,1,10,7,4,13,8,9,14,12,3,5
+1,15,10,11,4,7,13,3,1,5,8,12,6,2,14,9
+2,13,8,10,7,11,15,1,4,2,14,3,6,12,9,5
+4,11,6,2,10,1,7,4,13,3,12,14,5,15,9,8
+3,11,1,4,10,2,3,13,7,5,6,14,12,8,15,9
+4,13,8,3,12,5,11,15,4,1,9,2,7,14,10,6
+3,3,15,11,2,6,8,4,1,10,7,5,13,12,14,9
+1,13,15,11,2,10,8,1,4,3,6,5,7,12,14,9
+2,13,11,2,7,3,15,8,9,10,14,1,4,6,12,5
+3,11,2,12,7,10,5,6,9,15,4,1,13,14,8,3
+1,1,14,7,13,5,11,15,10,3,4,2,9,12,6,8
+2,11,13,15,2,7,6,1,3,5,10,4,12,9,14,8
+1,13,3,5,4,10,11,7,1,15,12,2,9,8,6,14
+1,13,12,15,11,6,5,2,1,4,10,7,3,9,14,8

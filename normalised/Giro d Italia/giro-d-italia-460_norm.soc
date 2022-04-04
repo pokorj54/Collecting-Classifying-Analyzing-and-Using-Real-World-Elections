@@ -1,0 +1,31 @@
+15
+1, ZANOTTI MarcoLiquigas - Pata
+2, CATTAI StefanoLiquigas - Pata
+3, KONYCHEV DmitriFassa Bortolo
+4, BORGHERESI SimoneMercatone Uno - Albacom
+5, SIMONI GilbertoLampre - Daikin
+6, BLIJLEVENS JeroenPolti
+7, SIMEONI FilippoAmica Chips - Tacconi Sport 
+8, MERCKX AxelMapei - Quickstep
+9, DONATI MassimoVini Caldirola - Sidermec
+10, AGGIANO ElioVitalicio Seguros - Grupo Generali
+11, DUMA VladimirPanaria - Fiordo
+12, RODRIGUES Orlando SergioBanesto
+13, CASAGRANDE FilippoVini Caldirola - Sidermec
+14, PANTANI MarcoMercatone Uno - Albacom
+15, GOMEZ Jose JavierKelme - Costa Blanca
+30,30,14
+2,6,11,8,2,12,7,5,13,1,9,14,3,15,10,4
+3,3,10,1,14,8,5,2,7,12,15,9,11,13,4,6
+2,5,11,15,8,14,2,12,10,3,9,4,13,6,7,1
+3,5,8,14,15,11,2,9,12,4,6,1,10,3,13,7
+1,11,5,13,8,2,9,15,4,10,12,6,14,1,3,7
+2,3,6,11,1,14,8,12,5,2,9,13,15,7,4,10
+1,8,13,5,9,14,3,11,12,15,2,1,6,7,10,4
+4,5,15,2,8,14,3,11,7,10,13,12,9,6,1,4
+3,1,6,3,11,8,12,5,2,14,13,9,7,10,15,4
+1,11,3,1,8,14,5,2,13,9,12,6,15,10,7,4
+2,3,13,12,10,9,5,2,8,15,14,11,4,1,7,6
+1,8,13,11,5,14,9,2,15,3,10,12,7,1,6,4
+4,3,6,1,11,14,5,2,9,10,8,12,15,7,13,4
+1,5,15,8,2,11,6,14,12,10,3,9,1,13,7,4

@@ -1,0 +1,29 @@
+15
+1, GUSEV VladimirAstana
+2, VELO MarcoMilram
+3, PELLIZOTTI FrancoLiquigas
+4, MARTIN TonyTeam High Road
+5, CARLSTRÃM KjellLiquigas
+6, VOIGT JensCSC ProTeam
+7, ONGARATO AlbertoMilram
+8, AGIRRE JosuEuskaltel - Euskadi
+9, CONTADOR AlbertoAstana
+10, BALDATO FabioLampre
+11, MARTENS PaulRabobank ProTeam
+12, PEREZ CUAPIO Julio AlbertoCSF Group - Navigare
+13, TONTI AndreaQuickstep - Innergetic
+14, THOMAS GeraintBarloworld
+15, DALL'ANTONIA TizianoCSF Group - Navigare
+30,30,12
+2,2,3,14,7,4,5,9,10,6,13,1,15,11,12,8
+3,9,3,6,12,13,1,10,5,2,14,4,11,15,8,7
+3,3,9,13,1,2,11,6,15,7,4,12,14,10,8,5
+4,3,9,13,6,1,2,5,8,14,12,11,7,15,4,10
+2,3,9,6,13,11,2,10,5,12,15,1,4,14,8,7
+2,3,9,13,1,11,10,14,2,15,6,4,8,12,7,5
+3,4,2,13,7,3,1,6,9,11,10,15,12,14,8,5
+2,4,1,6,9,14,11,3,15,13,5,2,8,10,7,12
+4,15,4,9,3,14,13,6,10,2,1,7,11,12,8,5
+3,9,3,1,12,13,6,2,5,8,11,15,7,14,10,4
+1,11,9,13,3,2,1,6,7,12,4,15,8,14,10,5
+1,9,1,3,4,13,6,11,14,15,10,2,8,5,12,7

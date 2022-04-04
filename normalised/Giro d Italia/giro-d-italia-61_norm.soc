@@ -1,0 +1,31 @@
+15
+1, GOUROV MaximPro Team Astana
+2, SZMYD SylwesterLiquigas - Cannondale
+3, ARAMENDIA JavierEuskaltel - Euskadi
+4, NORDHAUG Lars PetterSky Procycling
+5, PARDILLA SergioMovistar Team
+6, TOSATTO MatteoSaxo Bank - Sungard
+7, DE GREEF FrancisOmega Pharma-Lotto 
+8, VAN EMDEN JosRabobank Cycling Team
+9, BARRY MichaelSky Procycling
+10, BEYER ChadBMC Racing Team
+11, NIEVE MikelEuskaltel - Euskadi
+12, MARZOLI RuggeroAcqua & Sapone
+13, AZANZA JorgeEuskaltel - Euskadi
+14, PASAMONTES LuisMovistar Team
+15, SABATINI FabioLiquigas - Cannondale
+30,30,14
+5,15,9,6,12,7,1,14,10,13,8,11,3,5,2,4
+5,15,13,11,9,12,5,3,7,14,2,6,10,4,1,8
+4,11,5,7,4,9,14,13,1,12,15,10,2,6,8,3
+1,11,3,9,14,13,15,7,5,12,1,6,4,2,10,8
+2,7,11,14,13,12,9,15,4,6,2,5,1,10,3,8
+2,11,7,14,5,13,3,12,9,15,4,2,10,1,6,8
+2,12,5,13,14,15,11,2,9,6,3,7,4,1,10,8
+1,11,5,13,9,4,7,14,15,2,10,6,3,1,8,12
+1,14,15,5,7,11,9,3,2,12,1,10,6,4,8,13
+1,14,7,9,6,11,4,5,2,1,13,15,10,12,3,8
+2,15,9,14,12,8,13,5,1,11,10,6,3,4,7,2
+2,11,7,2,4,9,14,5,15,13,6,3,1,10,12,8
+1,11,7,9,2,14,13,3,4,5,12,6,15,1,10,8
+1,11,5,2,14,4,7,13,9,15,1,10,6,3,8,12

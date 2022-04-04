@@ -1,0 +1,35 @@
+15
+1, KNEES ChristianTeam Sky
+2, LAMMERTINK MauritsTeam Katusha Alpecin
+3, DE MARCHI AlessandroBMC Racing Team
+4, SMITH DionWanty - Groupe Gobert
+5, MARTIN DanQuick-Step Floors
+6, MEINTJES LouisUAE Team Emirates
+7, CLARKE SimonCannondale-Drapac Pro Cycling Team
+8, CASTROVIEJO JonathanMovistar Team
+9, THWAITES ScottTeam Dimension Data
+10, VANSPEYBROUCK PieterWanty - Groupe Gobert
+11, VAN AVERMAET GregBMC Racing Team
+12, KREUZIGER RomanORICA-Scott
+13, IMPEY DarylORICA-Scott
+14, LANDA MikelTeam Sky
+15, DEGAND ThomasWanty - Groupe Gobert
+30,30,18
+2,13,8,3,11,5,1,12,7,2,14,6,15,10,4,9
+2,5,11,6,12,14,7,13,15,10,9,4,2,8,1,3
+1,13,14,8,6,5,12,15,10,11,9,3,1,7,2,4
+2,11,14,9,6,5,13,12,1,15,8,3,2,7,10,4
+3,14,5,6,12,10,15,13,8,9,11,1,4,2,7,3
+1,14,6,5,8,12,15,11,13,10,2,3,7,9,1,4
+2,14,5,6,8,11,12,15,3,2,9,13,10,1,4,7
+1,5,6,14,12,15,2,8,13,1,7,11,10,4,9,3
+1,12,6,5,14,15,8,7,11,2,10,13,9,3,4,1
+3,14,6,5,12,13,15,2,7,11,4,10,3,1,9,8
+3,2,3,5,6,14,12,13,15,11,8,4,9,1,7,10
+3,4,10,6,12,7,5,13,14,15,2,11,8,9,1,3
+1,11,5,7,14,6,13,4,15,12,9,2,3,8,1,10
+1,10,4,6,11,12,15,13,7,14,5,8,1,3,9,2
+1,10,4,11,5,7,13,14,6,12,15,8,2,3,9,1
+1,10,7,14,11,15,6,5,1,13,2,12,4,9,8,3
+1,10,13,11,12,6,5,14,15,7,4,2,9,8,1,3
+1,10,15,13,12,1,5,6,8,11,2,7,14,3,9,4

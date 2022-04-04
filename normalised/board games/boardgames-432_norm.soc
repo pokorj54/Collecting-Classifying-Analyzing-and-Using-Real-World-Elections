@@ -1,0 +1,27 @@
+15
+1,Circus Flohcati
+2,Last Night on Earth: Timber Peak
+3,Android: Netrunner
+4,The Pillars of the Earth
+5,Super Motherload
+6,Arkham Horror: The Card Game
+7,K2
+8,DOOM: The Board Game
+9,Up Front
+10,Pandemic
+11,Ribbit
+12,Catan
+13,T.I.M.E Stories
+14,The Voyages of Marco Polo
+15,Tikal II: The Lost Temple
+30,30,10
+5,8,2,11,1,15,6,4,12,14,3,9,7,5,10,13
+6,13,8,2,11,1,15,6,4,12,14,3,9,7,5,10
+4,8,2,11,1,15,6,4,12,14,9,3,7,5,13,10
+4,8,13,2,11,1,15,6,4,12,14,3,9,7,5,10
+3,8,2,11,1,15,6,4,12,9,14,3,7,5,13,10
+2,2,8,11,1,15,6,4,12,9,14,3,7,5,13,10
+1,6,4,12,9,14,3,7,5,13,2,8,10,11,1,15
+2,8,13,2,11,1,15,6,4,12,3,14,9,7,5,10
+2,8,13,2,11,1,15,6,4,12,3,9,14,7,5,10
+1,8,2,11,1,15,6,4,12,14,9,3,7,5,10,13

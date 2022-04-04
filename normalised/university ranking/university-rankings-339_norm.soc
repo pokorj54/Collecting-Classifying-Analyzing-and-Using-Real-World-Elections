@@ -1,0 +1,32 @@
+15
+1,National University of Singapore
+2,University of Milan
+3,York University
+4,University of Toronto
+5,Brandeis University
+6,University of Guelph
+7,Iowa State University
+8,University of Tasmania
+9,University of St Andrews
+10,University of Oxford
+11,National Taiwan University
+12,Hokkaido University
+13,University of Arizona
+14,University of Maryland
+15,Michigan State University
+30,30,15
+3,10,4,14,15,13,7,1,6,2,11,8,12,9,5,3
+2,10,4,1,11,15,13,14,7,9,12,3,5,6,2,8
+4,10,13,1,6,11,4,12,9,2,8,5,3,14,15,7
+2,4,10,1,11,14,13,15,2,12,7,9,6,3,8,5
+3,10,14,4,12,13,15,11,1,7,2,6,9,5,8,3
+2,10,5,4,14,9,13,15,7,1,2,3,8,11,6,12
+1,4,10,13,14,1,15,2,7,11,12,9,5,6,3,8
+1,10,4,14,5,13,7,12,2,11,1,15,9,6,3,8
+3,1,10,9,4,8,3,15,5,14,6,7,13,2,11,12
+1,12,14,10,11,5,13,9,1,15,7,4,8,2,6,3
+3,10,4,1,15,11,12,13,14,9,7,5,2,3,6,8
+2,10,5,14,4,13,15,11,9,2,12,7,1,6,3,8
+1,10,4,14,13,15,5,1,7,9,12,8,11,2,3,6
+1,10,4,13,14,15,1,5,12,7,2,9,11,8,6,3
+1,10,4,13,14,15,7,1,6,2,3,11,12,9,5,8

@@ -1,0 +1,22 @@
+15
+1,Pinkies
+2,Hazers
+3,Team Galactic
+4,Crazy Cat's Eyes
+5,Mellow Yellow
+6,Snowballs
+7,Balls of Chaos
+8,Savage Speeders
+9,Thunderbolts
+10,Raspberry Racers
+11,Midnight Wisps
+12,Oceanics
+13,O'rangers
+14,Team Momo
+15,Limers
+30,30,5
+3,7,8,11,9,10,1,12,14,5,3,15,13,2,4,6
+8,9,3,11,10,12,4,6,13,1,5,14,8,2,7,15
+8,12,2,8,6,7,13,1,11,5,15,4,3,14,10,9
+5,11,8,3,13,5,12,2,6,4,9,7,1,10,15,14
+6,7,2,4,13,9,5,1,6,10,3,12,14,11,15,8

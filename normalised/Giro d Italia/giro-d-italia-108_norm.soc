@@ -1,0 +1,31 @@
+15
+1, KESSLER MatthiasTeam Telekom
+2, FRIGO DarioTacconi Sport
+3, BRAMATI DavideMapei - Quickstep
+4, HIEKMANN TorstenTeam Telekom
+5, SASTRE CarlosCSC ProTeam - Tiscali
+6, CONTI RobertoAcqua & Sapone
+7, HONCHAR SerhiyFassa Bortolo
+8, ASTARLOA IgorSaeco - Longoni Sport
+9, COLLEONI MicheleTeam Colpack - Astro 
+10, GOTTI IvanAlessio
+11, HEPPNER JensTeam Telekom
+12, SAVOLDELLI PaoloIndex - Alexia Alluminio
+13, FARESIN GianniGerolsteiner
+14, APOLLONIO MassimoTacconi Sport
+15, VERHEYEN GeertRabobank ProTeam
+30,30,14
+3,11,2,7,1,12,13,5,4,15,8,9,6,14,10,3
+4,2,12,8,1,7,10,11,4,13,3,9,14,5,15,6
+1,1,8,5,2,7,9,10,11,3,14,15,4,13,12,6
+3,2,14,12,7,1,11,15,4,10,9,8,3,13,5,6
+2,12,11,7,10,2,13,1,8,3,4,14,15,9,5,6
+3,13,15,9,11,5,2,10,7,1,4,12,3,8,6,14
+2,8,14,2,12,11,1,10,15,3,13,7,6,5,4,9
+1,2,14,1,15,11,13,12,8,7,5,10,4,3,6,9
+2,11,12,13,1,4,8,2,7,10,5,15,3,9,14,6
+2,12,2,10,5,1,13,11,6,15,7,4,8,14,3,9
+2,2,10,12,11,1,15,13,7,5,9,8,6,4,3,14
+3,2,12,10,5,7,11,1,13,4,8,15,3,14,9,6
+1,7,2,12,10,11,3,4,13,1,8,15,6,9,5,14
+1,10,11,12,2,13,4,7,15,1,8,5,6,14,9,3

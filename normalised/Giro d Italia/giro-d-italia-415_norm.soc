@@ -1,0 +1,33 @@
+15
+1, PELLIZOTTI FrancoLiquigas
+2, CONTRINI DanieleTinkoff Credit Systems
+3, LE BOULANGER YoannBouygues Telecom
+4, SCHWAB HubertQuickstep - Innergetic
+5, TIRALONGO PaoloLampre-Fondital
+6, COMMESSO SalvatoreTinkoff Credit Systems
+7, CUNEGO DamianoLampre-Fondital
+8, MAZZANTI LucaCeramica Panaria - Navigare
+9, LLOYD MatthewPredictor - Lotto
+10, CIONI Dario DavidPredictor - Lotto
+11, BALIANI FortunatoCeramica Panaria - Navigare
+12, PAGOTO AndreaCeramica Panaria - Navigare
+13, VALENTIN TristanCofidis
+14, PICHOT AlexandreBouygues Telecom
+15, VAN DEN BROECK JurgenPredictor - Lotto
+30,30,16
+2,1,7,5,3,11,4,15,12,9,10,2,8,14,6,13
+2,11,7,1,5,8,10,3,6,14,13,12,2,9,15,4
+2,14,10,1,5,7,8,12,4,13,9,6,3,2,11,15
+1,7,1,11,10,5,3,8,4,6,9,12,14,2,15,13
+3,10,8,12,4,5,7,1,14,3,15,11,6,9,2,13
+1,14,5,7,8,1,10,13,15,6,4,3,12,9,2,11
+2,14,2,4,13,8,5,7,15,1,10,11,6,12,9,3
+4,7,1,8,5,10,3,4,9,11,15,6,2,14,12,13
+1,1,7,15,10,2,3,4,12,11,14,13,9,5,6,8
+2,7,8,9,6,1,11,10,3,5,14,13,2,4,15,12
+2,14,6,1,7,11,8,13,9,5,4,2,3,12,10,15
+1,4,2,11,5,7,1,8,9,12,15,10,13,6,3,14
+1,7,1,8,5,10,15,4,9,11,3,12,14,6,13,2
+2,14,10,7,5,4,1,8,15,13,3,11,9,12,2,6
+3,6,4,1,8,13,12,11,9,10,15,2,3,5,7,14
+1,7,8,6,5,11,3,15,9,10,12,4,1,13,2,14

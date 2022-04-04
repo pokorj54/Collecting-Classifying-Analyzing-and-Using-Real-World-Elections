@@ -1,0 +1,30 @@
+15
+1, SBARAGLI KristianTeam Dimension Data
+2, ALAFACI EugenioTrek - Segafredo
+3, GROßSCHARTNER FelixCCC Sprandi Polkowice 
+4, GONÇALVES JoséTeam Katusha Alpecin
+5, TEUNS DylanBMC Racing Team
+6, KEIZER MartijnTeam LottoNL-Jumbo
+7, SIUTSOU KanstantsinBahrain Merida Pro Cycling Team
+8, MARCATO MarcoUAE Team Emirates
+9, RAVASI EdwardUAE Team Emirates
+10, POLANC JanUAE Team Emirates
+11, VAN GARDEREN TejayBMC Racing Team
+12, MOHORIČ MatejUAE Team Emirates
+13, KIRYIENKA VasilTeam Sky
+14, KOREN KristijanCannondale-Drapac Pro Cycling Team
+15, ZAKARIN IlnurTeam Katusha Alpecin
+30,30,13
+4,15,10,11,3,7,9,5,6,4,12,2,1,13,14,8
+1,1,15,4,11,7,10,13,9,14,12,3,2,6,8,5
+3,15,10,7,9,4,13,8,3,11,6,5,1,14,12,2
+4,10,15,11,7,4,9,5,8,6,12,14,13,3,2,1
+3,11,15,7,10,4,5,3,6,8,1,9,14,12,13,2
+1,15,10,11,3,4,7,6,9,13,5,8,1,12,14,2
+2,13,11,15,10,7,14,4,12,6,1,8,2,9,5,3
+4,3,11,10,15,7,8,2,1,14,5,9,13,12,4,6
+1,10,7,4,14,15,12,11,2,1,13,6,5,3,9,8
+3,13,15,10,3,7,6,4,11,8,14,1,2,5,9,12
+1,13,11,4,6,15,10,14,12,8,9,5,2,7,1,3
+1,15,10,11,5,9,4,7,3,14,8,12,2,6,1,13
+2,15,10,5,7,11,9,13,6,1,8,12,3,14,4,2

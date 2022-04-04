@@ -1,0 +1,32 @@
+15
+1,Kyoto University
+2,University of Bristol
+3,University of Nottingham
+4,University of Arizona
+5,McGill University
+6,Osaka University
+7,University of Oslo
+8,Brown University
+9,University of Copenhagen
+10,University of Maryland
+11,Tel Aviv University
+12,Utrecht University
+13,University of Southern California
+14,Princeton University
+15,Leiden University
+30,30,15
+2,14,5,1,11,6,15,8,12,13,2,10,4,3,7,9
+3,14,10,13,1,8,5,12,4,2,15,6,9,3,11,7
+3,14,8,1,5,6,13,4,11,10,15,7,9,3,2,12
+1,14,13,10,1,4,5,6,12,2,8,11,15,7,9,3
+2,14,1,5,4,6,13,10,15,9,8,2,11,7,3,12
+1,14,1,8,5,6,10,15,11,12,13,4,7,9,3,2
+1,14,1,7,13,10,12,3,9,2,8,15,5,4,6,11
+2,5,9,2,3,7,12,15,14,13,10,8,11,4,1,6
+3,13,4,14,6,1,12,15,9,3,5,11,8,2,10,7
+2,14,1,7,6,10,11,5,9,13,8,15,2,3,4,12
+2,14,1,4,10,2,9,6,8,13,12,5,15,3,11,7
+3,14,1,5,13,6,8,11,15,4,2,12,10,3,9,7
+3,1,5,6,4,13,10,14,12,11,2,15,9,8,7,3
+1,1,9,5,6,13,10,7,4,11,15,12,3,2,14,8
+1,14,8,2,10,12,13,4,5,9,15,3,7,1,6,11

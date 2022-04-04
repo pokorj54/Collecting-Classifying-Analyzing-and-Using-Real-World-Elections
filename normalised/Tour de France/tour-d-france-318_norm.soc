@@ -1,0 +1,33 @@
+15
+1, TALABARDON YannickSaur - Sojasun
+2, DEVENYNS DriesQuickstep Cycling Team
+3, COYOT ArnaudSaur - Sojasun
+4, IGLINSKIY MaximPro Team Astana
+5, BARREDO CarlosRabobank Cycling Team
+6, CASAR SandyFDJ
+7, URTASUN PabloEuskaltel - Euskadi
+8, OSS DanielLiquigas - Cannondale
+9, TOSATTO MatteoSaxo Bank - Sungard
+10, VOIGT JensLeopard Trek
+11, ARROYO DavidMovistar Team
+12, ENGOULVENT JimmySaur - Sojasun
+13, BOUET MaximeAG2R La Mondiale
+14, CONTADOR AlbertoSaxo Bank - Sungard
+15, VICHOT ArthurFDJ
+30,30,16
+1,8,14,5,2,1,13,6,11,15,3,12,9,7,10,4
+1,8,5,14,2,13,6,10,15,11,9,7,1,12,4,3
+5,6,14,5,2,1,11,13,10,15,9,8,7,4,12,3
+3,14,2,5,6,13,1,15,10,8,3,9,4,11,7,12
+2,14,5,6,11,13,10,7,3,9,8,15,1,12,4,2
+2,8,14,5,1,13,6,10,2,4,3,7,11,9,15,12
+1,2,14,13,11,8,12,1,6,10,5,3,7,9,15,4
+3,14,6,11,1,13,10,5,2,15,12,8,9,4,3,7
+3,8,12,3,14,1,5,6,11,13,15,9,4,10,2,7
+1,8,12,4,3,2,1,9,14,6,15,11,10,7,5,13
+1,14,6,5,11,1,2,10,15,13,8,9,4,12,3,7
+1,4,14,11,2,7,5,13,10,1,15,6,8,12,3,9
+1,15,13,2,14,5,6,1,4,8,3,9,11,10,7,12
+1,4,14,6,1,10,5,2,13,11,9,12,3,8,15,7
+3,2,14,6,5,11,1,8,13,10,15,9,3,7,4,12
+1,14,5,7,15,9,1,10,8,3,12,6,4,13,11,2

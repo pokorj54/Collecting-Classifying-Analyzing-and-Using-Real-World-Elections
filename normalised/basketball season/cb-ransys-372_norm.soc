@@ -1,0 +1,22 @@
+15
+1,Utah
+2,Indiana
+3,Xavier
+4,Virginia
+5,USC
+6,Boston College
+7,Texas Tech
+8,Northwestern
+9,WKU
+10,Arkansas
+11,Murray St
+12,Kansas St
+13,Cincinnati
+14,Michigan St
+15,Tennessee
+30,30,5
+3,4,14,13,3,15,7,5,10,12,9,1,11,8,6,2
+5,4,14,13,7,3,15,10,5,12,1,9,2,11,8,6
+10,4,14,13,7,3,15,10,5,12,1,9,2,11,6,8
+5,4,14,15,13,3,7,5,10,12,9,11,1,8,6,2
+7,4,14,13,3,7,15,10,5,12,9,11,6,1,8,2

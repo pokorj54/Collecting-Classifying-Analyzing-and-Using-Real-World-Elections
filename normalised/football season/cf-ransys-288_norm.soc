@@ -1,0 +1,22 @@
+15
+1,Alabama
+2,South Carolina
+3,Oregon
+4,SMU
+5,Arizona St
+6,Kansas St
+7,Penn St
+8,Notre Dame
+9,Mississippi
+10,LSU
+11,Appalachian St
+12,Oklahoma St
+13,Cincinnati
+14,Wisconsin
+15,Navy
+30,30,5
+8,1,10,7,3,14,8,12,11,13,6,4,15,2,9,5
+4,1,10,7,14,3,8,12,11,15,6,13,5,4,9,2
+5,10,1,14,7,3,8,12,15,11,6,13,4,9,5,2
+7,10,1,14,3,7,8,11,12,15,4,13,6,9,5,2
+6,10,1,14,7,8,3,12,11,15,6,9,4,13,5,2

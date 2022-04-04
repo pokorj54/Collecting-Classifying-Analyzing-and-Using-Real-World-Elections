@@ -1,0 +1,29 @@
+15
+1,Dungeon Twister 2: Prison
+2,Marrakech
+3,Quests of Valeria
+4,Dinosaur Island
+5,Nightfall
+6,BattleCON: Devastation of Indines
+7,Legendary Encounters: An Alien Deck Building Game
+8,Flamme Rouge
+9,Pantheon
+10,Alien Frontiers
+11,Thunderstone Advance: Numenera
+12,Wildlife Safari
+13,Revolver
+14,Fire in the Lake
+15,Confusion:  Espionage and Deception in the Cold War
+30,30,12
+3,11,1,4,15,2,12,3,5,9,13,10,8,6,14,7
+2,4,11,1,2,15,3,12,5,13,9,10,8,6,14,7
+4,4,11,1,15,2,3,12,5,9,13,10,8,6,14,7
+1,7,4,11,2,1,15,3,12,5,9,13,8,10,6,14
+6,7,4,11,2,1,15,3,12,5,13,9,8,10,6,14
+1,11,4,1,15,2,12,3,5,9,13,10,8,6,14,7
+5,7,4,2,11,1,3,15,12,5,9,13,8,10,6,14
+1,4,11,1,15,2,3,12,5,13,9,10,8,6,14,7
+1,11,1,15,2,12,3,5,9,13,4,10,6,8,14,7
+3,11,1,15,2,12,5,3,9,13,10,4,6,8,14,7
+1,7,4,11,2,1,3,15,12,5,9,13,8,10,6,14
+2,11,1,15,2,12,5,3,9,13,10,6,4,8,14,7

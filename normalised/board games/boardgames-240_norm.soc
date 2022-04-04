@@ -1,0 +1,28 @@
+15
+1,Constantinopolis
+2,New Bedford
+3,Chronicle
+4,Magic: The Gathering
+5,Wildlife Safari
+6,Battle Line
+7,One Night Ultimate Werewolf
+8,Kemet
+9,Ascension: Darkness Unleashed
+10,Star Trek Panic
+11,Conflict of Heroes: Awakening the Bear!  Russia 1941-42
+12,Legend of the Five Rings
+13,The Grizzled
+14,Tyrants of the Underdark
+15,Cutthroat Caverns
+30,30,11
+3,8,2,12,15,10,5,4,3,9,1,14,6,13,7,11
+3,12,2,15,10,5,1,9,3,4,6,14,7,13,11,8
+4,2,12,15,10,5,9,3,1,4,6,14,13,7,11,8
+4,2,12,15,10,5,4,9,3,1,14,6,13,7,11,8
+6,2,12,15,10,5,1,9,3,4,6,14,13,7,11,8
+3,8,2,12,15,10,4,5,3,9,1,14,6,13,7,11
+1,2,12,15,10,5,9,1,4,3,6,14,13,7,11,8
+3,2,12,15,10,4,5,9,3,1,14,6,13,7,11,8
+1,2,12,15,10,5,3,9,1,4,6,14,13,7,11,8
+1,2,12,15,10,5,9,1,3,4,6,14,13,7,11,8
+1,2,12,15,10,5,1,9,3,4,6,14,7,13,11,8

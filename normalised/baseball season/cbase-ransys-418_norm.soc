@@ -1,0 +1,22 @@
+15
+1,St John's
+2,PFW
+3,Ga Southern
+4,Air Force
+5,Pepperdine
+6,Delaware St
+7,Utah Valley
+8,Rice
+9,Mississippi St
+10,Washington
+11,Ball St
+12,Lehigh
+13,McNeese St
+14,TAM C. Christi
+15,Dayton
+30,30,5
+7,8,10,1,5,3,9,7,13,11,14,4,15,12,2,6
+7,8,10,1,5,3,9,13,7,11,14,4,15,12,2,6
+8,8,10,3,1,5,9,13,7,11,14,4,15,12,2,6
+2,8,10,3,13,1,5,9,11,7,14,15,12,4,2,6
+6,8,10,3,1,5,9,13,11,7,14,15,4,12,2,6

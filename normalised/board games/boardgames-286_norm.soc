@@ -1,0 +1,24 @@
+15
+1,Roads & Boats
+2,Clash of Cultures
+3,20th Century
+4,Star Wars: The Card Game
+5,Revolution!
+6,Mysterium
+7,Exit: The Game  The Forgotten Island
+8,Gloom
+9,Mystic Vale
+10,The Duke
+11,King's Forge
+12,Potion Explosion
+13,Edel
+14,Kingdoms
+15,Ginkgopolis
+30,30,7
+12,7,5,14,3,13,8,11,6,2,1,9,15,12,10,4
+6,7,5,14,3,13,8,11,6,2,1,15,9,12,10,4
+6,7,5,14,3,13,11,8,6,2,1,15,9,12,10,4
+2,7,5,14,3,13,8,11,6,2,9,1,15,12,10,4
+1,5,7,14,3,13,11,8,6,2,1,15,9,12,10,4
+2,5,14,7,3,13,11,8,6,2,1,15,9,12,10,4
+1,6,2,1,15,9,12,10,4,5,14,7,3,13,11,8

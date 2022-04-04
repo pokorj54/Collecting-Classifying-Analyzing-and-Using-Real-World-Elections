@@ -1,0 +1,26 @@
+15
+1,Donald Cerrone
+2,Conor McGregor
+3,Gregor Gillespie
+4,Paul Felder
+5,Khabib Nurmagomedov
+6,Diego Ferreira
+7,Kevin Lee
+8,Beneil Dariush
+9,Islam Makhachev
+10,Dan Hooker
+11,Drew Dober
+12,Dustin Poirier
+13,Al Iaquinta
+14,Justin Gaethje
+15,Charles Oliveira
+30,30,9
+5,5,14,12,2,10,4,15,7,13,6,1,3,9,8,11
+1,5,14,12,10,2,15,4,6,13,7,8,9,3,11,1
+4,5,14,12,2,10,15,4,6,13,7,8,9,3,11,1
+2,5,14,12,2,10,15,4,6,13,7,8,9,3,1,11
+5,5,14,12,2,10,15,4,6,13,7,9,3,1,8,11
+3,5,14,12,2,10,15,4,6,7,13,9,3,1,11,8
+3,5,14,12,2,10,4,15,7,13,6,3,1,9,8,11
+5,5,14,12,2,10,15,4,6,7,13,8,9,3,1,11
+2,5,14,12,2,10,4,15,7,13,6,3,9,1,11,8

@@ -1,0 +1,29 @@
+15
+1, CASSANI EnricoPolti
+2, FAGNINI Gian MatteoSaeco - Cannondale
+3, ZINTCHENKO AndreiVitalicio Seguros - Grupo Generali
+4, TAFI AndreaMapei - Quickstep
+5, CLAVERO DanielVitalicio Seguros - Grupo Generali
+6, ARAZZI FrancescoAmica Chips - Costa de Almeria
+7, FORCONI RiccardoMercatone Uno - Bianchi
+8, EKIMOV ViatcheslavAmica Chips - Costa de Almeria
+9, GUIDI FabrizioPolti
+10, TETERIOUK AndreiLiquigas-Pata
+11, PADRNOS PavelLampre - Daikin - Colnago
+12, RODRIGUES Orlando SergioBanesto
+13, IVANOV RuslanLiquigas-Pata
+14, TRONCA AmilcareAmica Chips - Costa de Almeria
+15, LEONI EndrioLiquigas-Pata
+30,30,12
+2,9,15,10,12,5,4,11,2,3,14,1,8,7,13,6
+4,5,3,14,7,11,10,8,12,4,9,1,13,2,15,6
+3,6,15,9,2,3,12,11,4,5,8,1,10,14,7,13
+3,15,9,6,11,2,5,3,12,4,8,10,13,1,14,7
+2,9,2,5,3,8,12,1,14,4,15,11,7,13,10,6
+2,5,3,10,11,7,8,14,13,1,4,12,9,15,2,6
+2,5,3,10,11,8,13,7,12,2,1,9,14,4,15,6
+3,2,8,5,9,7,14,3,11,12,4,10,13,1,6,15
+2,15,9,6,12,3,13,4,11,14,7,1,5,8,10,2
+3,15,9,6,11,1,4,12,3,5,14,2,10,8,13,7
+3,10,3,5,11,7,14,1,9,12,4,8,13,6,15,2
+1,9,2,12,6,5,14,11,3,8,1,4,7,10,13,15

@@ -1,0 +1,33 @@
+15
+1, PREIDLER GeorgTeam Giant - Alpecin
+2, BERHANE NatnaelTeam Dimension Data
+3, PAUWELS SergeTeam Dimension Data
+4, JANSE VAN RENSBURG ReinardtTeam Dimension Data
+5, ROSA DiegoAstana Pro Team
+6, VAN AVERMAET GregBMC Racing Team
+7, DELAPLACE AnthonyFortuneo - Vital Concept
+8, GRMAY TsgabuLampre - Merida
+9, SAGAN PeterTinkoff
+10, GESCHKE SimonTeam Giant - Alpecin
+11, KANGERT TanelAstana Pro Team
+12, ARASHIRO YukiyaLampre - Merida
+13, TIMMER AlbertTeam Giant - Alpecin
+14, MATTHEWS MichaelORICA-BikeExchange
+15, GRIVKO AndreyAstana Pro Team
+30,30,16
+4,3,5,11,10,6,1,8,15,12,13,7,14,4,2,9
+3,5,11,7,10,1,13,9,14,3,6,8,12,15,4,2
+2,9,14,15,7,1,5,8,12,11,6,10,4,13,2,3
+3,6,11,10,5,3,1,7,8,15,2,4,12,13,14,9
+1,14,9,6,8,12,7,4,5,15,1,3,11,10,13,2
+1,9,4,6,15,1,5,11,7,10,2,3,8,14,12,13
+3,9,13,6,15,3,14,10,1,5,11,12,2,4,8,7
+2,9,14,12,3,5,11,6,7,10,15,1,2,8,4,13
+1,9,14,6,3,11,1,10,4,15,7,13,8,12,5,2
+2,7,15,1,5,11,9,6,10,4,2,3,8,14,13,12
+1,6,15,3,11,5,1,8,10,9,7,4,14,12,13,2
+1,9,14,4,15,5,12,7,3,11,1,6,13,8,2,10
+1,11,1,15,6,10,4,14,3,2,9,12,8,7,5,13
+2,5,2,3,11,8,9,1,10,15,7,12,14,4,13,6
+2,10,11,5,1,8,9,14,6,7,12,15,4,3,2,13
+1,9,14,6,10,5,4,8,11,1,15,12,7,3,13,2

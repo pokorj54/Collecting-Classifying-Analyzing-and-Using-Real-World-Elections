@@ -1,0 +1,42 @@
+34
+1,Michigan
+2,Texas
+3,Northwestern
+4,Syracuse
+5,Washington St
+6,Missouri
+7,Notre Dame
+8,Iowa
+9,Pittsburgh
+10,NC State
+11,Utah St
+12,Florida
+13,Oklahoma
+14,Washington
+15,UCF
+16,Mississippi St
+17,LSU
+18,Virginia
+19,Fresno St
+20,Iowa St
+21,Cincinnati
+22,Alabama
+23,Georgia
+24,Utah
+25,Kentucky
+26,Boise St
+27,Clemson
+28,Auburn
+29,Ohio St
+30,Penn St
+31,West Virginia
+32,Boston College
+33,Texas A&M
+34,Michigan St
+6,6,6
+1,22,27,17,7,1,23,13,5,25,29,12,15,31,30,24,8,2,16,4,33,10,32,19,20,18
+1,22,27,7,1,23,13,17,5,31,29,25,15,4,10,12,16,32,34,2,30,8,20,19,28,14
+1,22,27,7,1,23,13,17,5,31,29,15,4,12,30,2,20,25,14,24,32,16,3,11,21,26
+1,22,27,7,1,23,13,17,5,15,29,12,30,31,2,25,14,24,16,3,4,11,33,26,9,20
+1,22,27,7,23,13,29,1,15,12,17,14,30,5,2,25,31,24,16,33,4,3,26,20,6,19
+1,22,27,7,13,23,29,1,15,14,12,17,30,5,25,2,31,24,16,33,4,19,3,6,20,26

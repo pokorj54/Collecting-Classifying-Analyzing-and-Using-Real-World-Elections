@@ -1,0 +1,22 @@
+15
+1,ZhanGuo
+2,Cockroach Poker
+3,Colosseum
+4,Raiders of the North Sea
+5,Roll Player
+6,Mage Wars Arena
+7,Caylus
+8,Qwinto
+9,Fireteam Zero
+10,Carrom
+11,Quantum
+12,Pastiche
+13,Helios
+14,Space Empires: 4X
+15,Hammer of the Scots
+30,30,5
+16,2,8,9,10,12,13,5,6,15,3,11,14,1,7,4
+3,8,2,9,12,10,13,6,5,15,3,11,14,1,7,4
+4,8,2,9,12,10,13,6,5,15,3,11,1,14,7,4
+3,4,8,2,12,9,10,13,6,5,15,3,11,1,14,7
+4,2,8,9,10,12,13,5,6,15,3,14,11,1,7,4

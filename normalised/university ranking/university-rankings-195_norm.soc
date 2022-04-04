@@ -1,0 +1,33 @@
+15
+1,Kyoto University
+2,University of Oslo
+3,Brown University
+4,University of North Carolina at Chapel Hill
+5,New York University
+6,McGill University
+7,Vanderbilt University
+8,Duke University
+9,University of Southern California
+10,University of Helsinki
+11,University College London
+12,University of Oxford
+13,University of British Columbia
+14,Cornell University
+15,University of Arizona
+30,30,16
+2,14,1,12,8,9,7,4,5,11,13,6,3,15,2,10
+1,12,11,8,14,5,4,13,7,6,1,9,15,10,3,2
+1,12,14,8,11,4,5,9,13,6,15,1,7,10,3,2
+5,12,14,1,2,5,11,7,9,13,4,10,8,3,6,15
+1,14,12,8,5,11,4,9,1,13,7,3,6,15,10,2
+2,8,15,12,1,7,11,13,6,4,14,9,2,10,3,5
+3,12,11,13,8,1,6,4,5,14,9,10,7,2,15,3
+3,12,14,8,11,5,1,4,15,13,3,6,9,7,10,2
+2,12,1,5,14,2,8,11,9,6,4,3,10,15,13,7
+1,8,12,3,14,4,5,11,7,13,9,10,15,6,2,1
+1,12,1,14,5,8,3,6,9,11,4,13,7,15,2,10
+2,12,11,1,14,6,5,8,4,13,9,3,7,15,10,2
+1,12,14,11,8,13,6,1,4,5,3,9,15,10,7,2
+2,7,8,1,5,4,3,14,11,12,15,9,6,10,13,2
+1,12,11,14,8,13,1,4,6,5,7,9,15,10,3,2
+2,12,14,11,1,5,6,3,10,8,4,9,13,7,15,2

@@ -1,0 +1,23 @@
+15
+1,Oregon
+2,Towson
+3,Ark Little Rock
+4,Harvard
+5,Richmond
+6,UC Santa Barbara
+7,La Salle
+8,Michigan
+9,George Mason
+10,North Carolina
+11,Arkansas
+12,Niagara
+13,South Florida
+14,Seton Hall
+15,James Madison
+30,30,6
+5,10,11,13,5,1,9,14,3,7,8,6,12,15,4,2
+3,10,11,13,5,1,9,14,3,7,8,4,12,6,15,2
+9,10,11,5,13,1,9,14,7,3,8,12,6,15,4,2
+9,10,11,13,5,1,9,14,7,3,8,12,6,15,4,2
+3,10,11,13,1,5,9,14,3,7,8,12,6,15,4,2
+1,10,11,13,1,5,14,9,3,7,8,6,12,4,15,2

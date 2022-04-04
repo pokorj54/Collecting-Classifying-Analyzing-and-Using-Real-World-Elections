@@ -1,0 +1,32 @@
+15
+1,Georgia Institute of Technology
+2,University of Copenhagen
+3,University of Bristol
+4,University of British Columbia
+5,McGill University
+6,Duke University
+7,University of Southern California
+8,Yale University
+9,Brown University
+10,University of California
+11,University of Helsinki
+12,University of Pennsylvania
+13,Tufts University
+14,Vanderbilt University
+15,University of Toronto
+30,30,15
+2,10,8,12,6,15,4,3,2,9,7,5,14,11,1,13
+1,6,7,1,10,14,15,12,4,2,13,5,9,3,8,11
+1,4,5,2,3,15,1,8,10,6,11,13,7,12,9,14
+3,15,10,12,4,6,8,2,5,11,7,14,3,1,9,13
+4,8,12,10,15,5,4,1,7,6,9,14,13,3,11,2
+3,8,10,12,9,13,6,5,14,11,15,7,4,1,2,3
+2,10,12,6,8,15,7,1,5,4,14,11,13,3,9,2
+2,12,10,6,7,1,8,15,5,14,9,4,13,11,2,3
+4,10,12,6,8,13,9,1,3,14,15,4,7,5,11,2
+2,10,8,12,15,6,14,4,5,7,11,2,9,3,13,1
+2,14,2,8,6,12,10,13,9,7,5,3,11,4,15,1
+1,10,8,12,14,7,4,2,15,3,11,13,9,6,5,1
+1,10,15,12,8,6,4,5,7,14,11,3,1,2,9,13
+1,10,8,12,15,5,6,2,7,9,3,11,4,14,13,1
+1,10,8,15,12,4,5,6,1,11,9,7,3,14,13,2

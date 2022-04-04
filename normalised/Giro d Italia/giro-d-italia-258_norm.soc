@@ -1,0 +1,28 @@
+15
+1, GARZELLI StefanoVini Calderola - So.di
+2, DE ANGELI LucaColombia - Selle Italia
+3, SCAMARDELLA SalvatoreLandbouwkrediet - Colnago
+4, GOBBI MicheleDe Nardi - Colpack
+5, CHEULA GiampaoloVini Calderola - So.di
+6, SPEZIALETTI AlessandroSaeco
+7, PELLIZOTTI FrancoAlessio
+8, BERTAGNOLLI LeonardoSaeco
+9, BAK Lars YttingTeam Fakta
+10, CARRARA MatteoDe Nardi - Colpack
+11, BELLI WladimirLampre
+12, TONTI AndreaSaeco
+13, WIGGINS BradleyFdjeux.com
+14, TRAMPUSCH GerhardGerolsteiner
+15, CAUCCHIOLI PietroAlessio
+30,30,11
+6,1,7,11,14,8,15,10,6,5,2,4,12,9,3,13
+1,1,11,7,8,15,4,12,14,5,6,10,3,2,13,9
+4,14,1,15,7,8,6,10,11,2,3,5,12,4,9,13
+6,7,1,11,6,12,15,14,5,8,4,2,3,10,13,9
+3,1,10,14,15,7,11,8,5,12,6,4,9,2,3,13
+1,9,14,15,1,7,8,11,6,10,12,4,2,5,3,13
+5,14,1,7,15,10,8,11,6,5,12,9,13,4,3,2
+1,14,2,7,4,1,11,12,9,15,10,6,8,3,5,13
+1,8,11,7,1,6,12,15,14,10,5,4,2,3,13,9
+1,9,10,1,14,7,4,2,11,6,8,12,3,15,5,13
+1,1,9,14,7,10,15,11,6,12,8,5,3,2,4,13

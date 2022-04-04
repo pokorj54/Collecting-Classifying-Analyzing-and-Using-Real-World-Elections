@@ -1,0 +1,23 @@
+15
+1,IUPUI
+2,Davidson
+3,George Mason
+4,Kennesaw
+5,Sam Houston St
+6,Northwestern LA
+7,E Michigan
+8,St Mary's CA
+9,Colorado
+10,Evansville
+11,Elon
+12,Radford
+13,Colorado St
+14,Texas Tech
+15,Seton Hall
+30,30,6
+6,14,8,15,9,2,12,3,7,5,1,13,10,11,6,4
+4,14,8,15,9,2,3,12,7,5,1,13,10,11,6,4
+6,14,8,15,9,2,12,7,3,13,5,1,10,11,4,6
+5,14,8,15,9,2,3,12,7,10,1,5,13,11,6,4
+7,14,8,15,9,2,12,3,7,13,5,1,10,11,6,4
+2,14,8,15,9,2,12,7,3,13,1,5,10,11,4,6

@@ -1,0 +1,27 @@
+15
+1, SEELDRAEYERS KevinQuickstep - Innergetic
+2, LOOSLI DavidLampre
+3, PERGET MathieuCaisse d'Epargne
+4, POZZOVIVO DomenicoCSF Group - Navigare
+5, VOIGT JensCSC ProTeam
+6, RODRÃGUEZ JoaquimCaisse d'Epargne
+7, CHIARINI RiccardoLPR Brakes - Ballan
+8, VEIKKANEN JussiFranÃ§aise des Jeux
+9, LÃWIK GerbenRabobank ProTeam
+10, MILLAR DavidSlipstream - Chipotle presented by H3O
+11, CONTADOR AlbertoAstana
+12, PÃREZ FranciscoCaisse d'Epargne
+13, BOSISIO GabrieleLPR Brakes - Ballan
+14, COLOM AntonioAstana
+15, NOÃ AndreaLiquigas
+30,30,10
+3,11,2,14,1,13,5,4,9,15,8,7,6,12,10,3
+5,11,13,4,8,5,15,14,6,2,12,1,9,7,10,3
+4,15,10,9,13,5,11,1,12,6,8,4,14,2,3,7
+4,6,4,11,13,8,5,15,14,1,2,7,12,9,3,10
+6,6,8,11,15,13,14,5,4,1,12,10,9,7,3,2
+3,11,8,15,6,4,14,13,5,9,12,3,1,2,10,7
+1,6,11,14,4,1,2,13,12,10,5,15,9,3,8,7
+2,15,9,11,14,1,3,5,2,10,7,13,8,12,4,6
+1,5,11,10,13,7,12,8,4,15,2,3,9,14,1,6
+1,4,8,6,11,13,15,14,9,2,12,5,3,10,7,1

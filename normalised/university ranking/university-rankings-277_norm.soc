@@ -1,0 +1,30 @@
+15
+1,University of Helsinki
+2,Brown University
+3,New York University
+4,Nagoya University
+5,Utrecht University
+6,University College London
+7,Northwestern University
+8,University of Bristol
+9,University of Cambridge
+10,Osaka University
+11,University of Pennsylvania
+12,Leiden University
+13,University of Virginia
+14,California Institute of Technology
+15,University of British Columbia
+30,30,13
+2,11,9,14,7,2,13,3,6,10,15,4,12,1,8,5
+2,11,9,7,14,6,3,15,10,1,13,5,8,2,4,12
+2,11,9,14,6,3,7,15,10,13,1,12,2,8,4,5
+2,14,9,11,6,3,7,15,8,13,10,2,5,12,4,1
+2,14,9,11,6,2,4,10,12,3,1,5,7,15,13,8
+5,11,10,14,7,4,9,3,6,13,2,15,12,1,8,5
+3,11,6,9,15,7,3,10,1,12,5,14,8,13,4,2
+3,14,10,5,7,9,12,11,6,15,2,8,13,4,3,1
+2,11,3,14,10,4,2,13,6,9,7,8,1,5,12,15
+3,9,14,11,3,6,7,5,15,8,1,4,2,12,10,13
+2,14,9,11,6,15,7,3,10,12,1,2,5,8,13,4
+1,9,14,3,11,10,6,2,4,12,8,1,15,7,13,5
+1,11,9,7,6,15,14,10,3,1,5,8,13,12,2,4

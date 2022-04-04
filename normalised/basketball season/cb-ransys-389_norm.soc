@@ -1,0 +1,22 @@
+15
+1,Michigan
+2,Gardner Webb
+3,Lehigh
+4,Utah St
+5,Vanderbilt
+6,Jackson St
+7,Bethune-Cookman
+8,TN Martin
+9,Marist
+10,Tennessee
+11,ULM
+12,Towson
+13,DePaul
+14,Akron
+15,Portland St
+30,30,5
+18,1,14,10,3,5,4,13,12,2,9,7,15,6,11,8
+3,1,14,3,10,4,13,5,12,2,9,7,15,11,6,8
+6,1,14,10,3,4,5,13,12,2,9,7,15,11,6,8
+2,1,14,3,10,4,5,13,12,2,9,7,15,11,6,8
+1,1,14,3,10,13,4,5,2,12,7,9,15,11,8,6

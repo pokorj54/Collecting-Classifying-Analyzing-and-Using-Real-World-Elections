@@ -1,0 +1,32 @@
+15
+1, BAKELANTS JanAG2R La Mondiale
+2, SWIFT BenUAE Team Emirates
+3, MEINTJES LouisUAE Team Emirates
+4, KRISTOFF AlexanderTeam Katusha Alpecin
+5, ALBASINI MichaelORICA-Scott
+6, PICHON LaurentFortuneo - Oscaro
+7, MATTHEWS MichaelTeam Sunweb
+8, DEGAND ThomasWanty - Groupe Gobert
+9, THWAITES ScottTeam Dimension Data
+10, HARDY RomainFortuneo - Oscaro
+11, CLARKE SimonCannondale-Drapac Pro Cycling Team
+12, LAMMERTINK MauritsTeam Katusha Alpecin
+13, NIEVE MikelTeam Sky
+14, KIRYIENKA VasilTeam Sky
+15, BETANCUR CarlosMovistar Team
+30,30,15
+2,2,7,4,14,15,3,5,8,1,11,10,13,9,6,12
+2,4,7,14,8,3,15,1,2,5,12,6,11,13,10,9
+2,7,1,11,3,6,10,15,4,2,8,13,5,9,12,14
+3,3,13,15,8,12,10,1,11,14,9,5,7,6,2,4
+2,4,7,2,11,3,10,13,1,5,8,15,12,6,14,9
+1,3,13,15,10,1,8,6,12,2,11,14,7,9,4,5
+2,14,7,4,5,15,11,12,1,2,3,13,8,6,10,9
+3,10,15,3,8,13,1,11,12,5,6,2,9,7,14,4
+2,7,15,3,11,1,5,8,13,9,14,4,12,2,10,6
+2,1,7,12,10,3,15,13,8,2,5,14,4,9,11,6
+1,14,15,3,1,10,13,8,5,7,9,6,11,12,2,4
+1,7,2,4,3,14,13,15,1,8,5,12,10,9,6,11
+4,3,15,13,10,8,1,14,12,9,11,4,5,2,7,6
+1,7,10,9,3,4,13,15,2,1,14,8,5,12,11,6
+2,3,13,15,8,1,10,7,2,9,14,4,12,5,6,11

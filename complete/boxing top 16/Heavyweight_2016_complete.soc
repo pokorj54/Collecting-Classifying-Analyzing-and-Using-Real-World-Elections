@@ -1,0 +1,22 @@
+10
+1,Fabricio Werdum
+2,Alistair Overeem
+3,Andrei Arlovski
+4,Travis Browne
+5,Cain Velasquez
+6,Ben Rothwell
+7,Josh Barnett
+8,Stipe Miocic
+9,Mark Hunt
+10,Junior Dos Santos
+36,36,10
+2,1,5,8,2,3,10,4,6,7,9
+1,1,5,8,2,3,6,10,4,9,7
+1,1,5,8,2,6,3,10,4,7,9
+3,1,5,8,2,6,10,3,4,7,9
+1,1,5,8,2,6,10,3,4,9,7
+3,1,5,8,2,10,3,6,4,9,7
+1,1,5,2,8,10,6,3,4,9,7
+11,8,1,5,2,10,6,3,4,9,7
+1,8,1,5,2,10,6,4,7,9,3
+12,8,1,5,2,10,6,7,9,3,4

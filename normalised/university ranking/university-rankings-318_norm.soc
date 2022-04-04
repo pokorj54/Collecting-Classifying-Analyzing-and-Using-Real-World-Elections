@@ -1,0 +1,31 @@
+15
+1,Seoul National University
+2,New York University
+3,University of Cambridge
+4,Princeton University
+5,University of Geneva
+6,Tel Aviv University
+7,Karolinska Institute
+8,University of Bristol
+9,Georgia Institute of Technology
+10,University of Toronto
+11,Carnegie Mellon University
+12,University of Helsinki
+13,Vanderbilt University
+14,Harvard University
+15,Duke University
+30,30,14
+3,14,3,4,2,11,13,5,7,10,8,12,15,9,1,6
+1,15,9,4,7,13,11,3,10,1,14,6,8,5,2,12
+1,14,10,15,3,2,4,13,7,12,8,5,11,6,1,9
+5,14,4,3,1,15,9,13,2,11,10,6,5,7,12,8
+1,14,4,3,15,2,10,7,13,11,8,9,12,6,5,1
+1,14,4,3,10,7,9,11,1,15,2,13,6,8,12,5
+2,5,3,7,8,10,14,9,11,4,15,12,2,6,13,1
+4,14,3,15,10,4,2,9,13,12,11,1,8,7,6,5
+2,14,3,4,11,2,7,5,10,15,13,12,9,8,1,6
+3,14,3,4,15,2,10,8,5,7,13,12,9,11,6,1
+4,14,10,3,15,2,1,13,4,12,6,8,9,7,11,5
+1,14,4,3,2,11,5,10,7,6,15,8,12,13,1,9
+1,14,4,3,11,5,7,15,13,2,12,6,10,1,9,8
+1,4,14,11,15,3,2,9,8,13,10,12,7,5,1,6

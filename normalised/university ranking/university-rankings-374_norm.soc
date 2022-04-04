@@ -1,0 +1,32 @@
+15
+1,University of Wollongong
+2,Delft University of Technology
+3,University of Bern
+4,City University of Hong Kong
+5,Virginia Polytechnic Institute and State University
+6,Aarhus University
+7,King Saud University
+8,University of Helsinki
+9,University of East Anglia
+10,University of Newcastle
+11,Yale University
+12,University College Dublin
+13,Simon Fraser University
+14,Deakin University
+15,Emory University
+30,30,15
+1,11,8,6,9,3,15,12,5,2,4,13,7,1,10,14
+3,11,6,15,3,8,2,9,13,12,5,14,1,10,7,4
+1,11,15,7,12,5,6,1,2,14,8,3,9,4,13,10
+2,11,15,8,6,3,2,12,5,9,13,4,10,1,14,7
+5,2,7,10,6,1,4,3,15,5,13,11,12,14,8,9
+2,11,15,6,8,3,9,2,5,12,13,1,10,7,14,4
+1,11,7,15,8,9,4,3,6,13,1,5,10,12,2,14
+2,11,8,6,15,7,5,3,2,4,12,14,13,1,10,9
+2,11,15,4,7,6,9,8,5,2,10,3,12,1,13,14
+2,11,15,9,8,12,13,6,3,4,10,14,1,2,5,7
+2,11,2,8,6,5,4,15,3,12,10,13,1,9,7,14
+3,1,12,3,2,14,9,7,10,6,4,13,11,8,15,5
+1,11,15,7,6,5,2,4,12,1,13,3,8,9,10,14
+1,11,9,8,3,6,2,5,15,7,4,13,12,10,1,14
+2,11,15,8,6,3,5,2,4,12,13,9,10,1,14,7

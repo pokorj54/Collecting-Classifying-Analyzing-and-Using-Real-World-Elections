@@ -1,0 +1,28 @@
+15
+1, MARANGONI AlanTeam Cannondale - Garmin 
+2, VAN POPPEL BoyTrek Factory Racing 
+3, BOUET MaximeEtixx - Quick Step
+4, PELLIZOTTI FrancoAndroni Giocattoli - Sidermec
+5, PIRAZZI StefanoBardiani - CSF Pro Team
+6, KOCHETKOV PavelTeam Katusha 
+7, URÁN RigobertoEtixx - Quick Step
+8, RICHEZE MaximilianoLampre - Merida
+9, COLEDAN MarcoTrek Factory Racing 
+10, EISEL BernhardTeam Sky
+11, BOLE GregaCCC Sprandi Polkowice 
+12, HESJEDAL RyderTeam Cannondale - Garmin 
+13, DILLIER SilvanBMC Racing Team
+14, ZABEL RickBMC Racing Team
+15, BEWLEY SamOrica GreenEDGE
+30,30,11
+2,7,6,12,4,5,3,1,13,10,11,15,8,2,14,9
+4,13,12,7,5,4,3,6,1,11,14,15,2,10,9,8
+3,12,7,11,5,3,6,4,13,1,15,14,9,2,10,8
+3,8,6,7,12,3,13,2,4,15,11,10,5,14,1,9
+4,4,12,11,6,7,3,10,5,14,1,15,13,8,9,2
+2,7,12,11,4,13,6,3,8,14,15,1,5,10,9,2
+4,12,5,7,6,15,11,13,1,4,14,8,3,9,10,2
+2,12,4,5,3,7,14,15,6,10,1,13,8,9,2,11
+1,8,11,7,13,15,2,12,3,1,4,5,14,6,10,9
+3,11,13,7,5,6,12,3,4,1,8,10,15,14,2,9
+2,1,11,8,7,2,9,3,6,12,13,5,14,4,10,15

@@ -1,0 +1,26 @@
+15
+1,Scythe
+2,John Company
+3,Endeavor
+4,Near and Far
+5,Monsterpocalypse
+6,Richard III: The Wars of the Roses
+7,Tyrants of the Underdark
+8,Money!
+9,Century: Spice Road
+10,Wings of War: Watch Your Back!
+11,Clank!: A Deck-Building Adventure
+12,Quantum
+13,Modern Art
+14,Among the Stars
+15,Space Hulk
+30,30,9
+13,1,2,4,10,6,8,5,7,13,9,3,12,15,14,11
+4,1,2,4,10,6,8,7,5,13,9,3,12,15,14,11
+3,10,4,6,2,8,5,9,3,13,7,12,14,15,11,1
+4,4,10,6,2,8,5,13,9,3,7,12,15,14,11,1
+1,4,10,2,6,8,5,7,13,9,3,12,15,14,11,1
+2,4,10,2,6,8,5,13,7,9,3,12,15,14,11,1
+1,10,4,2,6,8,5,7,13,9,3,12,15,14,11,1
+1,10,4,6,2,8,5,9,3,13,7,12,15,14,11,1
+1,4,3,9,13,7,12,14,15,11,10,1,6,2,5,8

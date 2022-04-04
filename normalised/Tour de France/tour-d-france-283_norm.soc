@@ -1,0 +1,31 @@
+15
+1, VOIGT JensSaxo Bank 
+2, DEAN JulianTeam Garmin - Transitions
+3, GARATE Juan ManuelRabobank ProTeam
+4, BELLOTTI FrancescoLiquigas - Doimo
+5, GESINK RobertRabobank ProTeam
+6, CAPECCHI ErosFooton-Servetto
+7, SEELDRAEYERS KevinQuickstep - Innergetic
+8, LANCASTER BrettCervelo Test Team
+9, VANDBORG Brian BachLiquigas - Doimo
+10, BARRY MichaelSky Procycling
+11, BURGHARDT MarcusBMC Racing Team
+12, ROUX AnthonyFrancaise des Jeux
+13, GAUTIER CyrilBbox Bouygues Telecom
+14, BOOM LarsRabobank ProTeam
+15, CHAVANEL SylvainQuickstep - Innergetic
+30,30,14
+2,2,10,5,3,8,15,13,4,7,14,9,6,11,1,12
+1,2,10,15,8,3,13,9,4,7,6,14,1,11,5,12
+4,2,8,3,5,15,10,13,14,4,12,1,11,9,6,7
+2,5,3,4,1,10,15,6,13,14,8,2,9,7,12,11
+4,5,6,3,9,15,4,13,1,14,10,7,12,11,2,8
+1,5,1,13,15,10,14,3,6,4,9,2,8,7,11,12
+2,8,2,15,3,5,10,13,4,9,14,6,11,7,1,12
+3,5,13,15,6,3,7,10,8,2,9,1,4,11,12,14
+3,9,5,3,15,12,10,13,14,6,7,2,4,8,1,11
+3,5,15,3,7,13,14,10,1,4,8,9,6,11,2,12
+2,15,3,6,13,5,1,7,14,10,8,9,4,2,12,11
+1,2,3,13,6,5,10,15,8,14,4,1,7,9,12,11
+1,3,5,11,10,13,15,14,9,1,2,12,8,7,6,4
+1,15,5,13,3,4,10,11,14,1,8,12,9,2,7,6

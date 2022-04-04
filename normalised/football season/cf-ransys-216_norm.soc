@@ -1,0 +1,23 @@
+15
+1,Oregon St
+2,Bethune-Cookman
+3,Lafayette
+4,Weber St
+5,North Carolina
+6,Massachusetts
+7,Morgan St
+8,Hofstra
+9,Nebraska
+10,Holy Cross
+11,Sam Houston St
+12,East Carolina
+13,Air Force
+14,VMI
+15,NC A&T
+30,30,6
+4,11,3,6,1,5,8,2,9,13,7,10,15,12,4,14
+7,11,3,1,6,5,8,9,2,13,7,15,12,10,4,14
+8,11,6,3,1,5,8,2,9,13,7,10,15,4,12,14
+5,11,3,5,1,8,6,2,9,13,7,15,12,4,10,14
+3,11,3,8,5,6,9,2,1,13,7,15,10,12,4,14
+3,11,3,8,6,1,5,2,9,13,7,12,15,10,4,14

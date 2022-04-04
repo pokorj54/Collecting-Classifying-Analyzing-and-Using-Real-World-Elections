@@ -1,0 +1,29 @@
+15
+1,University of St Andrews
+2,Emory University
+3,Dartmouth College
+4,University of Eastern Finland
+5,University of Pisa
+6,Chalmers University of Technology
+7,University of Montreal
+8,Carnegie Mellon University
+9,University of Duisburg-Essen
+10,University College Dublin
+11,Utrecht University
+12,University of Liverpool
+13,University of Barcelona
+14,Georgetown University
+15,Tsinghua University
+30,30,12
+1,8,11,12,3,2,15,14,13,7,10,9,5,1,4,6
+4,15,11,2,12,1,7,8,3,10,13,6,9,14,5,4
+7,2,3,14,6,13,1,8,12,15,11,4,5,7,10,9
+1,8,11,3,12,5,7,15,1,2,13,10,6,14,9,4
+3,15,8,14,2,7,3,1,11,12,10,6,13,4,9,5
+1,15,7,11,6,14,8,2,3,5,9,1,12,4,10,13
+3,15,2,3,14,8,13,1,10,11,12,7,9,5,4,6
+2,8,2,3,11,1,10,13,12,5,14,15,9,7,4,6
+4,8,11,2,13,7,3,15,12,10,5,14,4,1,9,6
+2,15,13,2,7,11,12,5,10,8,14,9,6,1,4,3
+1,1,10,7,12,6,8,11,9,13,14,15,2,4,5,3
+1,8,5,11,12,2,15,7,13,3,10,1,6,14,9,4

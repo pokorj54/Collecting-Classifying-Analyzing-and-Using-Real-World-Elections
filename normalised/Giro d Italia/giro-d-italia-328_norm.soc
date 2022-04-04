@@ -1,0 +1,32 @@
+15
+1, BOEM NicolaBardiani - CSF
+2, QUINTANA NairoMovistar Team
+3, DEIGNAN PhilipTeam Sky
+4, KONRAD PatrickBORA - hansgrohe
+5, AMEZQUETA JulenWilier Triestina - Selle Italia
+6, SERRY PieterQuick-Step Floors
+7, HENAO SebastiánTeam Sky
+8, KIRYIENKA VasilTeam Sky
+9, RICHEZE MaximilianoQuick-Step Floors
+10, HEPBURN MichaelORICA-Scott
+11, FORMOLO DavideCannondale-Drapac Pro Cycling Team
+12, PUCCIO SalvatoreTeam Sky
+13, WOODS MichaelCannondale-Drapac Pro Cycling Team
+14, BRUTT PavelGazprom-RusVelo
+15, OWSIAN ŁukaszCCC Sprandi Polkowice 
+30,30,15
+2,2,4,3,11,7,13,6,15,5,12,14,9,1,8,10
+1,12,9,2,8,1,11,13,7,15,4,14,10,3,5,6
+1,2,11,4,7,3,10,15,13,5,12,14,6,1,8,9
+3,12,11,2,8,9,13,4,14,15,7,10,5,3,1,6
+1,2,4,11,3,7,13,5,12,6,15,9,8,14,1,10
+4,2,11,3,4,13,7,6,15,8,12,10,14,9,1,5
+3,8,10,2,12,11,7,15,4,3,6,13,5,1,9,14
+3,13,5,12,10,2,4,15,11,7,8,3,6,9,14,1
+2,9,12,2,11,4,15,10,7,14,13,1,3,5,8,6
+2,9,2,11,4,15,14,12,13,8,10,5,7,3,1,6
+2,8,10,2,4,12,7,11,5,6,14,13,15,3,9,1
+2,2,11,4,13,3,7,12,6,5,15,10,14,8,1,9
+2,2,4,11,7,3,5,13,15,8,10,12,6,14,9,1
+1,2,11,4,3,7,5,15,13,8,6,14,12,10,1,9
+1,2,13,11,3,7,4,12,14,15,6,10,5,8,1,9

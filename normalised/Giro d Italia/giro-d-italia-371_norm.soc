@@ -1,0 +1,33 @@
+15
+1, KOKORINE VitaliAmica Chips - Tacconi Sport 
+2, CASAGRANDE FilippoVini Caldirola - Sidermec
+3, CONTI RobertoVini Caldirola - Sidermec
+4, OTXOA RicardoKelme - Costa Blanca
+5, FORNACIARI PaoloMapei - Quickstep
+6, VERGNANI MarcoCantina Tollo - Regain
+7, DE PASQUALE MaurizioLindaMcCartney
+8, MANCEBO FranciscoBanesto
+9, DEKKER ErikRabobank ProTeam
+10, DELLA VEDOVA MarcoLampre - Daikin
+11, CASSANI EnricoPolti
+12, MARTINELLO SilvioPolti
+13, DE PAOLI DanieleMercatone Uno - Albacom
+14, SCIANDRI MaximilianLindaMcCartney
+15, ZANOTTI MarcoLiquigas - Pata
+30,30,16
+1,8,13,1,3,4,10,9,5,6,14,11,7,12,2,15
+1,12,14,2,13,4,6,3,10,8,5,1,11,15,7,9
+5,5,15,10,6,3,4,13,12,9,7,8,1,14,2,11
+3,8,13,4,3,6,10,1,9,7,14,5,11,15,12,2
+2,12,5,15,14,1,9,10,7,3,13,8,4,2,11,6
+1,3,1,8,4,6,14,13,10,7,5,11,15,9,12,2
+2,15,12,9,5,11,10,2,8,4,13,6,1,3,7,14
+2,3,6,14,9,8,13,2,5,10,7,11,1,4,12,15
+1,8,13,10,3,4,14,5,6,11,7,15,12,1,2,9
+2,12,1,2,8,13,4,11,3,6,10,5,14,15,7,9
+2,9,11,2,3,8,13,7,14,5,10,12,15,1,4,6
+3,15,8,12,1,13,5,9,10,2,6,3,7,11,4,14
+1,14,1,13,8,5,2,10,4,6,12,15,7,3,11,9
+1,8,4,10,3,6,13,5,7,14,2,1,9,15,11,12
+2,2,8,13,10,6,1,5,4,3,11,7,15,14,12,9
+1,11,2,3,14,8,4,13,10,1,9,15,5,6,7,12

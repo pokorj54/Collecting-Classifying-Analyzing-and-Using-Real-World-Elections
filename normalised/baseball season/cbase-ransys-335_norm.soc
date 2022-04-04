@@ -1,0 +1,22 @@
+15
+1,Bucknell
+2,California
+3,Florida
+4,UC Riverside
+5,VCU
+6,Valparaiso
+7,Rider
+8,Stetson
+9,Florida Intl
+10,Minnesota
+11,PFW
+12,Oral Roberts
+13,Oklahoma
+14,Evansville
+15,Butler
+30,30,5
+8,13,3,2,4,12,9,10,14,8,5,7,1,6,15,11
+4,3,13,2,4,12,9,10,8,14,5,7,1,6,15,11
+7,3,13,2,4,9,12,10,8,14,5,7,1,6,15,11
+4,3,13,2,4,9,12,10,14,8,5,7,1,6,15,11
+7,13,3,2,4,9,12,10,14,5,8,7,1,6,15,11

@@ -1,0 +1,33 @@
+15
+1, NIERMANN GrischaRabobank ProTeam
+2, WILSON TrentColombia - Selle Italia
+3, ILLIANO RaffaeleColombia - Selle Italia
+4, IVANOV RuslanDomina Vacanze
+5, BONNAIRE OlivierBouygues Telecom
+6, HORRACH JoanIlles Balears - Caisse d'Epargne
+7, CODOL MassimoFassa Bortolo
+8, VELO MarcoFassa Bortolo
+9, TONTI AndreaLampre-Caffita
+10, VAN HOUT RussellColombia - Selle Italia
+11, POZZATO FilippoQuickstep - Innergetic
+12, TOSATTO MatteoFassa Bortolo
+13, MOLETTA AndreaGerolsteiner
+14, LAVERDE Luis FelipeCeramica Panaria - Navigare
+15, PINOTTI MarcoSaunier Duval - Prodir
+30,30,16
+1,8,12,11,13,1,14,15,4,3,2,6,9,7,5,10
+2,1,4,6,15,5,14,9,11,3,8,12,13,7,10,2
+4,14,6,1,5,15,11,9,7,13,8,4,12,3,2,10
+3,9,6,15,1,14,11,3,4,7,8,12,13,5,2,10
+3,11,14,8,6,9,1,12,5,3,4,2,13,7,15,10
+2,15,14,9,11,1,6,7,4,8,13,10,5,12,3,2
+3,14,9,6,4,3,15,1,7,11,8,5,13,2,12,10
+1,9,8,1,14,6,11,15,5,3,7,4,13,12,10,2
+1,15,9,14,6,3,1,4,13,8,7,11,2,10,5,12
+2,15,11,7,4,6,14,1,8,12,5,13,3,2,9,10
+2,9,14,6,1,11,3,8,7,15,4,12,5,13,10,2
+2,13,11,8,1,14,3,9,12,5,2,7,15,6,4,10
+1,11,8,13,12,9,1,7,2,14,5,15,10,4,6,3
+1,5,8,13,9,11,14,3,1,4,6,15,2,12,10,7
+1,13,11,9,8,5,7,1,2,4,3,15,14,6,12,10
+1,6,15,9,4,14,1,7,11,13,5,10,8,12,3,2

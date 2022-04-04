@@ -1,0 +1,29 @@
+15
+1, TRENTI GuidoCantina Tollo - Alexia Alluminio
+2, FORCONI RiccardoMercatone Uno - Bianchi
+3, MCRAE William ChannMapei - Quickstep
+4, SASTRE CarlosO.N.C.E. - Deutsche Bank
+5, LUTTENBERGER PeterO.N.C.E. - Deutsche Bank
+6, TOSATTO MatteoAlessio - Ballan
+7, TRONCA AmilcareAmica Chips - Costa de Almeria
+8, MINALI NicolaCantina Tollo - Alexia Alluminio
+9, CABELLO FranciscoKelme - Costa Blanca
+10, RODRIGUES Orlando SergioBanesto
+11, FAUSTINI StefanoMobilvetta Design - Northwave
+12, PICCOLI MarianoLampre - Daikin - Colnago
+13, SMETANINE SergueiVitalicio Seguros - Grupo Generali
+14, KLIER AndreasTVM - Farm Frites
+15, CLAVERO DanielVitalicio Seguros - Grupo Generali
+30,30,12
+1,15,5,2,12,7,6,10,9,13,3,8,14,11,1,4
+4,8,6,10,13,1,7,2,12,3,15,5,14,4,11,9
+2,6,13,8,15,5,10,3,12,9,7,2,1,4,14,11
+3,15,5,2,7,3,6,10,4,9,1,8,13,12,14,11
+4,6,1,7,15,10,12,2,8,13,3,14,5,9,11,4
+3,6,8,13,3,10,5,15,7,12,1,14,9,4,2,11
+2,3,6,5,15,2,12,7,10,13,4,9,1,14,8,11
+2,13,8,6,5,10,15,12,7,9,4,3,2,1,14,11
+3,5,15,7,2,3,12,9,10,14,6,13,8,1,4,11
+3,8,10,13,5,1,15,12,7,3,2,6,4,9,14,11
+2,1,10,15,3,12,5,7,6,2,9,4,14,13,8,11
+1,12,15,5,3,10,7,6,2,13,9,14,11,8,4,1

@@ -1,0 +1,22 @@
+15
+1,Cornell
+2,Old Dominion
+3,Dartmouth
+4,Ohio St
+5,Butler
+6,S Dakota St
+7,Mississippi St
+8,Lipscomb
+9,Lamar
+10,Savannah St
+11,TX Southern
+12,W Michigan
+13,Longwood
+14,Nevada
+15,East Carolina
+30,30,5
+3,7,15,9,6,3,2,4,14,12,8,13,11,5,10,1
+7,15,7,9,6,3,4,14,2,8,12,13,11,5,1,10
+7,7,15,9,3,6,4,2,14,12,8,13,11,5,10,1
+5,7,15,9,6,3,2,4,14,8,12,13,11,1,5,10
+8,15,7,9,3,6,2,4,14,12,13,8,11,10,5,1

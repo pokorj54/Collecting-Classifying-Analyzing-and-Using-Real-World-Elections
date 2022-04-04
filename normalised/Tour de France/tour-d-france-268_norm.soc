@@ -1,0 +1,31 @@
+15
+1, VINOKOUROV AlexandreTeam Telekom
+2, HUSHOVD ThorCrédit Agricole
+3, MANCEBO FranciscoiBanesto.com
+4, PETROV EvgeniiBanesto.com
+5, NOÈ AndreaAlessio
+6, NARDELLO DanieleTeam Telekom
+7, HALGAND PatriceJean Delatour
+8, MILLAR DavidCofidis
+9, ORIOL ChristopheAG2R Prévoyance
+10, POILVET BenoîtCrédit Agricole
+11, GAUMONT PhilippeCofidis
+12, LATASA DavidKelme - Costa Blanca
+13, BERTOLINI AlessandroAlessio
+14, ZUBELDIA HaimarEuskaltel - Euskadi
+15, MCEWEN RobbieLotto - Domo
+30,30,14
+1,1,14,6,3,7,4,9,5,10,2,15,13,12,11,8
+3,8,1,14,4,2,12,5,6,3,11,10,7,9,15,13
+4,8,1,3,14,4,7,10,5,12,6,9,11,15,2,13
+3,15,2,11,1,14,3,7,6,13,5,9,10,4,8,12
+4,2,15,1,7,14,4,3,8,10,11,5,6,9,12,13
+3,1,14,8,3,2,4,11,12,10,5,6,15,7,9,13
+1,6,15,2,7,14,1,13,3,10,11,5,4,9,12,8
+1,14,1,3,7,8,12,5,6,4,2,13,10,11,9,15
+1,1,3,14,8,4,6,10,5,2,12,7,11,9,13,15
+3,14,1,7,3,6,12,5,8,11,10,2,9,15,4,13
+2,1,3,14,8,6,4,7,5,9,12,2,10,11,13,15
+2,15,2,3,1,14,6,8,5,10,4,11,12,7,9,13
+1,15,2,11,13,5,14,4,1,9,8,6,3,7,10,12
+1,15,2,11,3,1,14,8,5,7,6,12,4,13,9,10

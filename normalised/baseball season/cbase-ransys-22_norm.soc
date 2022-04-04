@@ -1,0 +1,22 @@
+15
+1,Indiana
+2,St John's
+3,Col Charleston
+4,Rhode Island
+5,Prairie View
+6,Baylor
+7,Campbell
+8,W Michigan
+9,La Salle
+10,Kansas St
+11,Charlotte
+12,Bowling Green
+13,Delaware St
+14,UC Irvine
+15,UAB
+30,30,5
+4,6,11,1,2,10,14,4,3,15,7,8,12,13,9,5
+5,6,2,11,1,10,14,4,3,15,7,8,12,13,9,5
+10,6,11,2,1,10,14,4,3,8,15,7,12,13,9,5
+8,6,2,11,1,4,10,3,14,15,8,7,12,13,9,5
+3,6,11,2,1,10,14,4,3,15,7,8,12,13,9,5

@@ -1,0 +1,31 @@
+15
+1, PORTAL NicolasAG2R Prévoyance
+2, ZBERG MarkusGerolsteiner
+3, PRADERA MikelO.N.C.E. - Eroski
+4, GUTIÉRREZ José EnriqueKelme - Costa Blanca
+5, WAUTERS MarcRabobank ProTeam
+6, LUDEWIG JörgSaeco
+7, GUIDI FabrizioTeam Bianchi
+8, CASAR SandyFdjeux.com
+9, PESCHEL UweGerolsteiner
+10, HAMILTON TylerTeam CSC
+11, O'GRADY StuartCrédit Agricole
+12, SERRANO Marcos AntonioO.N.C.E. - Eroski
+13, BOSSONI PaoloVini Calderola - So.di
+14, BELTRÁN ManuelUS Postal Service
+15, KNAVEN ServaisQuickstep - Davitamon
+30,30,14
+2,4,7,11,2,10,15,14,6,3,1,12,5,13,8,9
+2,10,14,6,3,1,2,7,11,15,4,12,5,9,13,8
+4,10,2,8,7,11,1,4,14,6,5,9,12,3,15,13
+2,11,13,5,14,3,12,10,8,1,15,2,4,6,9,7
+5,15,13,7,11,8,4,6,10,3,14,12,1,2,5,9
+1,10,14,6,3,4,12,11,2,7,15,8,9,13,5,1
+2,10,11,5,4,1,7,3,9,14,6,15,12,8,2,13
+2,11,7,5,3,12,1,13,15,8,10,6,14,2,9,4
+2,10,9,14,5,15,4,3,1,11,6,13,8,2,7,12
+2,10,14,4,6,1,11,3,12,9,15,13,7,2,8,5
+2,11,1,7,2,15,10,14,5,3,6,4,12,9,13,8
+2,10,14,12,6,4,2,3,8,1,7,15,13,9,11,5
+1,11,7,2,1,10,8,15,13,5,6,3,4,14,12,9
+1,14,12,10,8,3,1,15,6,11,13,7,9,2,5,4

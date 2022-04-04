@@ -1,0 +1,29 @@
+15
+1, ZAUGG OliverRadioShack - Nissan
+2, BALLAN AlessandroBMC Racing Team
+3, MONTAGUTI MatteoAG2R La Mondiale
+4, BRUTT PavelTeam Katusha 
+5, SPEZIALETTI AlessandroLampre - ISD
+6, OLIVEIRA NelsonRadioShack - Nissan
+7, BOS TheoRabobank Cycling Team
+8, KEUKELEIRE JensOrica GreenEDGE
+9, BOARO ManueleTeam Saxo Bank - Tinkoff Bank
+10, IGNATIEV MikhailTeam Katusha 
+11, TOSATTO MatteoTeam Saxo Bank - Tinkoff Bank
+12, SCHORN DanielTeam Netapp
+13, POZZOVIVO DomenicoColnago CSF Bardiani
+14, GASTAUER BenAG2R La Mondiale
+15, BRAMBILLA GianlucaColnago CSF Bardiani
+30,30,12
+6,6,2,3,14,11,4,1,9,15,12,13,5,8,10,7
+4,12,8,1,9,3,15,6,13,4,11,14,5,10,2,7
+3,2,11,6,1,4,13,14,15,5,9,12,10,3,8,7
+3,13,15,1,5,11,8,14,3,4,10,12,2,6,9,7
+1,12,15,2,1,3,14,6,4,13,5,11,8,9,7,10
+2,13,15,1,3,6,5,11,14,4,2,12,8,10,9,7
+3,9,8,2,11,4,3,1,6,13,5,10,15,14,12,7
+1,9,15,13,11,14,4,5,8,1,3,2,6,12,10,7
+1,15,13,6,4,8,10,14,1,2,11,5,3,12,9,7
+1,12,15,13,3,2,11,7,14,6,1,8,5,9,4,10
+2,13,15,1,6,5,3,11,14,4,12,8,2,10,9,7
+3,13,15,5,3,14,6,4,2,11,1,12,8,10,9,7

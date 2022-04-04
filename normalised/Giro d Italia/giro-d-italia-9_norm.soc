@@ -1,0 +1,31 @@
+15
+1, SERRI EddyAlexia Alluminio
+2, LATASA DavidiBanesto.com
+3, OLANO AbrahamO.N.C.E. - Eroski
+4, VALJAVEC TadejFassa Bortolo
+5, PETITO RobertoFassa Bortolo
+6, KONYCHEV DmitriFassa Bortolo
+7, CONTE BiagioSaeco
+8, CAMENZIND OscarLampre - Daikin
+9, HAUPTMAN AndrejTacconi Sport - Vini Caldirola
+10, HUNDERTMARCK KaiTeam Telekom
+11, VELO MarcoMercatone Uno - Stream TV
+12, CONTI RobertoCantina Tollo - Acqua e Sapone
+13, ARRIETA José LuisiBanesto.com
+14, GARATE Juan ManuelLampre - Daikin
+15, KESSLER MatthiasTeam Telekom
+30,30,14
+3,9,13,15,3,11,8,14,4,6,5,10,12,7,2,1
+3,3,11,7,14,9,4,8,15,2,13,5,6,10,12,1
+4,6,9,3,5,13,11,7,4,2,15,14,10,8,12,1
+2,3,4,14,11,15,12,13,8,2,6,9,10,7,5,1
+2,9,3,13,11,6,8,5,4,14,15,2,10,7,12,1
+5,3,11,1,5,9,7,6,14,10,15,8,12,2,4,13
+1,3,11,15,14,2,12,8,13,9,6,5,10,4,7,1
+2,11,3,15,13,8,14,9,4,2,6,10,5,7,12,1
+2,15,13,8,11,3,14,2,4,5,12,9,6,10,7,1
+1,9,13,3,11,8,4,14,5,10,6,2,15,12,7,1
+2,3,8,4,11,2,13,15,14,10,5,9,6,7,12,1
+1,3,11,4,8,13,15,10,5,7,14,6,12,2,9,1
+1,9,6,3,11,4,8,13,15,14,2,5,1,12,7,10
+1,9,6,3,14,11,13,4,15,2,5,8,12,7,1,10

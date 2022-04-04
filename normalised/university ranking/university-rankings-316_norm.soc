@@ -1,0 +1,30 @@
+15
+1,University of Rochester
+2,University of Virginia
+3,New York University
+4,Tel Aviv University
+5,University of Southern California
+6,University of Zurich
+7,University of Maryland
+8,Leiden University
+9,Northwestern University
+10,University of Arizona
+11,Rice University
+12,Utrecht University
+13,Carnegie Mellon University
+14,Yale University
+15,Princeton University
+30,30,13
+3,6,12,14,13,8,15,1,5,11,3,9,7,4,10,2
+3,15,14,9,3,7,5,2,13,12,10,8,1,6,4,11
+3,14,9,3,5,7,6,10,4,8,12,2,15,1,13,11
+4,5,10,9,4,3,1,14,2,15,13,11,7,8,6,12
+2,5,10,15,13,12,9,8,6,1,11,4,14,2,3,7
+2,14,9,3,10,5,7,15,12,4,2,8,1,13,11,6
+4,14,1,6,3,15,7,11,2,10,5,13,9,12,8,4
+1,15,14,13,9,3,4,8,12,5,6,7,10,2,11,1
+2,15,14,3,13,5,6,9,11,7,12,8,1,10,4,2
+1,14,15,9,5,13,3,6,4,1,11,8,10,12,7,2
+2,14,15,3,9,10,7,6,2,5,12,11,1,8,13,4
+1,15,14,11,13,1,7,8,3,4,12,9,5,10,2,6
+2,15,14,13,3,1,12,7,8,11,9,10,6,5,4,2

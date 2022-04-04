@@ -1,0 +1,34 @@
+15
+1,Delft University of Technology
+2,Swedish University of Agricultural Sciences
+3,University of Padua
+4,University of Ottawa
+5,University of Bergen
+6,University of Groningen
+7,University of Southampton
+8,University of Newcastle
+9,University of Konstanz
+10,University of Essex
+11,University of Porto
+12,Durham University
+13,Chalmers University of Technology
+14,Washington State University
+15,Kyushu University
+30,30,17
+4,6,7,4,3,12,1,11,15,5,14,2,10,13,9,8
+1,6,3,7,15,4,11,1,5,12,8,13,2,14,9,10
+2,15,7,12,6,14,4,13,10,1,11,3,5,2,9,8
+3,11,10,12,3,1,6,7,13,15,4,14,5,2,9,8
+1,15,14,1,7,6,12,11,4,9,8,3,5,13,2,10
+2,7,6,1,3,12,15,5,4,2,9,13,14,11,8,10
+2,7,6,12,14,2,15,9,3,8,5,13,1,4,10,11
+1,6,3,7,15,4,1,5,12,11,14,13,2,8,9,10
+2,11,14,9,6,15,7,3,4,12,1,5,13,2,8,10
+1,3,6,7,15,4,12,5,1,14,2,9,11,13,8,10
+1,10,1,6,7,15,3,12,2,5,4,14,13,9,8,11
+3,6,3,7,4,15,12,1,5,14,13,2,11,9,8,10
+2,12,7,6,3,5,4,9,2,8,10,11,1,14,13,15
+2,1,2,6,13,15,8,9,14,4,7,11,12,5,10,3
+1,2,15,5,13,7,12,3,14,11,1,10,8,6,4,9
+1,1,15,12,4,6,7,5,10,2,14,9,13,8,11,3
+1,1,6,12,4,13,7,9,10,5,8,15,14,2,11,3

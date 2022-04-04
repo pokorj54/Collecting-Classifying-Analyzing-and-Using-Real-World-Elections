@@ -1,0 +1,31 @@
+15
+1,Johns Hopkins University
+2,University of Science and Technology of China
+3,George Mason University
+4,University of Leicester
+5,Simon Fraser University
+6,University of Victoria
+7,San Diego State University
+8,Lancaster University
+9,Queensland University of Technology
+10,McMaster University
+11,Tufts University
+12,Pompeu Fabra University
+13,Laval University
+14,University of Bristol
+15,Deakin University
+30,30,14
+4,1,11,13,10,14,5,4,2,9,7,3,12,15,8,6
+3,1,10,9,2,13,11,14,5,12,4,8,6,15,7,3
+2,1,3,10,14,11,2,13,12,5,4,6,15,8,7,9
+3,8,4,14,15,6,9,10,12,5,1,13,11,3,7,2
+1,1,14,3,10,11,13,2,4,6,7,5,12,8,15,9
+3,1,14,11,10,2,13,8,9,4,3,12,5,6,15,7
+1,1,2,11,4,14,8,13,3,12,10,6,5,15,7,9
+3,1,11,12,6,14,10,8,2,5,4,7,13,15,3,9
+4,1,14,10,8,9,11,4,6,13,5,12,2,7,15,3
+2,1,14,12,4,11,10,2,5,6,7,3,13,15,8,9
+1,1,14,11,10,13,4,6,8,7,3,15,2,5,12,9
+1,1,11,10,14,4,13,2,6,12,5,7,8,3,15,9
+1,11,1,2,14,7,10,13,8,15,4,6,5,12,3,9
+1,1,14,4,10,11,12,2,13,7,5,6,3,8,15,9

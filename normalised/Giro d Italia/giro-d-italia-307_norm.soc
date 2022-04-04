@@ -1,0 +1,31 @@
+15
+1, ZAUGG OliverSaunier Duval - Prodir
+2, SCIREA MarioDomina Vacanze
+3, STEEGMANS GertLotto - Domo
+4, MASCIARELLI SimoneVini Caldirola - Nobili Rubinetterie
+5, CUNEGO DamianoSaeco
+6, SPEZIALETTI AlessandroSaeco
+7, ILLIANO RaffaeleColombia - Selle Italia
+8, MORENI CristianAlessio - Bianchi
+9, ALBASINI MichaelPhonak Hearing Systems
+10, SIRONI GianlucaVini Caldirola - Nobili Rubinetterie
+11, GINESTRI GiancarloTenax
+12, RODRIGUEZ FredAcqua & Sapone - Caffe Mokambo
+13, TOSATTO MatteoFassa Bortolo
+14, MAZZANTI LucaCeramica Panaria - Margres
+15, PÉREZ Marlon AlirioColombia - Selle Italia
+30,30,14
+4,12,9,5,4,8,14,15,7,13,1,11,10,6,3,2
+2,12,5,8,15,10,7,4,11,9,13,6,3,14,2,1
+5,12,15,8,5,14,13,6,1,7,4,10,2,11,9,3
+1,5,7,8,6,1,9,10,14,15,13,11,3,2,12,4
+3,5,8,15,14,13,7,12,6,4,9,10,1,2,3,11
+1,12,15,5,8,6,1,14,10,4,2,3,7,13,9,11
+2,5,9,12,10,8,2,13,14,7,15,3,4,1,11,6
+3,5,8,15,7,6,2,14,4,1,13,11,12,10,9,3
+2,5,1,7,14,9,8,15,10,2,6,4,13,11,12,3
+1,5,1,8,7,14,11,15,6,10,9,2,13,4,3,12
+2,5,8,4,15,2,7,12,10,6,14,1,11,3,9,13
+1,5,8,1,6,10,7,15,12,9,13,11,3,14,2,4
+2,12,8,7,15,5,4,10,6,1,14,13,9,2,3,11
+1,5,14,8,15,7,4,10,1,6,13,12,2,9,3,11

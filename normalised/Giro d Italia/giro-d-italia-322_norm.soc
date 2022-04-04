@@ -1,0 +1,30 @@
+15
+1, QUARANTA IvanAlexia Alluminio
+2, PADRNOS PavelSaeco
+3, SERRI EddyAlexia Alluminio
+4, HVASTIJA MartinAlessio
+5, GUERINI GiuseppeTeam Telekom
+6, NOZAL IsidroO.N.C.E. - Eroski
+7, ELLI AlbertoTeam Telekom
+8, PETITO RobertoFassa Bortolo
+9, ANDRLE RenéO.N.C.E. - Eroski
+10, CAMENZIND OscarLampre - Daikin
+11, BRAMATI DavideMapei - Quickstep
+12, CATTAI StefanoLiquigas - Pata
+13, SCINTO LucaMapei - Quickstep
+14, ZANOTTI MarcoLiquigas - Pata
+15, PEREZ CUAPIO Julio AlbertoPanaria - Fiordo
+30,30,13
+2,2,9,10,15,4,5,8,11,13,14,12,7,6,1,3
+5,10,2,7,14,8,3,1,11,6,12,5,15,4,9,13
+3,1,10,13,11,2,12,9,7,4,8,6,3,14,5,15
+2,10,7,15,5,8,11,12,2,4,14,9,13,6,1,3
+4,15,5,9,2,10,12,4,13,6,7,8,11,1,3,14
+4,10,8,11,7,6,13,5,15,9,12,14,1,4,2,3
+3,5,2,10,9,6,12,13,8,4,11,7,14,15,1,3
+1,1,14,4,11,2,13,6,10,9,8,7,12,5,3,15
+1,3,8,11,13,6,4,2,9,10,7,1,14,15,12,5
+2,14,1,4,12,10,2,11,8,13,9,6,15,7,5,3
+1,14,4,11,2,10,8,9,7,13,12,6,5,15,1,3
+1,6,3,11,4,14,8,12,2,5,10,9,1,7,15,13
+1,10,2,5,7,15,8,9,11,6,14,13,12,4,3,1

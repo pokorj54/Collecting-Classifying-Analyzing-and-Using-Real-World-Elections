@@ -1,0 +1,34 @@
+15
+1, GIUNTI MassimoCantina Tollo - Regain
+2, LAFIS MichelFarm Frites
+3, WHITE MatthewVini Caldirola - Sidermec
+4, BASSO IvanAmica Chips - Tacconi Sport 
+5, GEROSA MauroAmica Chips - Tacconi Sport 
+6, VERGNANI MarcoCantina Tollo - Regain
+7, FONTANELLI FabianoMercatone Uno - Albacom
+8, KOKORINE VitaliAmica Chips - Tacconi Sport 
+9, ZANOTTI MarcoLiquigas - Pata
+10, CASAGRANDE FilippoVini Caldirola - Sidermec
+11, MCRAE William ChannMapei - Quickstep
+12, SCIREA MarioSaeco
+13, DONATI MassimoVini Caldirola - Sidermec
+14, BLIJLEVENS JeroenPolti
+15, FORNACIARI PaoloMapei - Quickstep
+30,30,17
+3,10,8,6,11,1,13,12,2,4,15,9,14,5,3,7
+4,11,8,12,2,15,13,6,7,10,14,5,4,1,9,3
+1,14,5,12,11,2,1,10,7,9,13,4,15,6,8,3
+1,11,4,12,15,2,14,6,7,5,13,9,1,8,10,3
+1,3,14,10,1,11,4,2,6,12,13,5,15,8,7,9
+2,11,6,4,13,10,15,2,12,5,8,7,1,3,14,9
+2,14,7,5,9,4,8,11,15,13,1,2,12,10,6,3
+2,5,15,9,12,4,2,6,11,3,13,8,10,1,7,14
+2,5,14,11,12,8,4,15,2,10,1,13,6,3,7,9
+3,8,10,11,1,4,13,6,3,12,7,15,14,5,2,9
+3,8,11,6,12,13,2,14,15,4,1,5,9,10,3,7
+1,10,11,13,2,7,1,4,15,14,9,8,12,5,6,3
+1,11,12,1,13,6,8,4,7,2,5,14,15,9,3,10
+1,9,14,5,7,12,1,8,4,15,11,2,13,3,6,10
+1,9,5,15,3,7,12,1,2,10,4,11,13,6,8,14
+1,9,14,5,8,12,15,4,2,11,10,13,1,6,7,3
+1,10,2,13,11,12,1,8,9,4,15,6,5,14,7,3

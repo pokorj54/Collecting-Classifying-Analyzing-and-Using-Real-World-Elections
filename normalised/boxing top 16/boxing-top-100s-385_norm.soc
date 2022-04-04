@@ -1,0 +1,24 @@
+15
+1,Demian Maia
+2,Tarec Saffiedine
+3,Rory MacDonald
+4,Neil Magny
+5,Stephen Thompson
+6,Rick Story
+7,Matt Brown
+8,Gunnar Nelson
+9,Carlos Condit
+10,Jake Ellenberger
+11,Johny Hendricks
+12,Robbie Lawler
+13,Dong Hyun Kim
+14,Thiago Alves
+15,Kelvin Gastelum
+30,30,7
+7,12,11,3,9,7,1,13,2,5,6,8,10,4,14,15
+8,12,3,11,9,7,1,13,5,2,6,8,14,4,10,15
+1,12,11,3,9,7,1,13,5,2,6,8,4,14,10,15
+5,12,3,11,9,7,1,13,5,2,6,8,4,14,10,15
+5,12,3,11,9,7,1,13,5,4,2,6,8,15,14,10
+2,12,11,3,9,7,1,13,2,5,6,8,10,14,15,4
+2,12,11,3,9,7,1,13,2,5,6,8,10,14,4,15

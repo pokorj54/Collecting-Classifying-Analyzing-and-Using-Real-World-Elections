@@ -1,0 +1,32 @@
+15
+1,National Taiwan University
+2,University of Virginia
+3,Sun Yat-sen University
+4,Oregon State University
+5,University College Cork
+6,University of Liverpool
+7,University of Twente
+8,National Cheng Kung University
+9,University of Oxford
+10,Tsinghua University
+11,Northwestern University
+12,Pohang University of Science and Technology
+13,University of Montreal
+14,University of Trieste
+15,University of Leicester
+30,30,15
+3,9,11,6,1,10,13,2,4,8,3,15,12,7,5,14
+6,9,10,11,1,3,13,8,2,6,4,15,7,12,5,14
+2,9,11,2,13,10,6,4,12,15,1,14,3,7,5,8
+2,11,9,14,12,2,6,15,4,10,13,5,7,3,1,8
+2,9,11,10,12,2,1,13,7,15,8,6,3,5,4,14
+1,9,11,2,10,4,6,15,13,1,14,12,7,3,5,8
+2,9,11,2,4,6,13,15,1,5,8,10,3,12,7,14
+2,9,11,2,13,15,4,6,10,1,14,12,3,5,7,8
+2,9,11,2,1,8,10,6,4,3,5,13,12,15,14,7
+2,12,2,9,1,7,15,6,10,11,8,3,4,13,5,14
+1,9,11,13,2,10,15,6,1,4,12,14,3,7,8,5
+1,9,10,12,11,2,3,5,8,4,7,6,15,13,14,1
+2,9,11,1,13,10,2,6,8,3,4,15,12,7,14,5
+1,9,15,13,6,5,7,14,10,4,11,12,2,1,3,8
+1,9,11,2,6,1,10,13,12,8,15,4,3,14,7,5

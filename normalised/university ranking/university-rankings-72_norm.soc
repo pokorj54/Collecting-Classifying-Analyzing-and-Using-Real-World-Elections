@@ -1,0 +1,29 @@
+15
+1,Cornell University
+2,University of North Carolina at Chapel Hill
+3,Harvard University
+4,University of Cambridge
+5,Boston University
+6,Stanford University
+7,University of Helsinki
+8,California Institute of Technology
+9,Northwestern University
+10,University College London
+11,University of Maryland
+12,Vanderbilt University
+13,University of Rochester
+14,McGill University
+15,University of Utah
+30,30,12
+3,8,6,3,4,10,9,1,14,2,5,12,13,11,15,7
+3,3,6,4,10,1,9,2,14,8,11,12,5,7,15,13
+2,3,6,4,9,1,14,5,13,8,10,2,15,11,12,7
+5,3,6,4,1,10,9,8,2,11,5,14,12,13,7,15
+4,3,4,8,6,1,10,14,13,7,11,9,2,15,5,12
+3,3,6,10,4,14,2,9,1,11,7,12,5,15,8,13
+1,3,6,4,8,1,15,10,11,14,2,7,5,9,12,13
+2,3,1,6,8,15,9,4,12,2,13,10,5,14,11,7
+3,3,6,8,4,1,10,9,2,11,15,14,5,13,12,7
+2,8,9,15,6,4,12,10,14,2,3,13,1,11,7,5
+1,12,13,8,2,6,11,5,3,1,10,4,14,9,7,15
+1,8,6,3,4,1,10,9,14,2,7,11,5,15,12,13

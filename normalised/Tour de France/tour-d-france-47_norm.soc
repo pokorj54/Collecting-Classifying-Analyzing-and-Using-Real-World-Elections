@@ -1,0 +1,33 @@
+15
+1, ZABEL RickTeam Katusha Alpecin
+2, WAGNER RobertTeam LottoNL-Jumbo
+3, ARASHIRO YukiyaBahrain Merida Pro Cycling Team
+4, TEN DAM LaurensTeam Sunweb
+5, SMITH DionWanty - Groupe Gobert
+6, DE GENDT ThomasLotto Soudal
+7, PAUWELS SergeTeam Dimension Data
+8, ARNDT NikiasTeam Sunweb
+9, KEUKELEIRE JensORICA-Scott
+10, VAN KEIRSBULCK GuillaumeWanty - Groupe Gobert
+11, BODNAR MaciejBORA - hansgrohe
+12, BOUHANNI NacerCofidis
+13, ROCHE NicolasBMC Racing Team
+14, BARDET RomainAG2R La Mondiale
+15, PANTANO JarlinsonTrek - Segafredo
+30,30,16
+3,12,5,3,14,9,15,13,10,11,7,8,4,1,6,2
+3,12,5,1,14,13,10,7,9,4,11,8,15,3,2,6
+1,12,14,8,1,7,3,13,9,4,6,15,11,10,5,2
+1,11,8,13,6,14,7,2,9,10,3,1,5,4,12,15
+1,12,5,10,9,1,14,11,3,15,13,7,8,6,2,4
+2,14,7,13,15,4,6,9,5,10,3,2,11,8,1,12
+3,14,7,6,13,10,8,4,5,3,15,9,1,11,12,2
+4,13,7,6,14,15,9,3,4,10,5,1,2,12,8,11
+2,12,1,10,13,3,9,14,11,7,4,5,8,2,6,15
+1,9,11,14,13,8,3,7,12,6,4,15,10,5,1,2
+1,14,12,7,8,5,9,11,6,13,4,3,10,1,2,15
+2,12,5,10,3,1,9,14,13,11,4,8,7,15,2,6
+2,14,15,4,6,7,13,9,3,5,10,8,12,11,1,2
+1,12,8,3,14,9,10,13,15,7,5,1,6,2,11,4
+1,14,7,8,13,15,5,3,1,9,10,11,4,12,2,6
+2,14,13,7,4,15,9,8,3,6,1,5,11,12,2,10

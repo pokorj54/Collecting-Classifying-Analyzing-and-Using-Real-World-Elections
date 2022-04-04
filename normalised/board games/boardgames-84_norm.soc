@@ -1,0 +1,32 @@
+15
+1,Anachrony
+2,Istanbul: The Dice Game
+3,Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases
+4,Trajan
+5,Battle Sheep
+6,Monsterpocalypse
+7,Last Night on Earth: Timber Peak
+8,City of Spies: Estoril 1942
+9,Shogun
+10,1889: History of Shikoku Railways
+11,Revolution!
+12,Mage Knight Board Game
+13,New Amsterdam
+14,Exit: The Game  Dead Man on the Orient Express
+15,Stephenson's Rocket
+30,30,15
+3,15,11,5,7,8,13,9,6,12,14,1,2,10,4,3
+6,15,11,5,7,13,8,9,6,12,1,14,3,4,2,10
+2,15,11,10,7,5,13,9,8,6,12,1,3,4,14,2
+1,15,11,5,7,8,13,9,6,12,14,1,2,3,4,10
+1,15,11,5,7,8,13,9,6,12,14,1,2,3,10,4
+3,15,11,5,7,8,13,9,6,12,14,1,2,10,3,4
+1,11,15,14,10,7,5,13,9,8,6,12,1,3,4,2
+5,10,15,11,5,7,13,8,9,6,12,1,14,3,4,2
+1,15,11,5,7,8,13,9,6,12,1,14,2,10,3,4
+2,10,15,11,7,5,13,8,9,6,12,1,14,3,4,2
+1,11,15,7,10,5,14,13,9,8,6,12,1,3,4,2
+1,15,11,5,7,8,13,9,6,12,1,14,3,4,2,10
+1,10,15,11,7,5,13,8,9,6,12,1,3,14,4,2
+1,11,15,10,7,14,5,13,9,8,6,12,1,3,4,2
+1,11,15,10,7,5,13,9,8,6,12,1,3,4,2,14

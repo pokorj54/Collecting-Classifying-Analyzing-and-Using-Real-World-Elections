@@ -1,0 +1,23 @@
+15
+1,Werewolf
+2,Glass Road
+3,Tigris & Euphrates
+4,Power Grid Deluxe: Europe/North America
+5,Descent: Journeys in the Dark
+6,Star Wars: The Card Game
+7,Age of Empires III: The Age of Discovery
+8,Troyes
+9,Puzzle Strike Shadows
+10,Ginkgopolis
+11,Money!
+12,King of Tokyo
+13,Infinity
+14,Lifeboats
+15,RoboRally
+30,30,6
+5,13,1,14,9,11,4,7,2,12,5,10,15,6,8,3
+2,13,1,14,9,11,7,4,2,12,5,10,15,6,8,3
+1,13,14,1,9,11,4,7,2,12,5,10,15,6,8,3
+14,13,14,1,11,9,4,7,2,12,5,10,15,6,8,3
+7,13,1,14,9,7,11,4,2,12,5,10,15,6,8,3
+1,13,1,14,11,9,4,7,2,12,5,10,15,6,8,3

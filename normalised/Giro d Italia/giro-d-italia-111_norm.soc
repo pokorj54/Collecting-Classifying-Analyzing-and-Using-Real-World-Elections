@@ -1,0 +1,31 @@
+15
+1, MARÍN Ruber AlveiroColombia - Selle Italia
+2, PICCOLI MarianoLampre
+3, NOCENTINI RinaldoAcqua & Sapone - Caffe Mokambo
+4, VOGONDY NicolasFdjeux.com
+5, ZIEGLER ThomasGerolsteiner
+6, MASON OscarVini Caldirola - Nobili Rubinetterie
+7, CAÑADA DavidSaunier Duval - Prodir
+8, MORENI CristianAlessio - Bianchi
+9, POZZI OscarTenax
+10, CIONI Dario DavidFassa Bortolo
+11, MAZZANTI LucaCeramica Panaria - Margres
+12, VERBRUGGHE IefLotto - Domo
+13, STEEGMANS GertLotto - Domo
+14, BORGHI RuggeroDe Nardi
+15, CODOL MassimoFassa Bortolo
+30,30,14
+4,5,10,8,12,14,3,11,2,15,6,7,1,13,9,4
+3,10,8,14,6,7,5,12,1,15,11,3,4,2,9,13
+3,8,2,7,10,14,6,1,11,15,4,5,9,3,12,13
+3,10,7,6,8,5,14,3,4,9,15,12,1,13,2,11
+1,8,10,2,7,14,5,1,6,11,15,4,12,13,3,9
+3,2,10,8,7,6,1,14,15,9,13,5,12,11,4,3
+3,8,10,7,14,11,6,1,15,5,4,2,3,13,12,9
+2,8,2,3,10,14,7,6,15,11,12,1,5,13,4,9
+2,2,8,10,14,3,11,5,7,1,12,4,15,6,9,13
+1,10,15,11,3,14,8,7,6,5,1,9,2,12,4,13
+1,3,10,8,5,15,7,12,13,14,2,1,9,4,11,6
+1,7,10,8,3,2,12,14,11,13,6,5,15,1,9,4
+2,10,7,15,9,3,11,14,6,4,1,5,8,2,12,13
+1,8,3,10,7,6,11,14,5,15,1,4,9,2,12,13

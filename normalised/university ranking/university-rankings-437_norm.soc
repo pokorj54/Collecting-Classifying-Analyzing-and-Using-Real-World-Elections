@@ -1,0 +1,31 @@
+15
+1,University of Konstanz
+2,University of St Andrews
+3,Fudan University
+4,University College Cork
+5,University of Bern
+6,University of Innsbruck
+7,Georgetown University
+8,George Mason University
+9,Vienna University of Technology
+10,University of Ottawa
+11,University of Virginia
+12,Medical University of Vienna
+13,Lancaster University
+14,Wake Forest University
+15,University of Oxford
+30,30,14
+2,15,11,7,14,3,10,13,4,9,6,5,12,2,8,1
+3,15,11,3,5,10,14,12,7,2,13,9,6,4,8,1
+2,15,14,11,2,13,6,12,5,7,10,1,4,8,3,9
+2,12,14,7,11,15,3,2,13,6,8,4,5,10,9,1
+3,15,11,5,2,6,3,10,1,9,12,8,7,4,13,14
+4,15,8,12,6,11,3,5,10,2,7,13,1,14,4,9
+3,15,8,6,11,1,5,7,14,3,10,12,2,9,13,4
+2,15,3,11,10,5,12,7,13,2,9,8,4,14,6,1
+2,15,10,11,13,2,3,5,9,1,7,14,4,8,6,12
+2,15,11,5,10,2,6,14,12,3,7,1,9,8,13,4
+2,15,5,2,12,11,3,8,6,10,7,13,1,14,4,9
+1,15,2,7,5,6,11,14,9,3,10,12,8,13,4,1
+1,15,7,9,1,4,11,3,5,10,2,6,14,12,13,8
+1,15,11,3,14,7,9,4,2,6,5,12,10,1,8,13

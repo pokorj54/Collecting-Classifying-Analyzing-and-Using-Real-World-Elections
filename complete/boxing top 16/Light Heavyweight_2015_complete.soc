@@ -1,0 +1,24 @@
+12
+1,Rafael Cavalcante
+2,Alexander Gustafsson
+3,Ovince Saint Preux
+4,Jimi Manuwa
+5,Daniel Cormier
+6,Rogerio Nogueira
+7,Ryan Bader
+8,Glover Teixeira
+9,Patrick Cummins
+10,Rashad Evans
+11,Anthony Johnson
+12,Mauricio Rua
+36,36,10
+2,2,5,11,10,8,7,3,4,12,1,6,9
+12,11,2,5,10,7,8,3,4,12,1,6,9
+1,5,11,2,7,10,8,3,4,12,1,6,9
+4,5,11,2,10,7,8,3,4,12,1,6,9
+4,5,11,2,7,8,10,3,4,12,1,6,9
+1,5,11,2,7,8,10,3,4,12,9,6,1
+2,5,11,2,8,7,10,3,4,12,9,6,1
+2,5,11,2,8,7,10,3,12,4,9,6,1
+3,5,11,2,7,8,3,10,12,4,9,6,1
+5,5,11,2,7,8,3,10,12,4,6,9,1

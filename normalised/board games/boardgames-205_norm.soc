@@ -1,0 +1,27 @@
+15
+1,Mr. Jack
+2,Shipyard
+3,R-Eco
+4,Beyond Balderdash
+5,The Quest for El Dorado
+6,First Train to Nuremberg
+7,Star Trek: Fleet Captains
+8,Dragonheart
+9,Rajas of the Ganges
+10,Chinatown
+11,Legendary Encounters: A Firefly Deck Building Game
+12,Tigris & Euphrates
+13,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures
+14,The Red Dragon Inn 3
+15,Photosynthesis
+30,30,10
+12,11,4,14,8,6,3,9,5,13,15,10,1,7,2,12
+3,11,4,14,8,6,3,9,13,5,15,10,1,7,2,12
+2,4,11,9,14,5,8,3,6,13,10,15,1,2,7,12
+4,11,4,14,9,5,8,3,6,13,10,15,1,2,7,12
+2,11,4,14,9,8,6,3,5,13,10,15,1,2,7,12
+2,11,4,14,8,9,6,3,5,13,10,15,1,2,7,12
+1,11,4,14,9,8,5,3,6,13,10,15,1,2,7,12
+1,11,4,14,8,6,9,3,5,13,10,15,1,7,2,12
+1,11,4,14,8,6,3,9,13,15,5,10,7,1,2,12
+2,11,4,14,8,6,9,3,5,13,15,10,1,7,2,12

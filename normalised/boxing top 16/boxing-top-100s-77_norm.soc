@@ -1,0 +1,26 @@
+15
+1,Donald Cerrone
+2,Santiago Ponzinibbio
+3,Stephen Thompson
+4,Robbie Lawler
+5,Rafael Dos Anjos
+6,Alex Oliveira
+7,Kamaru Usman
+8,Gunnar Nelson
+9,Darren Till
+10,Demian Maia
+11,Colby Covington
+12,Leon Edwards
+13,Neil Magny
+14,Tyron Woodley
+15,Jorge Masvidal
+30,30,9
+2,14,5,9,3,11,4,7,10,13,15,2,1,8,12,6
+4,14,11,9,5,3,4,7,10,13,15,2,12,1,6,8
+4,14,11,7,9,3,5,4,2,10,15,12,13,8,1,6
+2,14,11,7,9,3,5,4,2,10,15,12,13,1,6,8
+2,14,11,9,5,3,4,7,10,13,15,2,1,8,12,6
+3,14,11,9,5,3,4,7,10,13,15,2,12,1,8,6
+4,14,3,5,11,4,10,15,7,9,13,2,1,8,6,12
+4,14,3,5,11,4,7,10,15,9,13,2,1,8,6,12
+5,14,11,9,5,3,7,4,2,10,15,12,13,1,6,8

@@ -1,0 +1,26 @@
+15
+1,Rommel in the Desert
+2,Sushi Go Party!
+3,Lisboa
+4,Colosseum
+5,Flamme Rouge
+6,Teenage Mutant Ninja Turtles: Shadows of the Past
+7,Targi
+8,Clans of Caledonia
+9,Quoridor
+10,Panamax
+11,Kingsport Festival
+12,Schotten Totten
+13,Isle of Skye: From Chieftain to King
+14,Inkognito
+15,Commands & Colors: Ancients
+30,30,9
+6,15,9,1,6,7,11,14,2,13,5,4,12,8,10,3
+6,15,9,1,6,7,11,14,2,13,5,12,4,8,10,3
+1,9,15,6,1,7,14,11,2,13,5,12,4,8,10,3
+4,9,15,1,6,7,11,14,2,13,5,12,4,8,10,3
+6,9,7,15,6,1,14,11,2,13,5,12,8,4,10,3
+1,9,1,6,7,11,14,2,13,5,4,12,8,10,3,15
+3,9,15,7,6,1,14,11,2,13,5,12,8,4,10,3
+1,9,15,1,6,7,14,11,2,13,5,12,4,8,10,3
+2,9,7,15,1,6,14,11,2,13,5,12,8,4,10,3

@@ -1,0 +1,31 @@
+15
+1,University of Nottingham
+2,Northwestern University
+3,University of Copenhagen
+4,Tel Aviv University
+5,University of Oslo
+6,Duke University
+7,University of Oxford
+8,California Institute of Technology
+9,Brown University
+10,University of Virginia
+11,University of British Columbia
+12,University of Helsinki
+13,Seoul National University
+14,New York University
+15,University of Zurich
+30,30,14
+3,8,2,7,6,9,14,11,15,12,10,3,1,5,13,4
+2,8,7,14,5,4,6,3,9,12,15,1,11,2,13,10
+3,7,11,15,3,1,5,8,6,12,14,2,9,4,10,13
+2,6,8,7,2,15,13,11,3,1,4,9,10,14,5,12
+3,6,7,2,8,14,11,12,10,13,9,15,4,5,3,1
+1,13,8,6,7,2,4,14,10,1,9,11,15,12,5,3
+1,8,7,5,14,15,2,1,11,3,12,9,6,13,4,10
+2,8,7,9,6,14,12,4,2,11,13,10,15,5,3,1
+4,8,7,6,14,2,11,3,15,10,9,12,1,4,13,5
+3,7,6,8,14,2,11,10,12,3,15,9,4,13,5,1
+1,7,8,14,3,5,2,6,11,9,12,1,15,13,4,10
+2,8,7,11,6,2,14,4,12,9,13,15,10,1,5,3
+2,3,6,15,14,8,9,10,7,2,13,1,12,11,5,4
+1,8,7,2,6,14,10,11,9,3,15,12,1,4,5,13

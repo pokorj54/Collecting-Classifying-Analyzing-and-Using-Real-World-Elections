@@ -1,0 +1,32 @@
+15
+1,University of British Columbia
+2,Syracuse University
+3,Sapienza University of Rome
+4,McGill University
+5,University of Southern Denmark
+6,University of Ferrara
+7,Eindhoven University of Technology
+8,University of Antwerp
+9,Kyushu University
+10,University of Bologna
+11,Bielefeld University
+12,VU University Amsterdam
+13,University of Pisa
+14,Cornell University
+15,University of Manitoba
+30,30,15
+2,1,4,7,5,8,14,12,11,15,10,6,2,3,13,9
+1,8,7,5,9,12,15,2,6,1,4,13,11,10,3,14
+3,14,4,9,15,3,2,1,7,10,12,13,8,5,6,11
+2,14,4,1,12,3,10,9,13,15,8,5,6,7,11,2
+2,14,4,1,7,9,12,8,2,3,15,10,11,13,5,6
+1,14,4,3,1,2,15,13,10,9,12,8,7,5,6,11
+2,14,2,1,4,12,13,8,10,6,5,7,11,3,15,9
+2,14,1,4,12,9,3,5,8,10,7,11,15,2,13,6
+3,14,3,4,1,15,7,9,12,10,13,8,5,6,2,11
+1,14,13,1,3,4,12,9,10,5,7,8,15,11,2,6
+2,9,14,5,4,2,7,12,1,13,10,15,6,8,3,11
+5,14,4,1,7,12,8,15,9,3,2,10,5,11,13,6
+2,14,1,4,12,3,10,15,13,8,9,6,7,5,2,11
+1,14,1,12,4,10,9,7,11,6,15,2,13,5,3,8
+1,14,4,1,13,3,12,9,10,5,7,8,15,11,2,6

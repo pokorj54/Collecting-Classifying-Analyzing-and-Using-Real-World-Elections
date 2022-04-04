@@ -1,0 +1,31 @@
+15
+1,University of California
+2,Swinburne University of Technology
+3,Boston College
+4,Lund University
+5,Osaka University
+6,University of Connecticut
+7,University of Florence
+8,Ghent University
+9,University of Leicester
+10,University of Copenhagen
+11,Leiden University
+12,Utrecht University
+13,Emory University
+14,University of Lisbon
+15,Lancaster University
+30,30,14
+2,1,12,10,8,11,14,5,13,4,7,9,15,2,6,3
+2,1,5,3,13,10,12,6,7,8,15,14,4,11,9,2
+3,1,12,10,4,11,6,5,8,13,7,9,14,15,2,3
+4,1,11,4,10,12,8,13,5,6,9,7,14,3,15,2
+2,1,10,5,12,11,13,9,8,4,3,14,2,7,6,15
+2,1,5,13,11,8,12,6,15,10,4,3,14,9,2,7
+3,1,10,8,5,13,4,11,12,14,7,6,9,15,2,3
+2,1,11,12,8,4,5,15,10,13,9,3,6,14,7,2
+1,1,5,12,10,11,8,4,6,7,14,13,9,3,15,2
+1,1,10,5,7,11,12,13,8,14,4,6,9,3,15,2
+2,1,5,13,8,6,11,9,3,12,10,14,7,15,2,4
+2,10,13,1,5,4,6,9,15,12,11,7,3,14,8,2
+3,1,10,12,5,13,11,8,4,14,6,7,9,15,3,2
+1,1,10,13,12,11,4,5,8,9,6,7,14,15,3,2

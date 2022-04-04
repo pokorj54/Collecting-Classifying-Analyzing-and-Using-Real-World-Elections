@@ -1,0 +1,30 @@
+15
+1, FERRARI RobertoLampre - Merida
+2, ZILIOLI GianfrancoAndroni Giocattoli - Sidermec
+3, ELISSONDE KennyFDJ
+4, LANCASTER BrettOrica GreenEDGE
+5, BAK Lars YttingLotto Soudal
+6, FELLINE FabioTrek Factory Racing 
+7, BERLATO GiacomoNippo - Vini Fantini 
+8, MALAGUTI AlessandroNippo - Vini Fantini 
+9, QUINTANA DayerMovistar Team
+10, BÉRARD JulienAG2R La Mondiale
+11, AMADOR AndreyMovistar Team
+12, COLBRELLI SonnyBardiani - CSF Pro Team
+13, CATALDO DarioAstana Pro Team
+14, BANDIERA MarcoAndroni Giocattoli - Sidermec
+15, WEENING PieterOrica GreenEDGE
+30,30,13
+2,8,4,13,11,7,9,12,1,10,3,5,2,6,15,14
+4,13,12,11,2,3,6,10,7,9,4,5,1,15,14,8
+4,6,11,13,3,15,5,2,9,4,7,8,10,14,1,12
+5,12,11,13,1,6,5,3,15,10,2,9,8,4,7,14
+3,11,13,12,6,5,1,14,9,15,8,7,2,10,3,4
+1,13,11,3,6,9,2,7,10,12,8,4,15,5,1,14
+4,11,13,7,10,5,2,6,9,3,8,12,4,15,1,14
+1,11,6,13,2,10,9,3,7,12,8,4,15,5,1,14
+1,11,6,2,13,3,7,5,9,15,12,14,4,10,8,1
+2,11,13,6,7,15,5,9,2,3,4,8,10,12,14,1
+1,3,11,6,13,15,5,2,7,9,1,12,4,10,8,14
+1,11,1,4,5,7,9,13,14,12,10,8,6,15,3,2
+1,15,11,3,5,6,2,9,4,13,14,7,10,1,8,12

@@ -1,0 +1,24 @@
+15
+1,Joseph Benavidez
+2,John Moraga
+3,Dustin Ortiz
+4,Tim Elliott
+5,Louis Gaudinot
+6,Darrell Montague
+7,Zach Makovsky
+8,Demetrious Johnson
+9,John Lineker
+10,Ali Bagautinov
+11,Scott Jorgensen
+12,Ian McCall
+13,John Dodson
+14,Jussier Formiga
+15,Chris Cariaso
+30,30,7
+5,8,13,1,12,2,10,14,9,4,7,15,5,3,11,6
+6,8,13,1,12,2,10,9,14,4,15,7,5,3,11,6
+6,8,13,1,12,2,10,9,14,4,15,7,5,11,3,6
+4,8,13,1,12,2,10,14,9,4,15,7,5,11,3,6
+3,8,13,1,12,10,2,14,9,4,7,15,5,3,11,6
+4,8,13,1,12,2,9,14,10,4,15,7,5,11,3,6
+2,8,13,1,12,2,9,14,10,4,15,7,5,11,6,3

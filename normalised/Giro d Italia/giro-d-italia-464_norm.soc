@@ -1,0 +1,34 @@
+15
+1, SABALIAUSKAS MariusLampre-Caffita
+2, MORENI CristianQuickstep - Innergetic
+3, TONTI AndreaLampre-Caffita
+4, VILA Francisco JavierLampre-Caffita
+5, BRUSEGHIN MarzioFassa Bortolo
+6, PETROV EvgeniLampre-Caffita
+7, URWEIDER SaschaPhonak Hearing Systems
+8, MONTGOMERY SvenGerolsteiner
+9, BAUMANN EricT-Mobile Team
+10, LAISEKA RobertoEuskaltel - Euskadi
+11, MOLETTA AndreaGerolsteiner
+12, PERON AndreaCSC ProTeam
+13, SCHNIDER DanielPhonak Hearing Systems
+14, MAZZANTI LucaCeramica Panaria - Navigare
+15, TSCHOPP JohannPhonak Hearing Systems
+30,30,17
+2,2,9,11,3,4,14,8,5,6,7,1,15,10,12,13
+1,11,5,3,4,13,6,8,14,1,10,15,7,2,12,9
+3,14,2,8,3,6,4,5,1,10,15,9,12,11,13,7
+1,7,4,11,6,5,14,9,3,13,2,12,1,8,15,10
+2,14,3,4,8,2,6,13,15,10,12,9,1,11,5,7
+4,14,3,2,4,11,15,8,10,6,1,5,7,13,9,12
+3,6,5,2,14,8,4,3,10,15,13,11,12,1,9,7
+1,5,4,14,3,15,1,6,2,10,12,13,9,11,7,8
+3,5,14,2,3,10,8,4,1,6,15,12,7,13,11,9
+1,2,5,4,1,3,6,10,8,14,15,13,9,12,11,7
+1,14,4,2,5,15,11,9,13,12,10,7,1,3,6,8
+2,14,2,5,3,15,8,6,4,11,10,13,1,12,7,9
+1,5,12,8,6,1,2,3,15,9,4,14,7,10,11,13
+2,9,4,3,5,1,13,15,11,6,7,14,12,8,2,10
+1,5,12,2,4,15,10,13,6,8,7,9,14,11,1,3
+1,5,4,12,10,14,1,8,2,3,6,11,13,7,15,9
+1,11,5,6,3,2,15,14,4,13,8,1,10,9,12,7

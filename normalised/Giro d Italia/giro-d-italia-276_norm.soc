@@ -1,0 +1,27 @@
+15
+1, PINOTTI MarcoTeam High Road
+2, SIMONI GilbertoSerramenti PVC Diquigiovanni-Androni Giocattoli
+3, RODRÃGUEZ JoaquimCaisse d'Epargne
+4, SPEZIALETTI AlessandroLPR Brakes - Ballan
+5, POZZOVIVO DomenicoCSF Group - Navigare
+6, LEVARLET GuillaumeFranÃ§aise des Jeux
+7, HORRACH JoanCaisse d'Epargne
+8, ROUSSEAU NicolasAG2R La Mondiale
+9, DALL'ANTONIA TizianoCSF Group - Navigare
+10, LEIPHEIMER LeviAstana
+11, BAZAYEV AssanAstana
+12, PETROV EvgeniTinkoff Credit Systems
+13, GREIPEL AndrÃ©Team High Road
+14, BENÃTEZ JosÃ© AlbertoSaunier Duval - Scott
+15, IVANOV RuslanSerramenti PVC Diquigiovanni-Androni Giocattoli
+30,30,10
+3,11,13,6,2,12,1,10,3,5,14,4,7,8,9,15
+3,5,10,3,12,2,1,14,6,9,11,15,7,4,8,13
+5,2,3,5,10,15,4,12,14,1,8,13,6,9,11,7
+5,3,12,5,10,1,2,4,15,7,11,9,8,13,14,6
+4,3,10,2,1,5,12,14,15,6,4,7,11,9,8,13
+3,1,10,12,9,15,4,13,5,14,7,8,6,2,3,11
+3,3,2,5,12,10,4,15,7,1,11,9,8,13,14,6
+1,11,13,1,2,10,8,12,15,14,6,9,4,5,3,7
+1,2,3,12,5,4,1,7,10,6,14,15,8,13,9,11
+2,5,2,3,10,4,12,15,7,6,14,8,1,13,11,9

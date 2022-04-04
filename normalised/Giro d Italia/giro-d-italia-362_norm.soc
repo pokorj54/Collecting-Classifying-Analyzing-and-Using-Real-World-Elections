@@ -1,0 +1,29 @@
+15
+1, YATES SimonMitchelton-Scott
+2, GEOGHEGAN HART TaoTeam INEOS
+3, OOMEN SamTeam Sunweb
+4, LE GAC OlivierGroupama - FDJ
+5, NIBALI AntonioBahrain Merida
+6, MARTENS PaulTeam Jumbo-Visma
+7, MADOUAS ValentinGroupama - FDJ
+8, CAICEDO Jonathan KleverEF Education First
+9, SCOTSON MilesGroupama - FDJ
+10, LEEZER TomTeam Jumbo-Visma
+11, CARBONI GiovanniBardiani - CSF
+12, BOARO ManueleAstana Pro Team
+13, NIBALI VincenzoBahrain Merida
+14, SBARAGLI KristianIsrael Cycling Academy
+15, GAROSIO AndreaBahrain Merida
+30,30,12
+3,3,13,6,11,12,1,2,5,15,14,7,8,4,10,9
+2,11,7,3,1,14,2,15,13,5,8,12,6,4,9,10
+3,1,13,2,11,14,7,8,12,10,6,5,3,15,4,9
+3,13,2,1,3,7,11,8,5,12,15,4,14,6,10,9
+3,12,14,7,4,13,10,1,2,15,8,9,11,5,6,3
+3,1,13,2,12,11,5,14,3,6,7,4,9,15,8,10
+2,1,13,10,12,7,3,8,11,9,14,2,4,5,15,6
+4,13,1,12,2,3,11,7,14,15,6,5,9,8,4,10
+1,13,7,1,3,6,15,8,5,10,11,14,12,4,9,2
+2,14,7,13,1,2,6,3,12,8,11,15,5,4,9,10
+2,7,13,1,3,2,14,11,6,15,5,12,8,9,10,4
+2,14,12,1,4,3,13,11,7,2,15,6,9,8,5,10

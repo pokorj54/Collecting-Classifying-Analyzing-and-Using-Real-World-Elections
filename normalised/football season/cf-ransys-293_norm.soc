@@ -1,0 +1,22 @@
+15
+1,Bethune-Cookman
+2,Murray St
+3,Davidson
+4,La Salle
+5,Hofstra
+6,Rutgers
+7,UAB
+8,Chattanooga
+9,James Madison
+10,San Diego
+11,Alabama
+12,SE Louisiana
+13,Weber St
+14,Robert Morris
+15,SUNY Albany
+30,30,5
+12,9,6,10,5,11,13,8,15,1,14,7,12,3,2,4
+8,9,10,6,5,11,13,8,15,1,2,7,12,14,3,4
+6,9,10,6,5,11,13,8,15,1,14,12,7,3,2,4
+3,9,6,10,5,11,13,8,15,1,12,14,7,2,3,4
+1,9,6,10,5,13,11,8,15,1,7,14,12,2,3,4

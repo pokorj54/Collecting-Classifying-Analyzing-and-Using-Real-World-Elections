@@ -1,0 +1,23 @@
+14
+1,Montana
+2,Liberty
+3,Appalachian St
+4,S Carolina St
+5,William & Mary
+6,Villanova
+7,Montana St
+8,New Hampshire
+9,SF Austin
+10,Delaware
+11,Jacksonville St
+12,E Washington
+13,Penn
+14,Northern Iowa
+8,8,7
+1,12,10,6,3,8,5,9,7,11,13,4,14,2,1
+1,6,1,3,5,8,4,9,14,12,10,11,2,7,13
+1,1,6,3,8,11,5,4,9,10,14,12,2,7,13
+1,10,3,11,9,5,6,12,1,7,8,2,4,14,13
+1,3,11,5,9,6,10,12,1,8,7,2,14,4,13
+1,3,11,5,6,10,12,8,9,7,14,2,1,4,13
+2,3,12,5,9,7,10,8,6,11,4,13,14,1,2

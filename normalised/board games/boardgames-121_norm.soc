@@ -1,0 +1,28 @@
+15
+1,Hannibal: Rome vs. Carthage
+2,Xia: Legends of a Drift System
+3,Mage Knight Board Game
+4,Zombicide Season 2: Prison Outbreak
+5,Battlestar Galactica: The Board Game
+6,Kreta
+7,Archipelago
+8,Strat-O-Matic Baseball
+9,Glory to Rome
+10,Root
+11,Fortress America
+12,Race! Formula 90
+13,Iron Dragon
+14,The Manhattan Project: Energy Empire
+15,Relic
+30,30,11
+4,12,8,15,2,13,11,6,9,1,14,3,10,7,4,5
+7,8,12,15,2,13,11,6,9,1,14,3,10,7,4,5
+1,12,8,15,13,11,6,2,9,1,14,3,7,4,5,10
+8,12,8,15,2,13,11,6,9,1,14,3,7,10,4,5
+2,8,12,2,15,13,11,6,9,1,14,3,10,7,4,5
+2,12,8,15,13,11,2,6,9,1,14,3,7,4,10,5
+1,10,1,9,2,14,3,7,4,12,5,8,15,13,11,6
+1,12,8,15,13,11,6,1,10,9,2,14,3,7,4,5
+2,8,12,2,15,13,11,6,9,14,1,3,10,7,4,5
+1,12,8,15,13,2,11,6,9,1,14,3,7,10,4,5
+1,12,10,8,15,13,11,6,1,9,2,14,3,7,4,5

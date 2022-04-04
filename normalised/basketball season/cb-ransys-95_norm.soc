@@ -1,0 +1,22 @@
+15
+1,F Dickinson
+2,Savannah St
+3,Villanova
+4,NJIT
+5,Xavier
+6,Oregon
+7,UC Riverside
+8,UCF
+9,Campbell
+10,Youngstown St
+11,Cleveland St
+12,Louisiana Tech
+13,Vermont
+14,Cal Poly
+15,Columbia
+30,30,5
+3,3,5,12,6,13,11,8,9,14,7,10,15,2,1,4
+6,3,5,12,6,13,11,8,9,14,7,10,15,1,2,4
+4,3,5,12,6,11,8,13,9,10,14,7,15,1,2,4
+7,3,5,12,6,11,13,8,9,14,10,7,15,2,1,4
+10,3,5,12,6,13,11,8,9,7,14,10,15,2,1,4

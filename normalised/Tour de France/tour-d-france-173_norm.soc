@@ -1,0 +1,33 @@
+15
+1, MUGERLI MatejLiquigas
+2, ZABEL ErikTeam Milram
+3, BALLAN AlessandroLampre-Fondital
+4, ZABRISKIE DavidCSC ProTeam
+5, GARATE Juan ManuelQuickstep - Innergetic
+6, SINKEWITZ PatrikT-Mobile Team
+7, CUNEGO DamianoLampre-Fondital
+8, JALABERT NicolasPhonak Hearing Systems
+9, ETXEBARRIA UnaiEuskaltel - Euskadi
+10, ZUBELDIA HaimarEuskaltel - Euskadi
+11, WEGMANN FabianGerolsteiner
+12, COYOT ArnaudCofidis
+13, MCEWEN RobbieDavitamon - Lotto
+14, LANDIS FloydPhonak Hearing Systems
+15, HORNER ChrisDavitamon - Lotto
+30,30,16
+3,13,2,3,7,10,9,11,4,8,14,5,12,6,1,15
+3,13,3,2,6,12,8,14,10,15,9,5,7,4,1,11
+6,13,2,15,14,8,5,12,10,6,7,4,3,11,9,1
+2,2,4,10,15,6,14,7,11,8,3,5,12,13,9,1
+2,14,6,4,10,3,15,11,8,7,13,2,12,1,5,9
+2,13,2,12,11,1,6,3,14,10,8,7,4,9,15,5
+1,2,11,6,10,14,3,7,8,4,13,5,9,1,15,12
+2,13,2,12,1,14,6,5,10,3,15,9,7,4,8,11
+1,7,14,10,15,6,5,1,11,3,4,2,8,9,13,12
+1,13,12,14,8,15,10,6,1,7,9,4,11,3,5,2
+1,14,4,7,10,8,1,3,6,11,15,13,12,5,2,9
+1,3,13,2,14,11,10,12,6,9,7,5,1,8,4,15
+2,13,2,14,6,9,15,4,10,8,7,11,1,3,12,5
+1,14,10,6,7,11,2,5,3,4,13,1,8,15,12,9
+1,7,10,6,14,13,2,9,11,12,8,4,1,3,5,15
+1,10,7,14,15,5,6,3,1,13,12,9,2,11,8,4

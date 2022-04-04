@@ -1,0 +1,27 @@
+15
+1,Codenames: Deep Undercover
+2,Quoridor
+3,Riverboat
+4,Charterstone
+5,Québec
+6,Robinson Crusoe: Adventures on the Cursed Island
+7,HeroQuest Advanced Quest
+8,Runewars
+9,Betrayal at Baldur's Gate
+10,Mangrovia
+11,Mafia de Cuba
+12,New Bedford
+13,Confusion:  Espionage and Deception in the Cold War
+14,Forbidden Desert
+15,Cry Havoc
+30,30,10
+12,9,2,12,5,10,13,11,7,1,8,4,15,14,6,3
+2,2,9,12,5,10,13,11,7,1,4,8,14,6,15,3
+2,9,2,12,10,5,7,13,11,1,8,15,4,14,6,3
+2,2,9,12,5,10,13,11,7,1,8,4,14,6,15,3
+3,9,2,12,5,10,13,7,11,1,8,4,15,14,6,3
+2,2,3,5,12,10,9,13,4,11,7,1,8,14,6,15
+3,9,2,12,10,5,13,7,11,1,8,4,15,14,6,3
+1,2,9,12,5,10,13,11,7,1,8,4,15,14,6,3
+2,3,2,12,5,9,10,13,4,11,7,1,8,14,6,15
+1,3,2,9,12,5,10,13,11,4,7,1,8,14,6,15

@@ -1,0 +1,30 @@
+15
+1,University of Oslo
+2,Yale University
+3,University of Bristol
+4,Duke University
+5,University of Maryland
+6,University of Geneva
+7,University of Cambridge
+8,Princeton University
+9,Tel Aviv University
+10,New York University
+11,University of Southern California
+12,Harvard University
+13,Karolinska Institute
+14,University of Pennsylvania
+15,Rice University
+30,30,13
+3,12,14,7,4,2,10,11,5,1,13,9,3,8,6,15
+4,6,7,13,3,12,1,2,8,4,11,15,10,5,14,9
+1,12,8,7,2,15,14,6,13,4,5,10,9,11,1,3
+2,8,12,7,2,14,4,13,10,9,11,3,5,6,15,1
+2,12,2,14,4,7,10,8,11,13,5,3,6,9,15,1
+3,12,7,8,2,14,1,10,6,13,11,15,5,3,4,9
+2,12,8,7,2,10,14,6,1,13,5,9,4,11,3,15
+2,12,8,14,7,2,4,15,10,11,9,6,5,13,1,3
+1,12,14,7,4,2,8,11,10,5,15,3,13,9,6,1
+3,12,2,7,14,8,4,10,5,3,6,11,15,13,9,1
+1,12,2,8,7,14,13,11,4,10,9,15,3,5,6,1
+2,12,14,2,7,4,10,11,5,8,9,3,13,15,6,1
+4,12,8,2,14,7,4,10,5,11,13,3,9,15,6,1

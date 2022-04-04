@@ -1,0 +1,29 @@
+15
+1,A Feast for Odin
+2,Bottom of the 9th
+3,Expedition: Northwest Passage
+4,Bloodborne: The Card Game
+5,Automobile
+6,King's Forge
+7,Lords of Waterdeep
+8,Caylus
+9,Secret Hitler
+10,Dungeon Command: Heart of Cormyr
+11,Sylla
+12,Mage Knight Board Game
+13,Age of Steam
+14,Mythic Battles: Pantheon
+15,Felicity: The Cat in the Sack
+30,30,12
+2,3,15,13,4,11,2,6,10,9,12,1,14,5,8,7
+2,3,4,15,13,11,2,6,10,9,12,1,14,5,8,7
+1,13,4,15,3,11,2,6,9,10,1,12,14,5,8,7
+2,13,4,15,3,2,11,6,9,10,1,12,14,5,8,7
+5,4,3,15,13,11,2,6,10,9,12,1,14,5,8,7
+1,4,13,3,15,11,2,6,10,9,1,12,14,5,8,7
+4,13,4,3,15,11,2,6,9,10,1,12,14,5,7,8
+8,13,4,3,15,2,11,6,9,10,1,12,14,5,7,8
+2,15,3,4,13,11,2,6,10,9,12,1,14,5,8,7
+1,13,9,12,1,14,5,8,7,3,15,4,11,2,6,10
+1,13,4,3,15,11,2,6,9,10,1,12,14,5,8,7
+1,15,3,13,4,11,2,6,10,9,12,1,14,5,8,7

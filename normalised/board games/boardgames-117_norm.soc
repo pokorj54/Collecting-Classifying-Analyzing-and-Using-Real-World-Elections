@@ -1,0 +1,26 @@
+15
+1,The Guns of Gettysburg
+2,Pax Porfiriana
+3,7 Wonders
+4,VivaJava: The Coffee Game: The Dice Game
+5,Hansa Teutonica
+6,Port Royal
+7,Richard III: The Wars of the Roses
+8,Taj Mahal
+9,First Martians: Adventures on the Red Planet
+10,Gulo Gulo
+11,One Night Ultimate Werewolf
+12,Marrakech
+13,Funkenschlag
+14,Pickomino
+15,RAF: The Battle of Britain 1940
+30,30,9
+2,10,14,15,5,12,13,7,4,1,9,11,8,2,6,3
+11,14,10,15,5,12,13,7,4,1,9,11,8,6,2,3
+9,10,14,5,15,12,13,7,4,1,9,11,8,6,2,3
+2,10,14,15,5,12,13,7,4,9,1,11,8,2,6,3
+1,10,14,15,5,12,13,7,9,4,1,11,8,2,6,3
+1,10,14,5,15,12,13,7,9,1,4,11,8,6,2,3
+1,10,14,5,15,12,13,7,9,4,1,11,8,6,2,3
+2,10,14,15,5,12,13,7,1,4,9,11,8,2,6,3
+1,10,14,5,15,12,13,7,4,9,1,11,8,6,2,3

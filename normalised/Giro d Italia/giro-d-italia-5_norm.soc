@@ -1,0 +1,32 @@
+15
+1, VELITS MartinOmega Pharma - Quick-Step
+2, VEIKKANEN JussiFDJ - BigMat
+3, SALERNO CristianoLiquigas - Cannondale
+4, VERMOTE JulienOmega Pharma - Quick-Step
+5, DIETZIKER AndreasTeam Netapp
+6, FAILLI FrancescoFarnese Vini-Neri-Sottoli
+7, GADRET JohnAG2R La Mondiale
+8, MAZZANTI LucaFarnese Vini-Neri-Sottoli
+9, DYACHENKO AlexandrAstana Pro Team
+10, BASSO IvanLiquigas - Cannondale
+11, PIETROPOLLI DanieleLampre - ISD
+12, BRAMBILLA GianlucaColnago CSF Bardiani
+13, OLIVEIRA NelsonRadioShack - Nissan
+14, SABATINI FabioLiquigas - Cannondale
+15, LOSADA AlbertoTeam Katusha 
+30,30,15
+3,4,11,10,7,15,12,3,14,5,2,8,6,13,1,9
+4,14,4,11,5,12,6,10,7,1,8,13,15,3,9,2
+1,14,11,4,7,1,6,10,3,13,15,8,5,12,2,9
+2,12,11,7,10,4,1,3,14,13,15,6,5,8,2,9
+3,13,5,1,10,11,6,8,14,12,2,7,15,9,3,4
+2,15,10,7,12,3,13,4,11,6,5,8,14,2,9,1
+2,7,12,10,4,9,15,5,3,11,13,14,8,1,2,6
+1,7,10,12,15,11,3,13,14,6,9,8,1,5,4,2
+2,14,11,12,7,13,5,4,1,10,3,8,6,15,9,2
+3,8,7,12,15,10,3,11,6,4,9,14,13,5,2,1
+1,13,4,14,10,1,2,9,5,15,6,7,11,12,8,3
+3,12,7,10,4,15,13,1,11,8,14,6,3,5,9,2
+1,10,12,7,4,13,11,6,8,14,5,1,3,15,9,2
+1,14,11,10,7,12,13,4,15,3,6,1,8,2,9,5
+1,9,14,13,10,5,7,12,6,4,1,11,2,15,8,3

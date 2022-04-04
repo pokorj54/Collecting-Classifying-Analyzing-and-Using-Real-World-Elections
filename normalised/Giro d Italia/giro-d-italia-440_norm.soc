@@ -1,0 +1,30 @@
+15
+1, DUPONT HubertAG2R La Mondiale
+2, MALACARNE DavideTeam Europcar
+3, POELS WoutOmega Pharma - Quick-Step
+4, ARU FabioAstana Pro Team
+5, KOCH MichelCannondale 
+6, ROGERS MichaelTinkoff - Saxo
+7, BOOKWALTER BrentBMC Racing Team
+8, QUINTANA NairoMovistar Team
+9, HEPBURN MichaelOrica GreenEDGE
+10, FEDI AndreaNeri Sottoli
+11, GATTO OscarCannondale 
+12, PUCCIO SalvatoreTeam Sky
+13, GUSEV VladimirTeam Katusha 
+14, MOSER MorenoCannondale 
+15, CUNEGO DamianoLampre - Merida
+30,30,13
+4,8,4,6,5,15,2,12,13,3,14,1,10,11,7,9
+4,8,4,3,1,15,6,7,13,2,12,11,14,10,5,9
+3,8,4,3,1,15,6,2,12,13,14,7,10,11,5,9
+6,8,4,1,6,13,7,15,5,10,2,11,3,12,9,14
+3,13,4,15,3,8,1,2,7,11,9,12,5,14,6,10
+2,11,5,14,13,10,9,12,15,7,8,1,3,6,2,4
+1,8,4,15,2,1,6,14,3,11,12,13,5,7,10,9
+2,10,13,6,8,2,3,4,1,15,11,7,12,9,5,14
+1,6,2,15,3,12,11,8,13,1,7,4,9,10,14,5
+1,2,4,8,3,1,6,15,12,7,11,13,14,5,10,9
+1,4,8,3,6,7,1,15,13,2,12,9,11,14,5,10
+1,4,6,8,3,2,15,1,11,13,9,7,5,14,10,12
+1,8,15,4,2,6,12,14,3,11,13,1,5,7,10,9

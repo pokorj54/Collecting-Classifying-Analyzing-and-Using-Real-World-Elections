@@ -1,0 +1,32 @@
+15
+1,Karolinska Institute
+2,University of Oxford
+3,University of Geneva
+4,Boston University
+5,University of Cambridge
+6,University of Helsinki
+7,University of Zurich
+8,Osaka University
+9,University of Pennsylvania
+10,University of Maryland
+11,University of Toronto
+12,Princeton University
+13,University of Sydney
+14,New York University
+15,Stanford University
+30,30,15
+5,12,15,5,2,14,9,3,11,8,1,10,6,7,4,13
+2,15,9,2,8,5,13,14,4,12,11,3,10,1,7,6
+2,5,12,2,15,9,14,3,6,8,10,11,4,1,7,13
+2,11,15,5,9,2,14,10,4,8,12,7,13,1,6,3
+4,15,2,9,5,11,14,12,4,1,7,8,10,3,6,13
+1,12,15,2,5,9,11,1,13,14,8,6,10,4,3,7
+1,11,2,15,9,5,13,14,8,10,6,7,4,1,12,3
+3,2,12,1,8,13,15,5,9,11,7,10,3,6,4,14
+2,15,5,9,2,12,11,14,1,4,13,8,7,10,6,3
+2,15,9,5,11,2,12,14,10,4,7,1,6,8,3,13
+1,15,12,9,5,2,14,10,11,1,4,8,7,6,3,13
+1,3,2,7,5,13,11,1,15,12,6,10,4,14,9,8
+1,12,15,5,9,2,4,14,11,10,7,6,1,3,13,8
+2,15,5,2,9,12,14,11,10,8,7,3,4,1,6,13
+1,5,12,15,2,9,14,3,1,7,10,11,6,4,8,13

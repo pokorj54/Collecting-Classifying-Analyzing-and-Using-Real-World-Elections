@@ -1,0 +1,28 @@
+15
+1, LE BON JohanFDJ
+2, CUMMINGS SteveBMC Racing Team
+3, PANTANO JarlinsonTeam Colombia
+4, SERGENT JesseRadioShack - Leopard
+5, OSS DanielBMC Racing Team
+6, MARENTES Wilson AlexanderTeam Colombia
+7, GUSEV VladimirTeam Katusha 
+8, MARTENS PaulBlanco Pro Cycling Team
+9, STETINA PeterGarmin Sharp
+10, CLEMENT StefBlanco Pro Cycling Team
+11, KANGERT TanelAstana Pro Team
+12, BELKOV MaximTeam Katusha 
+13, EVANS CadelBMC Racing Team
+14, PETROV EvgeniTeam Saxo - Tinkoff
+15, GARZELLI StefanoVini Fantini
+30,30,11
+2,8,13,11,7,9,15,10,3,14,6,1,4,5,12,2
+2,13,15,9,14,11,7,3,10,8,1,5,6,12,2,4
+4,13,11,9,14,3,10,15,4,6,5,8,1,7,2,12
+4,12,11,13,14,15,1,10,7,8,4,5,2,9,3,6
+6,5,8,14,7,1,13,11,3,10,4,6,9,15,2,12
+2,8,3,5,11,13,9,1,14,4,6,10,15,7,2,12
+1,11,13,14,10,7,1,9,8,15,5,4,3,2,6,12
+3,13,11,3,14,8,9,7,10,15,4,6,12,5,2,1
+3,11,13,5,7,14,9,15,4,8,3,1,2,12,6,10
+2,13,11,14,9,3,1,10,7,2,4,5,12,8,15,6
+1,13,11,3,10,14,9,7,8,6,4,15,1,12,5,2

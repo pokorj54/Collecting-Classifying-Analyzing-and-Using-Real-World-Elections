@@ -1,0 +1,34 @@
+15
+1, ZABEL ErikT-Mobile Team
+2, SAVOLDELLI PaoloDiscovery Channel 
+3, TAULER ToniIlles Balears - Caisse d'Epargne
+4, ENGELS AddyQuickstep - Innergetic
+5, VAN HUFFEL WimDavitamon - Lotto
+6, WHITE MatthewCofidis
+7, URWEIDER SaschaPhonak Hearing Systems
+8, CLAUDE MathieuBouygues Telecom
+9, CRUZ AntonioDiscovery Channel 
+10, BILEKA VolodymyrDiscovery Channel 
+11, KESSLER MatthiasT-Mobile Team
+12, MORENI CristianQuickstep - Innergetic
+13, VOGELS HenkDavitamon - Lotto
+14, BRANDT ChristopheDavitamon - Lotto
+15, BALDATO FabioFassa Bortolo
+30,30,17
+1,1,6,10,2,13,9,14,8,5,4,11,7,12,3,15
+2,1,12,11,10,4,2,5,14,13,3,6,9,15,8,7
+2,2,5,11,14,12,1,3,10,7,9,8,15,6,4,13
+1,2,10,14,12,5,11,4,1,7,15,3,6,13,8,9
+2,1,13,10,7,2,14,5,11,15,12,3,6,9,8,4
+4,1,13,10,2,11,12,5,14,7,9,15,3,4,6,8
+2,10,12,13,14,2,4,11,7,6,9,5,15,1,8,3
+2,10,13,1,2,14,9,6,11,12,5,4,3,15,8,7
+2,2,14,12,11,10,1,5,4,3,15,6,7,9,13,8
+1,2,14,12,5,4,6,11,1,15,10,3,7,8,9,13
+2,14,4,8,9,10,2,1,13,5,3,15,7,11,6,12
+2,11,2,5,1,14,9,7,4,12,10,15,3,8,6,13
+1,5,2,14,11,1,6,12,3,10,7,15,4,13,8,9
+3,2,5,12,11,14,1,4,3,8,10,7,15,13,6,9
+1,1,13,14,2,9,6,10,8,11,3,5,12,7,15,4
+1,11,14,2,12,5,4,1,10,3,9,7,8,6,15,13
+1,1,2,14,12,11,9,4,10,6,7,8,5,13,3,15

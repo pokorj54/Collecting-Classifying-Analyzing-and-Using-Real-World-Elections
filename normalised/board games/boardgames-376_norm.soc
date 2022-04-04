@@ -1,0 +1,27 @@
+15
+1,Madeira
+2,Indigo
+3,Project: ELITE
+4,Time's Up! Edición Azul
+5,Lancaster
+6,The Adventurers: The Temple of Chac
+7,Labyrinth
+8,Cinque Terre
+9,Container: 10th Anniversary Jumbo Edition!
+10,El Gaucho
+11,Macao
+12,Puzzle Strike Shadows
+13,Otys
+14,Harry Potter: Hogwarts Battle
+15,Wealth of Nations
+30,30,10
+1,9,2,3,6,15,4,8,13,12,7,10,11,5,14,1
+6,2,3,6,15,4,13,8,7,10,12,11,14,5,1,9
+10,2,3,6,13,4,15,7,8,10,12,14,11,5,1,9
+6,2,3,13,6,4,15,7,8,10,12,14,11,5,1,9
+2,2,3,6,13,15,4,8,7,10,12,14,11,5,1,9
+1,2,9,3,6,15,4,8,13,7,12,10,11,5,14,1
+1,2,3,6,15,4,13,8,7,12,10,11,14,5,1,9
+1,2,3,6,15,9,4,8,12,13,7,10,11,5,14,1
+1,2,3,6,15,13,4,8,7,10,12,14,11,5,1,9
+1,2,3,6,15,4,8,12,13,9,7,10,11,5,14,1

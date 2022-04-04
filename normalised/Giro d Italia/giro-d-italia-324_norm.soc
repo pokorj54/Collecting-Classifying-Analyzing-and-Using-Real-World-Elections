@@ -1,0 +1,28 @@
+15
+1, DUMA VladimirNavigare - Gaerne
+2, NAVAS DavidBanesto
+3, HERNANDEZ EduardoKelme - Costa Blanca
+4, GILI MarcoAmica Chips - Costa de Almeria
+5, ZINTCHENKO AndreiVitalicio Seguros - Grupo Generali
+6, SHEFER AlexandreRiso Scotti - Vinavil
+7, GENTILI MassimilianoCantina Tollo - Alexia Alluminio
+8, BLIJLEVENS JeroenTVM - Farm Frites
+9, DELLA VEDOVA MarcoLampre - Daikin - Colnago
+10, ZANETTI MauroVini Caldirola - Sidermec
+11, VAN HEESWIJK MaxMapei - Quickstep
+12, PODENZANA MassimoMercatone Uno - Bianchi
+13, FAGNINI Gian MatteoSaeco - Cannondale
+14, SCIREA MarioSaeco - Cannondale
+15, CLAVERO DanielVitalicio Seguros - Grupo Generali
+30,30,11
+4,8,15,6,12,14,7,5,10,1,13,2,11,4,9,3
+2,8,1,4,5,15,6,10,13,9,12,2,14,3,7,11
+3,8,15,6,14,13,11,7,4,12,9,5,3,1,10,2
+2,8,7,13,15,1,4,6,5,14,9,12,10,11,3,2
+4,8,4,11,5,1,7,10,9,15,3,6,12,2,14,13
+2,15,5,6,12,1,10,9,7,2,14,3,4,8,13,11
+2,8,4,1,13,15,5,6,10,14,9,12,11,2,3,7
+1,5,10,7,12,15,6,1,9,14,3,4,2,8,11,13
+5,15,5,12,6,1,10,7,13,9,14,3,11,2,8,4
+4,8,13,11,1,5,14,9,15,6,10,12,2,7,3,4
+1,8,13,4,7,15,5,6,14,12,1,2,10,9,3,11

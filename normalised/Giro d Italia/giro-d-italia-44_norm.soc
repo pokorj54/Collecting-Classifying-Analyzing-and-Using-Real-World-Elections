@@ -1,0 +1,31 @@
+15
+1, RABOTTINI MatteoNeri Sottoli
+2, CATTANEO MattiaLampre - Merida
+3, SERRY PieterOmega Pharma - Quick-Step
+4, EVANS CadelBMC Racing Team
+5, COLLI DanieleNeri Sottoli
+6, MALORI AdrianoMovistar Team
+7, VIVIANI EliaCannondale 
+8, TUFT SveinOrica GreenEDGE
+9, SANTAROMITA IvanOrica GreenEDGE
+10, KELDERMAN WilcoBelkin-Pro Cycling Team
+11, GESCHKE SimonTeam Giant - Shimano
+12, ANACONA WinnerLampre - Merida
+13, CUNEGO DamianoLampre - Merida
+14, CANOLA MarcoBardiani - CSF Pro Team
+15, POELS WoutOmega Pharma - Quick-Step
+30,30,14
+4,4,10,1,13,11,3,9,14,15,12,2,6,7,5,8
+3,4,15,10,13,1,2,9,11,3,14,6,8,5,12,7
+2,7,10,13,6,3,4,9,8,15,2,1,11,14,5,12
+1,10,4,12,1,13,2,6,3,11,8,7,15,9,14,5
+1,7,5,9,10,3,4,13,8,14,15,6,1,11,12,2
+2,2,9,10,15,4,13,1,12,11,3,6,14,5,7,8
+2,4,10,13,15,1,6,9,11,5,12,7,2,3,14,8
+3,4,10,15,1,13,12,3,2,9,11,6,8,5,7,14
+2,10,4,15,1,13,9,2,3,6,12,11,7,5,8,14
+3,4,1,9,10,15,13,12,3,7,5,11,2,6,14,8
+2,7,5,4,10,13,1,9,15,6,2,3,12,14,11,8
+2,14,7,5,4,10,15,1,13,8,11,12,6,9,2,3
+1,7,9,11,14,13,4,1,3,15,12,10,2,6,5,8
+2,11,10,1,13,4,15,14,7,9,2,3,8,12,6,5

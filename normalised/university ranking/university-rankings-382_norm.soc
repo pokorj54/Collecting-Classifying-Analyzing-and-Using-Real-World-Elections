@@ -1,0 +1,31 @@
+15
+1,University of Oxford
+2,Seoul National University
+3,University of Helsinki
+4,University of Rochester
+5,University of Cambridge
+6,Georgia Institute of Technology
+7,University of Zurich
+8,University of Arizona
+9,California Institute of Technology
+10,University of Toronto
+11,Princeton University
+12,University of Sydney
+13,Duke University
+14,Harvard University
+15,University of British Columbia
+30,30,14
+4,11,9,14,1,13,5,4,6,10,15,7,8,3,12,2
+2,14,10,1,5,13,15,9,2,8,11,12,3,6,4,7
+3,14,11,5,9,1,10,13,3,7,8,15,4,2,6,12
+2,2,14,9,13,1,8,6,5,4,12,11,10,15,7,3
+2,11,9,14,1,5,10,15,13,6,12,3,2,7,8,4
+3,14,9,5,1,11,13,10,8,15,7,4,3,6,12,2
+2,4,13,7,9,11,14,1,5,8,2,3,15,10,6,12
+2,13,6,9,12,8,11,1,5,10,7,2,15,4,14,3
+1,14,5,11,9,1,7,15,10,3,4,13,8,12,6,2
+2,1,15,12,7,5,10,14,6,9,11,13,3,4,8,2
+3,14,11,5,1,9,2,13,4,6,10,8,15,7,3,12
+1,14,5,13,10,1,9,11,8,6,15,4,3,2,12,7
+1,14,10,1,2,5,15,13,12,3,7,8,9,11,6,4
+2,14,11,9,5,1,13,10,15,8,4,6,7,3,12,2

@@ -1,0 +1,33 @@
+15
+1,Durham University
+2,University of Lisbon
+3,Lund University
+4,University of Cincinnati
+5,Arizona State University
+6,Sharif University of Technology
+7,University of Gothenburg
+8,University of Duisburg-Essen
+9,Osaka University
+10,University of Cambridge
+11,Northwestern University
+12,Macquarie University
+13,Ghent University
+14,University of California
+15,Charles University in Prague
+30,30,16
+4,14,10,11,9,5,3,13,4,7,1,15,8,12,2,6
+1,14,9,5,11,10,13,4,8,1,2,12,15,3,7,6
+3,14,10,11,3,13,5,4,7,9,15,2,1,8,12,6
+3,10,14,9,6,13,1,3,11,4,15,7,2,5,8,12
+1,14,9,3,10,15,11,1,4,7,2,6,12,5,13,8
+2,14,6,13,11,9,10,8,7,12,4,1,2,3,5,15
+2,14,11,10,1,3,13,5,4,7,8,9,6,12,15,2
+1,10,14,3,11,6,9,15,13,5,7,1,12,4,2,8
+2,14,10,11,13,9,3,2,15,5,7,4,1,12,8,6
+1,14,10,11,9,5,13,3,1,7,12,2,8,4,15,6
+1,10,11,14,9,4,1,7,12,13,5,2,3,8,15,6
+4,10,14,11,5,7,13,2,9,3,15,1,12,4,8,6
+2,12,10,1,3,14,15,8,13,7,2,11,5,9,4,6
+1,14,10,11,9,13,3,5,4,2,7,15,1,8,12,6
+1,10,14,11,9,13,1,5,3,4,15,2,6,7,12,8
+1,14,10,11,13,3,9,1,7,5,6,12,15,2,4,8

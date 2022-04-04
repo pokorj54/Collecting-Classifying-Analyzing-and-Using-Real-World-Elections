@@ -1,0 +1,16 @@
+7
+1,Mark Munoz
+2,Chris Weidman
+3,Vitor Belfort
+4,Luke Rockhold
+5,Anderson Silva
+6,Michael Bisping
+7,Costas Philippou
+31,31,7
+2,5,2,3,6,1,7,4
+1,5,2,3,6,7,1,4
+5,5,2,3,6,7,4,1
+5,5,2,3,6,4,7,1
+7,2,5,3,6,1,7,4
+3,2,5,3,6,1,4,7
+8,2,5,3,6,4,1,7

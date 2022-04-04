@@ -1,0 +1,32 @@
+15
+1, BARDET RomainAG2R La Mondiale
+2, VALGREN MichaelTeam Dimension Data
+3, BENNETT GeorgeTeam Jumbo-Visma
+4, DELAPLACE AnthonyTeam Arkéa Samsic
+5, EIKING Odd ChristianWanty - Gobert Cycling Team
+6, HAIG JackMitchelton-Scott
+7, ROCHE NicolasTeam Sunweb
+8, PEREZ AnthonyCofidis
+9, GAUDU DavidGroupama - FDJ
+10, IZAGIRRE GorkaAstana Pro Team
+11, MATTHEWS MichaelTeam Sunweb
+12, AMADOR AndreyMovistar Team
+13, KÜNG StefanGroupama - FDJ
+14, BERNAL EganTeam INEOS
+15, GREIPEL AndréTeam Arkéa Samsic
+30,30,15
+4,14,9,1,12,10,6,2,5,13,4,8,11,7,3,15
+2,14,13,8,1,11,4,2,9,10,7,5,6,15,3,12
+2,11,9,1,2,14,12,3,10,6,7,5,13,8,4,15
+1,14,1,9,6,3,2,4,13,12,7,8,11,10,5,15
+4,10,7,8,14,13,9,5,1,2,3,4,6,12,15,11
+3,11,14,1,9,6,12,5,15,13,3,7,10,2,4,8
+2,11,15,14,12,13,1,9,3,7,2,5,4,8,6,10
+1,11,14,1,9,6,7,3,12,2,13,5,8,10,15,4
+2,11,14,9,1,3,6,7,10,12,13,4,2,8,15,5
+1,15,13,11,14,10,4,5,9,1,6,2,8,12,7,3
+1,11,15,14,1,10,5,9,4,7,3,13,8,6,12,2
+3,7,4,5,9,6,14,10,3,1,12,8,13,15,2,11
+1,14,1,2,15,12,9,10,13,3,6,11,4,7,5,8
+2,14,3,9,10,6,5,1,2,7,12,11,8,13,4,15
+1,14,3,9,1,6,10,7,2,13,12,11,4,15,5,8

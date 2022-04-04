@@ -1,0 +1,33 @@
+15
+1, GINESTRI GiancarloTenax
+2, GARZELLI StefanoVini Caldirola - Nobili Rubinetterie
+3, GARDEYN GorikLotto - Domo
+4, VERHEYEN GeertChocolade Jacques - Wincor Nixdorf
+5, FERRIGATO AndreaAcqua & Sapone - Caffe Mokambo
+6, D'AMORE CrescenzoAcqua & Sapone - Caffe Mokambo
+7, BERTOGLIATI RubensSaunier Duval - Prodir
+8, GALLETTI AlessioDomina Vacanze
+9, ZAUGG OliverSaunier Duval - Prodir
+10, GARATE Juan ManuelLampre
+11, DI GRANDE GiuseppeFormaggi Pinzolo Fiavè
+12, HONCHAR SerhiyDe Nardi
+13, BRANDT ChristopheLotto - Domo
+14, DERGANC MartinDomina Vacanze
+15, SERINA CorradoFormaggi Pinzolo Fiavè
+30,30,16
+1,11,6,2,12,13,10,7,4,3,9,1,5,15,8,14
+1,10,12,13,2,7,11,5,8,4,1,3,9,15,6,14
+4,6,2,12,10,11,13,5,9,4,3,7,1,14,8,15
+2,6,15,2,10,3,5,12,1,11,13,9,4,7,8,14
+4,2,12,10,13,11,4,7,9,5,8,14,3,6,1,15
+2,12,7,10,2,8,13,5,11,4,6,9,14,1,3,15
+2,2,12,10,9,13,11,7,8,14,1,3,4,5,15,6
+3,2,10,13,12,11,7,9,8,3,1,4,5,6,14,15
+2,2,12,13,10,4,11,14,8,6,9,1,7,15,5,3
+1,11,13,7,12,10,2,9,4,8,3,5,1,6,14,15
+1,6,2,12,13,10,7,11,4,9,3,5,14,8,1,15
+1,6,11,5,2,10,12,3,13,15,4,7,9,8,14,1
+2,12,10,2,13,9,11,1,4,5,3,8,14,6,15,7
+2,6,11,2,13,12,14,9,3,15,4,10,5,7,8,1
+1,2,11,13,12,10,4,5,6,7,14,3,9,8,1,15
+1,2,10,12,14,13,15,11,3,9,4,7,6,8,5,1

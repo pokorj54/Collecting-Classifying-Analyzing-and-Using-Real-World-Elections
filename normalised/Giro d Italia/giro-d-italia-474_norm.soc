@@ -1,0 +1,28 @@
+15
+1, TOLHOEK AntwanTeam Jumbo-Visma
+2, CAPECCHI ErosDeceuninck - Quick Step
+3, KANGERT TanelEF Education First
+4, BOLE GregaBahrain Merida
+5, CARUSO DamianoBahrain Merida
+6, BARBIN EnricoBardiani - CSF
+7, COVILI LucaBardiani - CSF
+8, CONTI ValerioUAE-Team Emirates
+9, NEILANDS KristsIsrael Cycling Academy
+10, NIZZOLO GiacomoTeam Dimension Data
+11, NIEVE MikelMitchelton-Scott
+12, SABATINI FabioDeceuninck - Quick Step
+13, KLUGE RogerLotto Soudal
+14, CHAVES EstebanMitchelton-Scott
+15, YATES SimonMitchelton-Scott
+30,30,11
+3,11,3,15,1,8,5,2,14,7,12,9,4,6,13,10
+4,10,6,14,8,4,3,15,2,12,7,11,9,13,1,5
+2,10,12,13,15,5,14,3,2,8,11,7,4,1,9,6
+3,10,15,14,12,2,5,11,3,8,13,9,7,6,4,1
+7,12,15,2,6,3,14,5,8,13,11,4,1,9,10,7
+2,15,14,2,3,11,8,12,1,6,7,5,9,4,10,13
+4,8,1,15,14,2,11,7,3,5,4,9,12,13,10,6
+1,8,15,14,5,11,3,2,12,7,1,13,6,9,10,4
+2,12,10,3,14,15,11,2,8,6,9,5,4,1,7,13
+1,15,5,3,14,8,11,9,2,1,4,7,12,13,10,6
+1,3,5,9,15,14,8,11,1,2,4,10,12,7,6,13

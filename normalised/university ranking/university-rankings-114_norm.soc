@@ -1,0 +1,34 @@
+15
+1,Nanyang Technological University
+2,Maastricht University
+3,Laval University
+4,Ewha Womans University
+5,University of Ottawa
+6,Technical University of Denmark
+7,Ghent University
+8,City University of Hong Kong
+9,Kansas State University
+10,University of Lisbon
+11,University of Pennsylvania
+12,Charles University in Prague
+13,University of Innsbruck
+14,University of Florence
+15,University of Houston
+30,30,17
+4,11,12,7,6,1,8,3,2,14,15,13,10,5,4,9
+3,11,6,13,1,7,2,8,5,9,14,3,4,12,10,15
+1,11,13,7,5,6,15,10,1,9,14,12,3,4,2,8
+3,11,7,1,10,5,2,3,14,6,12,8,15,9,13,4
+1,11,7,6,13,10,1,12,8,3,2,14,15,5,4,9
+2,11,7,5,13,6,12,15,3,14,10,9,2,1,4,8
+1,1,6,2,7,3,4,8,5,15,11,13,9,14,10,12
+1,11,1,7,2,5,8,3,6,15,12,10,4,14,13,9
+1,13,1,2,6,8,5,3,12,7,10,11,9,14,4,15
+2,11,7,5,2,3,1,6,14,12,10,13,8,15,9,4
+2,6,11,8,12,4,9,1,3,13,14,10,2,5,7,15
+2,11,7,6,3,12,14,10,1,5,9,2,13,15,8,4
+1,11,7,1,10,5,12,2,6,14,8,3,15,9,4,13
+1,11,15,5,9,3,14,7,13,10,6,12,1,2,8,4
+2,11,14,13,12,7,10,6,1,15,5,2,3,9,8,4
+2,11,1,7,6,15,5,3,2,12,8,10,9,13,4,14
+1,11,1,6,7,4,3,15,2,9,8,13,10,5,14,12

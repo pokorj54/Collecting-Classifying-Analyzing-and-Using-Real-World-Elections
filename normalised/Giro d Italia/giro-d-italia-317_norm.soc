@@ -1,0 +1,30 @@
+15
+1, HONCHAR SerhiyLiquigas - Pata
+2, FORCONI RiccardoMercatone Uno - Albacom
+3, POZZI OscarAmica Chips - Tacconi Sport 
+4, CAUCCHIOLI PietroAmica Chips - Tacconi Sport 
+5, DE JONGH StevenRabobank ProTeam
+6, SIMONI GilbertoLampre - Daikin
+7, NOCENTINI RinaldoMapei - Quickstep
+8, KROON KarstenRabobank ProTeam
+9, GEROSA MauroAmica Chips - Tacconi Sport 
+10, PIEPOLI LeonardoBanesto
+11, MARTINELLO SilvioPolti
+12, GARZELLI StefanoMercatone Uno - Albacom
+13, CONTI RobertoVini Caldirola - Sidermec
+14, DELLA VEDOVA MarcoLampre - Daikin
+15, GASPERONI CristianCantina Tollo - Regain
+30,30,13
+2,5,11,9,8,1,12,6,14,10,7,4,15,2,13,3
+2,9,12,1,7,6,10,14,2,8,4,3,5,11,13,15
+6,11,1,10,12,2,6,13,14,7,9,3,15,8,4,5
+3,4,13,6,12,1,10,3,2,14,15,7,9,5,8,11
+3,6,12,1,10,14,13,2,4,7,9,3,11,15,5,8
+2,12,6,1,10,3,7,14,2,15,13,9,5,11,8,4
+2,5,9,12,11,6,1,10,14,8,13,15,3,7,4,2
+1,12,6,10,1,3,2,13,14,7,9,4,11,5,15,8
+1,11,9,7,12,1,6,10,5,14,2,8,15,13,3,4
+2,6,12,10,1,2,14,3,13,4,7,15,5,9,11,8
+3,8,11,1,6,12,10,4,15,2,13,14,9,3,7,5
+2,6,12,10,1,13,7,2,14,4,3,9,5,8,11,15
+1,11,9,12,1,6,14,2,10,7,8,13,15,4,3,5

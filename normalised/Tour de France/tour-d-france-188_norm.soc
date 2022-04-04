@@ -1,0 +1,33 @@
+15
+1, ETXEBARRIA UnaiEuskaltel - Euskadi
+2, BRARD FlorentFestina
+3, ETXEBARRIA DavidEuskaltel - Euskadi
+4, BAGUET SergeLotto - Adecco
+5, CHANTEUR PascalFestina
+6, ZUBELDIA HaimarEuskaltel - Euskadi
+7, JALABERT NicolasCSC ProTeam - Tiscali
+8, WADECKI PiotrDomo - Farm Frites
+9, MENCHOV DenisiBanesto.com
+10, SIVAKOV AlexeiBigMat - Auber 93
+11, KIVILEV AndreiCofidis
+12, GOUVENOU ThierryBigMat - Auber 93
+13, SEIGNEUR EddyJean Delatour
+14, NAZON DamienBonjour
+15, VERMAUT StiveLotto - Adecco
+30,30,16
+1,14,4,8,2,10,7,15,6,5,1,12,3,11,9,13
+4,14,11,7,5,12,8,3,15,13,1,6,2,10,4,9
+4,14,3,10,8,11,1,4,2,6,12,13,7,15,9,5
+3,14,10,11,5,8,1,2,9,15,6,12,4,13,3,7
+2,13,14,11,15,10,4,5,8,1,2,3,9,7,6,12
+3,11,9,15,3,1,6,8,12,10,5,2,13,4,14,7
+1,11,7,13,9,10,1,14,3,15,12,2,4,5,6,8
+2,11,3,9,15,6,1,12,8,14,10,7,13,4,5,2
+2,3,8,11,7,5,2,15,6,10,4,9,13,1,14,12
+1,11,5,2,4,3,8,12,13,6,1,15,10,14,9,7
+1,3,11,15,9,6,8,10,1,13,14,4,2,7,12,5
+2,9,11,15,3,6,13,4,12,1,8,7,14,10,2,5
+1,8,5,15,2,10,12,3,4,11,7,9,6,14,13,1
+1,11,3,9,15,6,8,1,7,4,13,10,5,12,2,14
+1,4,11,9,5,3,8,15,2,6,1,10,13,7,12,14
+1,4,14,10,11,1,15,7,9,5,13,2,3,8,12,6

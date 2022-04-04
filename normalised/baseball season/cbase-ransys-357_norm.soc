@@ -1,0 +1,22 @@
+15
+1,Georgia
+2,Iowa
+3,UC Santa Barbara
+4,Akron
+5,SUNY Albany
+6,Lamar
+7,Grambling
+8,Stetson
+9,Citadel
+10,Creighton
+11,IL Chicago
+12,Connecticut
+13,MS Valley St
+14,Charlotte
+15,UNC Greensboro
+30,30,5
+3,12,9,14,6,3,2,10,1,8,11,15,4,7,5,13
+5,12,9,14,3,10,6,2,1,8,15,11,4,13,7,5
+5,12,9,14,3,6,10,2,1,8,11,15,4,13,5,7
+6,12,9,14,6,3,2,10,1,8,11,4,15,7,5,13
+11,12,9,14,6,10,2,3,1,8,11,15,4,13,7,5

@@ -1,0 +1,27 @@
+15
+1,Arkham Horror
+2,Letters from Whitechapel
+3,Key to the City: London
+4,Vikings
+5,The Bottle Imp
+6,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures
+7,Ticket to Ride: Europe
+8,Chess
+9,Star Wars: Imperial Assault
+10,Circus Flohcati
+11,Lords of Scotland
+12,Gulo Gulo
+13,Yunnan
+14,Great Western Trail
+15,City of Spies: Estoril 1942
+30,30,10
+14,14,7,12,5,13,15,10,11,3,2,6,1,9,4,8
+1,14,12,5,13,10,15,11,3,2,1,6,9,4,8,7
+1,7,14,12,5,13,15,10,11,3,2,6,1,9,4,8
+3,14,7,12,5,13,15,10,11,3,2,1,6,9,4,8
+3,7,14,12,5,13,15,10,11,3,2,6,1,4,9,8
+1,14,12,5,13,10,15,11,3,2,1,9,6,4,8,7
+1,12,5,13,10,15,3,11,2,1,9,6,4,8,14,7
+1,14,7,12,5,13,15,10,11,3,2,1,6,4,9,8
+1,14,7,12,5,13,15,10,11,3,2,6,1,4,9,8
+4,12,5,13,15,10,11,3,2,1,6,9,4,8,14,7

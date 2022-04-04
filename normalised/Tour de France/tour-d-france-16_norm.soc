@@ -1,0 +1,32 @@
+15
+1, NAESEN OliverAG2R La Mondiale
+2, VERMOTE JulienQuick-Step Floors
+3, BENNATI DanieleMovistar Team
+4, ARU FabioAstana Pro Team
+5, BENOOT TiesjLotto Soudal
+6, CHAVANEL SylvainDirect Energie
+7, EDET NicolasCofidis
+8, BARDET RomainAG2R La Mondiale
+9, MORENO JavierBahrain Merida Pro Cycling Team
+10, VOECKLER ThomasDirect Energie
+11, BOUHANNI NacerCofidis
+12, BETTIOL AlbertoCannondale-Drapac Pro Cycling Team
+13, KREUZIGER RomanORICA-Scott
+14, SWIFT BenUAE Team Emirates
+15, BAK Lars YttingLotto Soudal
+30,30,15
+3,13,4,8,6,1,5,12,2,7,14,9,11,15,3,10
+2,3,6,14,8,13,1,12,4,2,11,5,15,7,9,10
+2,11,5,6,1,4,8,13,3,15,7,14,10,2,12,9
+3,8,4,5,13,6,10,7,12,14,1,15,9,2,11,3
+2,8,4,5,13,6,10,7,1,15,14,9,12,2,3,11
+1,6,4,5,15,7,8,2,13,12,3,10,1,14,11,9
+1,8,4,5,6,13,7,15,10,1,9,12,3,2,14,11
+1,11,1,3,8,13,4,5,6,7,15,9,10,12,14,2
+5,11,14,1,8,4,6,3,13,15,9,5,7,10,12,2
+2,4,8,5,13,6,7,9,10,1,2,12,15,3,11,14
+2,14,11,6,3,5,13,4,1,12,8,15,7,2,10,9
+1,11,3,14,1,8,12,5,4,9,13,6,15,7,2,10
+2,5,8,11,1,4,6,14,2,3,13,12,10,15,7,9
+2,5,8,4,1,3,6,14,13,11,10,9,15,2,7,12
+1,8,4,5,13,6,7,1,10,12,15,2,9,14,3,11

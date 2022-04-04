@@ -1,0 +1,30 @@
+15
+1, PADRNOS PavelSaeco
+2, NOÈ AndreaMapei - Quickstep
+3, GENTILI MassimilianoCantina Tollo - Acqua e Sapone
+4, CAMENZIND OscarLampre - Daikin
+5, BRUSEGHIN MarzioiBanesto.com
+6, CODOL MassimoLampre - Daikin
+7, OSA UnaiiBanesto.com
+8, RASTELLI EllisLiquigas - Pata
+9, MARINI MirkoLiquigas - Pata
+10, LEÓN FranciscoKelme - Costa Blanca
+11, IVANOV RuslanAlessio
+12, CLAVERO DanielMercatone Uno - Stream TV
+13, SCIREA MarioSaeco
+14, RODRÍGUEZ JoaquimO.N.C.E. - Eroski
+15, VARRIALE AntonioPanaria - Fiordo
+30,30,13
+3,2,7,5,4,13,3,15,12,1,6,9,11,10,8,14
+3,7,2,5,3,12,11,14,1,6,4,10,8,15,9,13
+3,3,6,11,1,2,7,10,5,8,15,13,4,12,14,9
+3,3,2,7,4,5,12,1,6,10,14,8,15,9,11,13
+4,8,4,15,7,1,2,6,3,12,11,10,14,13,5,9
+3,7,9,2,1,5,4,12,3,11,15,6,13,10,8,14
+1,7,9,2,15,5,12,6,11,10,3,1,4,13,14,8
+2,7,6,2,5,15,12,3,11,10,13,1,4,8,9,14
+1,2,7,8,4,1,12,10,5,11,15,6,3,14,9,13
+4,3,2,7,11,4,10,8,12,15,6,5,13,14,1,9
+1,9,2,5,7,1,6,3,13,12,10,4,14,15,11,8
+1,7,2,5,6,3,12,1,4,11,10,8,14,15,13,9
+1,7,2,5,12,3,10,1,4,6,14,11,9,8,15,13

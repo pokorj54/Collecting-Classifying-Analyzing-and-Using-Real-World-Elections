@@ -1,0 +1,22 @@
+15
+1,UNC Asheville
+2,Savannah St
+3,Bowling Green
+4,NC State
+5,Arizona
+6,Col Charleston
+7,Missouri
+8,Evansville
+9,Austin Peay
+10,Arizona St
+11,Drexel
+12,Wofford
+13,Cincinnati
+14,Nebraska
+15,Florida
+30,30,5
+4,5,13,15,4,10,14,7,3,8,11,6,9,12,1,2
+4,5,13,15,4,10,7,14,3,11,8,6,9,12,1,2
+7,5,13,15,4,10,14,7,3,11,8,6,12,9,1,2
+9,5,13,15,4,10,7,3,14,8,11,6,9,12,1,2
+6,5,15,13,4,10,7,14,3,11,8,6,9,12,1,2

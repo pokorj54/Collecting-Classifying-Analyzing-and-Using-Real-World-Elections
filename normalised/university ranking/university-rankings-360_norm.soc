@@ -1,0 +1,29 @@
+15
+1,California Institute of Technology
+2,University of Bristol
+3,Rice University
+4,University of Sydney
+5,University of North Carolina at Chapel Hill
+6,Leiden University
+7,University of Oslo
+8,University of Copenhagen
+9,University of California
+10,Kyoto University
+11,University of Toronto
+12,University of Southern California
+13,New York University
+14,University of Zurich
+15,University of Pennsylvania
+30,30,12
+4,9,15,11,1,13,5,10,12,6,8,14,2,4,3,7
+3,9,1,11,15,10,4,13,5,6,12,2,14,3,7,8
+5,9,1,10,15,7,13,12,14,3,8,11,5,2,6,4
+4,1,9,3,15,5,13,2,11,12,14,8,6,4,7,10
+2,9,11,15,10,5,1,13,12,4,2,6,8,3,14,7
+4,9,1,15,10,13,8,11,7,6,3,4,5,2,14,12
+3,9,1,15,13,11,10,5,2,8,14,12,3,6,4,7
+1,9,15,1,13,5,12,11,10,2,6,8,14,3,4,7
+1,1,9,3,15,10,6,13,11,5,12,14,7,8,4,2
+1,8,10,15,9,14,13,1,5,3,12,2,6,7,11,4
+1,9,15,11,1,5,12,13,10,3,4,2,14,6,7,8
+1,4,14,8,2,11,7,1,6,9,12,3,13,15,10,5

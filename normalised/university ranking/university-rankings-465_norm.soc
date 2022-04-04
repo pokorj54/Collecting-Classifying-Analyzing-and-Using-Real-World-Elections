@@ -1,0 +1,33 @@
+15
+1,University of Warwick
+2,University of Pavia
+3,Autonomous University of Barcelona
+4,University of Cambridge
+5,Drexel University
+6,University of Tasmania
+7,University of Canterbury
+8,University of Leicester
+9,Brandeis University
+10,Vanderbilt University
+11,University of Alberta
+12,University of California
+13,University of Trieste
+14,University of Padua
+15,University of Leeds
+30,30,16
+3,7,4,1,8,11,6,15,12,9,13,3,2,14,5,10
+3,12,4,11,10,14,3,15,1,8,2,5,6,7,13,9
+2,4,12,10,11,1,15,5,8,3,9,2,14,13,6,7
+1,4,12,9,15,10,11,14,1,3,8,5,6,7,2,13
+2,12,4,10,11,1,15,8,5,14,6,3,2,13,9,7
+1,4,12,10,15,11,7,5,9,2,1,14,3,8,13,6
+2,4,12,10,11,15,14,1,3,8,9,5,6,7,2,13
+2,12,4,10,11,15,14,1,5,8,3,2,13,9,7,6
+2,4,12,9,15,10,11,7,1,2,14,3,5,8,13,6
+2,12,4,10,15,9,11,8,14,6,3,1,13,7,5,2
+2,12,4,10,11,14,15,8,3,5,2,13,9,1,6,7
+2,12,2,4,7,10,11,15,3,6,9,1,8,13,5,14
+2,4,12,9,10,11,2,15,14,3,5,8,1,13,7,6
+2,12,4,10,11,5,9,3,1,15,8,13,2,14,7,6
+1,12,4,10,11,14,15,3,1,8,2,5,13,6,9,7
+1,12,4,11,1,10,15,8,3,7,9,2,14,6,13,5

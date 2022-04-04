@@ -1,0 +1,36 @@
+29
+1,Miami FL
+2,Mississippi
+3,Coastal Car
+4,Florida
+5,Louisville
+6,Connecticut
+7,UC Irvine
+8,TCU
+9,Arkansas
+10,Oklahoma
+11,UCLA
+12,Alabama
+13,Arizona St
+14,Clemson
+15,Kansas St
+16,Virginia
+17,CS Fullerton
+18,Auburn
+19,San Diego
+20,Florida St
+21,Texas A&M
+22,South Carolina
+23,LSU
+24,Texas
+25,Oregon
+26,Vanderbilt
+27,Georgia Tech
+28,Rice
+29,Virginia Tech
+5,5,5
+1,24,13,16,3,4,27,8,20,5,9,11,1,22,17,10,2,26,29,6,23,18,14,28,15,19
+1,24,16,13,3,4,27,22,20,8,11,5,17,1,9,26,10,2,18,6,29,28,14,15,25,19
+1,24,13,16,3,4,27,11,8,22,5,17,9,1,20,10,18,26,14,6,28,25,2,19,7,15,29
+1,13,16,24,3,4,8,11,27,17,5,22,20,10,1,9,18,26,6,28,14,7,2,23,29,19
+1,22,11,8,14,10,20,13,4,24,16,3,17,26,9,1,5,27,12,18,28,21,7,6,2,23

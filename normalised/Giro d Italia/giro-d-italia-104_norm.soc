@@ -1,0 +1,30 @@
+15
+1, FERRARI RobertoLampre - Merida
+2, ATAPUMA DarwinBMC Racing Team
+3, KOSHEVOY IliaLampre - Merida
+4, CHAVES EstebanOrica GreenEDGE
+5, QUINZIATO ManuelBMC Racing Team
+6, NAVARDAUSKAS RamūnasCannondale Pro Cycling Team
+7, TXURRUKA AmetsOrica GreenEDGE
+8, SUTHERLAND RoryMovistar Team
+9, MONTAGUTI MatteoAG2R La Mondiale
+10, SERRY PieterEtixx - Quick Step
+11, ROSSKOPF JoeyBMC Racing Team
+12, KADRI BlelAG2R La Mondiale
+13, BUSATO MatteoWilier - Southeast
+14, CUNEGO DamianoNippo - Vini Fantini 
+15, TUFT SveinOrica GreenEDGE
+30,30,13
+2,4,11,2,9,14,13,8,7,5,3,15,1,10,12,6
+2,9,4,13,2,10,14,11,7,8,12,5,3,6,1,15
+2,4,2,13,9,5,10,1,7,3,8,14,11,6,12,15
+5,9,4,2,14,13,3,7,10,8,5,11,6,12,15,1
+6,13,4,2,9,14,10,7,5,6,8,3,11,1,12,15
+1,13,1,11,6,9,5,2,14,8,3,7,15,4,12,10
+3,4,2,9,8,14,7,10,5,12,15,3,6,11,13,1
+2,6,4,9,2,11,12,15,7,10,14,5,1,8,13,3
+1,13,6,4,9,2,10,7,11,8,5,14,3,12,1,15
+1,2,14,4,9,7,8,10,3,11,12,5,15,1,13,6
+3,4,2,13,14,9,7,10,5,11,8,12,6,3,15,1
+1,4,2,9,14,3,8,11,7,6,13,5,12,10,1,15
+1,4,2,9,13,14,7,10,8,5,15,12,11,6,3,1

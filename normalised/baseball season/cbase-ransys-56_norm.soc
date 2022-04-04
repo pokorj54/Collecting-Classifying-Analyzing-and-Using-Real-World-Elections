@@ -1,0 +1,22 @@
+15
+1,Penn
+2,Georgia Tech
+3,Utah
+4,Central Conn
+5,Rice
+6,Houston
+7,Sacred Heart
+8,New Mexico St
+9,WI Milwaukee
+10,TX Southern
+11,Bowling Green
+12,SC Upstate
+13,Winthrop
+14,George Mason
+15,Cent Arkansas
+30,30,5
+5,2,5,11,8,4,14,13,7,9,6,3,1,10,15,12
+7,2,5,11,8,4,14,9,13,7,6,3,1,10,15,12
+7,2,5,8,14,11,4,6,7,13,3,9,1,10,15,12
+6,2,5,8,14,11,4,7,6,13,3,9,1,10,15,12
+5,2,5,8,11,14,4,7,6,13,3,9,1,10,15,12

@@ -1,0 +1,21 @@
+14
+1,Tony Ferguson
+2,Dan Hooker
+3,Al Iaquinta
+4,Justin Gaethje
+5,Charles Oliveira
+6,Rafael Dos Anjos
+7,Beneil Dariush
+8,Dustin Poirier
+9,Kevin Lee
+10,Gregor Gillespie
+11,Islam Makhachev
+12,Diego Ferreira
+13,Paul Felder
+14,Conor McGregor
+9,9,5
+1,4,8,5,14,1,2,6,13,12,3,9,7,11,10
+1,8,4,5,1,14,6,2,13,12,3,9,7,11,10
+3,8,4,5,1,14,6,2,7,13,12,9,3,11,10
+1,8,4,5,1,14,6,2,7,13,9,12,3,11,10
+3,8,4,5,1,14,6,2,7,13,11,12,9,3,10

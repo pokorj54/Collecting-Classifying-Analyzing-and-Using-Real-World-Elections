@@ -1,0 +1,31 @@
+15
+1,University of Sydney
+2,Rice University
+3,Leiden University
+4,University of Toronto
+5,University of Arizona
+6,Karolinska Institute
+7,Northwestern University
+8,Tohoku University
+9,University of Helsinki
+10,Osaka University
+11,University of Geneva
+12,Kyoto University
+13,Seoul National University
+14,University of Southern California
+15,Emory University
+30,30,14
+3,4,7,6,12,1,10,8,3,9,13,14,5,15,11,2
+1,12,11,4,6,10,14,3,9,5,2,7,13,8,15,1
+4,12,6,11,4,3,2,7,5,1,8,9,10,14,15,13
+3,14,1,5,8,6,10,12,7,3,4,13,2,15,11,9
+2,15,8,12,10,2,6,5,14,7,13,11,9,3,4,1
+2,4,7,14,12,5,15,10,2,9,8,13,1,6,11,3
+1,11,1,6,4,3,9,14,2,15,7,5,8,12,10,13
+3,13,10,12,14,5,8,7,15,1,4,2,11,6,3,9
+2,4,13,12,1,7,10,8,9,14,6,15,5,3,11,2
+1,4,7,12,15,5,10,14,6,9,3,1,11,8,2,13
+2,12,11,6,14,7,2,4,9,3,5,10,1,15,13,8
+1,2,7,15,4,14,5,9,6,3,11,1,12,13,8,10
+4,7,14,4,12,6,15,5,3,10,9,2,8,11,1,13
+1,7,13,12,2,15,10,4,14,5,11,6,8,3,9,1

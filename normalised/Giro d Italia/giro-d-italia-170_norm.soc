@@ -1,0 +1,32 @@
+15
+1, CIONI Dario DavidFassa Bortolo
+2, BARBERO SergioLampre
+3, CUNEGO DamianoSaeco
+4, AUG AndrusDe Nardi - Colpack
+5, POZZI OscarTenax - Garda Calze
+6, GASPERONI CristianMercatone Uno - Scanavino
+7, USANO JulianKelme - Costa Blanca
+8, GARCIA John FreddyColombia - Selle Italia
+9, TRAMPUSCH GerhardGerolsteiner
+10, PANTANI MarcoMercatone Uno - Scanavino
+11, STEEGMANS GertLotto - Domo
+12, BERTOLETTI SimoneLampre
+13, QUINZIATO ManuelLampre
+14, BALDATO FabioAlessio
+15, VELO MarcoFassa Bortolo
+30,30,15
+2,10,3,15,1,9,6,2,14,13,5,7,8,12,4,11
+3,15,10,3,1,9,2,6,7,5,12,13,14,11,8,4
+3,13,10,7,3,15,12,1,9,14,11,5,2,4,6,8
+4,15,14,10,1,2,3,12,7,13,4,8,6,5,9,11
+2,10,3,6,15,9,12,7,14,5,2,13,4,11,8,1
+2,10,9,15,6,5,1,7,2,14,11,8,12,13,3,4
+2,9,4,15,10,1,6,14,3,7,12,13,8,2,5,11
+3,4,15,9,14,1,10,2,8,7,3,12,13,6,5,11
+1,15,9,10,14,3,13,12,2,1,4,6,7,5,8,11
+1,9,10,3,15,1,14,7,13,4,2,6,5,12,8,11
+2,10,14,9,1,12,3,15,2,6,5,13,4,8,11,7
+1,15,10,9,1,3,2,6,5,12,8,13,4,7,14,11
+2,10,15,3,1,6,9,5,8,12,2,7,14,11,13,4
+1,9,15,1,10,6,7,12,3,2,13,8,14,5,4,11
+1,4,15,9,13,10,2,12,3,1,7,6,8,14,5,11

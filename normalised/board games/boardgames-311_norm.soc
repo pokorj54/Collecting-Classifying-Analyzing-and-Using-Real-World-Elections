@@ -1,0 +1,25 @@
+15
+1,Medici
+2,Notre Dame
+3,ZhanGuo
+4,Die Macher
+5,Last Night on Earth: Timber Peak
+6,The Adventurers: The Temple of Chac
+7,Runebound (Third Edition)
+8,The Resistance: Avalon
+9,Anachrony
+10,Kashgar: Merchants of the Silk Road
+11,Pantheon
+12,Go
+13,Century: Spice Road
+14,Fighting Formations: Grossdeutschland Motorized Infantry Division
+15,Sluff Off!
+30,30,8
+2,8,15,10,6,5,14,12,11,13,4,2,7,3,1,9
+6,8,10,15,6,5,14,12,11,13,4,2,7,9,3,1
+10,8,10,15,6,5,14,12,11,13,4,2,7,3,9,1
+2,8,15,10,6,5,14,12,11,13,4,2,7,3,9,1
+6,10,8,15,6,14,5,12,11,13,4,2,7,9,3,1
+1,15,6,5,14,12,10,11,4,13,2,3,7,1,9,8
+2,15,6,10,5,14,12,11,4,13,2,7,3,1,9,8
+1,15,6,5,10,14,12,11,4,13,2,7,3,1,9,8

@@ -1,0 +1,29 @@
+15
+1, POZZATO FilippoWilier - Southeast
+2, SOLOMENNIKOV AndreiGazprom-RusVelo
+3, CARDOSO AndréCannondale Pro Cycling Team
+4, CUNEGO DamianoNippo - Vini Fantini 
+5, SILIN EgorTeam Katusha 
+6, ZABEL RickBMC Racing Team
+7, KEIZER MartijnTeam LottoNL-Jumbo
+8, ZHUPA EugertWilier - Southeast
+9, VISCONTI GiovanniMovistar Team
+10, KOCHETKOV PavelTeam Katusha 
+11, TRENTIN MatteoEtixx - Quick Step
+12, URÁN RigobertoCannondale Pro Cycling Team
+13, BONGIORNO Francesco ManuelBardiani - CSF
+14, WELLENS TimLotto Soudal
+15, VAN EMDEN JosTeam LottoNL-Jumbo
+30,30,12
+1,6,8,10,12,15,3,9,2,11,1,13,5,4,14,7
+6,9,14,3,5,4,12,10,13,2,6,7,11,8,15,1
+2,12,3,9,5,4,10,7,1,6,8,13,14,15,2,11
+4,11,6,1,10,3,12,9,5,2,15,7,4,8,14,13
+2,4,9,12,3,10,5,13,7,15,1,8,2,14,11,6
+3,12,3,10,4,9,5,14,1,13,11,8,6,2,7,15
+2,12,9,3,11,10,5,1,4,6,7,13,8,15,2,14
+3,11,2,12,9,3,10,1,8,6,7,15,5,4,13,14
+3,14,12,13,3,9,5,10,8,4,7,1,11,6,15,2
+2,11,14,12,9,10,3,4,8,1,13,7,15,5,6,2
+1,3,12,9,4,1,10,7,14,13,15,11,6,5,2,8
+1,11,6,14,15,1,10,2,4,7,8,9,3,5,13,12

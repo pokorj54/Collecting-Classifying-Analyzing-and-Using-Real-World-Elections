@@ -1,0 +1,22 @@
+15
+1,Louisiana
+2,New Orleans
+3,South Carolina
+4,Tulane
+5,Lamar
+6,Richmond
+7,Virginia Tech
+8,Pittsburgh
+9,Gonzaga
+10,Akron
+11,UC Irvine
+12,Notre Dame
+13,UC Riverside
+14,Alabama A&M
+15,LIU Brooklyn
+30,30,5
+12,3,11,13,9,7,1,4,5,8,12,6,10,2,15,14
+6,3,11,9,13,1,7,4,5,8,12,6,10,2,15,14
+3,3,11,13,9,4,7,1,5,8,12,10,6,2,15,14
+3,3,11,13,9,7,1,4,5,8,12,6,10,15,2,14
+6,3,11,13,9,7,4,1,5,8,12,2,10,6,15,14

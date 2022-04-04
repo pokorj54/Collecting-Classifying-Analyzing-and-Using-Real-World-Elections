@@ -1,0 +1,31 @@
+15
+1,University of Pennsylvania
+2,New York University
+3,University of Southern California
+4,Osaka University
+5,McGill University
+6,University of Sydney
+7,Carnegie Mellon University
+8,University of Geneva
+9,University of North Carolina at Chapel Hill
+10,University of Arizona
+11,Rice University
+12,University of Toronto
+13,Boston University
+14,Utrecht University
+15,University of Rochester
+30,30,14
+2,12,1,6,5,9,2,4,3,13,10,14,15,8,7,11
+3,2,1,7,8,12,4,3,5,9,13,10,11,15,14,6
+2,1,12,9,2,3,13,14,5,10,11,15,4,7,8,6
+4,1,2,12,9,10,4,8,5,14,3,13,11,15,6,7
+1,1,2,9,3,12,5,7,14,13,10,15,4,11,8,6
+3,1,2,5,13,15,12,4,3,9,7,8,10,14,6,11
+3,11,1,7,13,15,9,2,12,14,3,10,5,8,6,4
+1,1,7,5,2,15,14,8,12,11,10,6,13,9,4,3
+2,8,6,5,12,11,7,14,15,3,13,2,1,9,10,4
+2,1,4,3,9,6,2,15,11,13,12,5,7,8,10,14
+1,1,2,7,8,3,11,14,12,9,13,15,5,10,4,6
+3,1,12,7,5,6,9,2,14,3,4,10,13,8,11,15
+1,1,12,5,2,7,9,3,13,6,4,11,14,10,15,8
+2,12,1,9,5,14,2,13,4,3,10,6,7,8,15,11

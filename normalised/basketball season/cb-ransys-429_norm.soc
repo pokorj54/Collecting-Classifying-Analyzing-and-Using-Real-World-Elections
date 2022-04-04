@@ -1,0 +1,23 @@
+15
+1,Iowa
+2,UT San Antonio
+3,Louisiana Tech
+4,Bethune-Cookman
+5,Maryland
+6,Longwood
+7,Evansville
+8,Mt St Mary's
+9,Cleveland St
+10,Charleston So
+11,Cent Arkansas
+12,Missouri St
+13,South Alabama
+14,Louisiana
+15,Belmont
+30,30,6
+10,5,12,1,7,15,13,3,9,14,8,11,2,6,4,10
+8,12,5,1,7,13,15,3,9,14,8,2,6,11,10,4
+2,5,12,7,1,15,13,3,9,14,8,2,6,11,10,4
+1,5,12,1,7,13,15,3,9,14,8,11,6,2,4,10
+6,5,12,7,1,13,15,3,9,8,14,2,11,6,10,4
+3,5,12,1,7,15,13,9,3,2,14,8,11,6,10,4

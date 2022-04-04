@@ -1,0 +1,35 @@
+15
+1, MONFORT MaximeCofidis
+2, DAVIS ScottT-Mobile Team
+3, MORI ManueleSaunier Duval - Prodir
+4, MCCARTNEY JasonDiscovery Channel 
+5, DE MAAR MarcRabobank ProTeam
+6, ZAMPIERI StevePhonak Hearing Systems
+7, VOIGT JensCSC ProTeam
+8, HORRACH JoanCaisse d'Epargne - Illes Balears
+9, ERVITI ImanolCaisse d'Epargne - Illes Balears
+10, MAZZANTI LucaCeramica Panaria - Navigare
+11, ENGELS AddyQuickstep - Innergetic
+12, PRADERA MikelCaisse d'Epargne - Illes Balears
+13, CUNEGO DamianoLampre-Fondital
+14, PEREZ CUAPIO Julio AlbertoCeramica Panaria - Navigare
+15, PELLIZOTTI FrancoLiquigas
+30,30,18
+4,13,10,14,15,8,11,1,5,6,7,12,3,2,9,4
+1,11,7,13,15,1,8,2,10,9,3,14,12,6,5,4
+1,3,11,9,15,13,12,10,2,1,7,5,14,6,4,8
+1,3,12,7,13,10,6,15,1,2,14,8,5,4,11,9
+2,15,8,7,13,10,1,2,3,11,14,12,9,6,4,5
+1,10,13,3,15,7,11,8,1,12,6,9,5,4,2,14
+2,14,15,13,2,1,6,10,8,12,9,7,5,3,4,11
+1,5,12,7,13,15,3,11,2,6,8,10,1,9,4,14
+1,13,15,10,1,6,14,8,7,4,12,9,2,5,11,3
+2,7,15,13,3,9,5,2,12,11,8,1,10,4,6,14
+2,3,11,13,9,15,12,6,5,7,10,8,1,14,2,4
+2,6,7,15,13,2,12,10,14,1,9,8,5,4,3,11
+2,7,13,14,15,10,1,2,6,9,8,11,4,3,12,5
+2,15,14,13,1,7,2,10,8,12,9,3,6,5,11,4
+2,15,14,13,1,6,9,8,10,12,7,11,2,5,3,4
+2,7,3,1,15,9,13,8,5,10,2,6,12,11,4,14
+1,3,9,13,10,11,8,2,7,15,5,1,4,6,12,14
+1,13,15,3,5,8,7,12,9,6,2,11,10,1,14,4

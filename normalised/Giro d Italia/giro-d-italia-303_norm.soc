@@ -1,0 +1,29 @@
+15
+1, CONCI NicolaTrek - Segafredo
+2, HANSEN AdamLotto Soudal
+3, IZAGIRRE IonAstana Pro Team
+4, SIMION PaoloBardiani - CSF
+5, WYSS DaniloTeam Dimension Data
+6, DUNNE ConorIsrael Cycling Academy
+7, BOLE GregaBahrain Merida
+8, RENSHAW MarkTeam Dimension Data
+9, NIV GuyIsrael Cycling Academy
+10, MOLLEMA BaukeTrek - Segafredo
+11, KANGERT TanelEF Education First
+12, GRADEK KamilCCC Team
+13, PEDRERO AntonioMovistar Team
+14, CICCONE GiulioTrek - Segafredo
+15, PUCCIO SalvatoreTeam INEOS
+30,30,12
+5,10,11,14,3,15,2,13,7,1,5,9,12,4,6,8
+3,15,11,10,5,8,12,7,13,3,2,6,9,4,14,1
+3,4,11,8,12,6,14,1,10,2,13,5,7,9,3,15
+2,1,14,15,11,10,5,13,7,9,2,3,6,4,8,12
+4,5,6,10,11,13,14,1,2,3,4,15,12,9,8,7
+3,10,11,3,14,12,13,1,15,7,2,9,5,6,4,8
+2,11,15,10,3,14,5,2,1,6,7,13,4,9,8,12
+1,4,15,7,11,10,12,1,2,3,5,14,9,6,8,13
+2,10,11,3,5,1,7,14,9,2,6,15,12,4,8,13
+1,10,11,14,1,5,9,2,13,12,15,3,4,8,7,6
+2,13,10,14,11,3,2,9,15,4,7,1,5,6,12,8
+2,10,3,5,11,1,2,8,6,15,12,14,7,9,13,4

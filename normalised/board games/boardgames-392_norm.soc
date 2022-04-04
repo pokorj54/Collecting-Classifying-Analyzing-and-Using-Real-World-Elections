@@ -1,0 +1,24 @@
+15
+1,Last Train to Wensleydale
+2,1989: Dawn of Freedom
+3,Wildcatters
+4,Escape: The Curse of the Temple
+5,Between Two Cities
+6,Dixit: Journey
+7,For Sale
+8,BattleLore
+9,Alhambra
+10,Key to the City: London
+11,Artifacts
+12,Quantum
+13,Catan Histories: Settlers of America  Trails to Rails
+14,Safranito
+15,Lovecraft Letter
+30,30,7
+6,11,13,3,1,14,10,7,8,12,6,9,4,2,5,15
+5,11,3,13,14,1,10,7,8,9,12,6,4,5,2,15
+10,11,3,13,14,1,10,7,8,12,9,6,4,2,5,15
+2,11,13,3,14,1,10,7,8,12,6,9,4,2,5,15
+4,11,3,13,14,10,1,7,8,9,12,6,4,5,2,15
+1,8,7,12,6,9,4,2,5,15,11,13,1,3,14,10
+2,3,11,13,14,10,1,7,8,9,12,6,4,5,2,15

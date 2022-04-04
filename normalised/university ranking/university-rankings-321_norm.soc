@@ -1,0 +1,33 @@
+15
+1,Autonomous University of Madrid
+2,Charles University in Prague
+3,National Taiwan University
+4,Tufts University
+5,Carnegie Mellon University
+6,Bielefeld University
+7,Sharif University of Technology
+8,Washington State University
+9,University of Sussex
+10,California Institute of Technology
+11,Seoul National University
+12,University of Vienna
+13,University of Birmingham
+14,University of Wollongong
+15,University of Cape Town
+30,30,16
+4,10,5,9,12,2,8,15,4,13,11,3,1,6,14,7
+2,10,15,11,7,4,8,5,14,3,6,13,1,9,12,2
+2,10,5,4,13,15,7,12,3,2,11,9,1,14,8,6
+1,10,5,9,4,13,11,3,12,1,2,15,14,8,6,7
+2,11,10,4,5,13,15,8,1,14,9,2,12,3,6,7
+3,10,5,4,13,3,15,7,9,12,2,11,1,8,6,14
+4,11,3,10,13,4,5,1,2,12,15,8,9,14,6,7
+3,10,11,5,3,13,12,15,7,4,9,14,8,2,1,6
+2,10,12,4,11,13,3,5,8,15,2,9,1,6,14,7
+1,10,4,9,5,15,13,1,12,14,6,7,2,11,3,8
+1,10,5,13,4,14,8,12,9,3,11,15,6,1,7,2
+1,12,9,14,15,13,10,5,2,4,1,6,8,11,3,7
+1,10,4,11,13,5,12,3,2,1,15,9,8,6,14,7
+1,10,11,5,3,4,13,12,9,2,7,1,8,6,15,14
+1,10,5,4,11,13,12,9,3,2,15,1,8,14,6,7
+1,10,4,3,15,1,2,5,11,13,9,8,7,12,14,6

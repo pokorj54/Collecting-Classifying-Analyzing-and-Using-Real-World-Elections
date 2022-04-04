@@ -1,0 +1,28 @@
+15
+1, MCRAE William ChannMapei - Quickstep
+2, AXELSSON NiklasNavigare - Gaerne
+3, PODENZANA MassimoMercatone Uno - Bianchi
+4, SMETANINE SergueiVitalicio Seguros - Grupo Generali
+5, HVASTIJA MartinAlessio - Ballan
+6, VRIES PieterTVM - Farm Frites
+7, PICCOLI MarianoLampre - Daikin - Colnago
+8, VELO MarcoMercatone Uno - Bianchi
+9, LEONI EndrioLiquigas-Pata
+10, HERAS RobertoKelme - Costa Blanca
+11, BLIJLEVENS JeroenTVM - Farm Frites
+12, SGAMBELLURI RobertoCantina Tollo - Alexia Alluminio
+13, FRATTINI CristianoLiquigas-Pata
+14, GONTCHENKOV AlexanderAlessio - Ballan
+15, ONGARATO RodolfoLiquigas-Pata
+30,30,11
+3,11,4,12,14,8,7,1,5,3,2,10,13,15,6,9
+3,2,8,10,12,3,1,7,15,5,4,13,11,9,6,14
+3,2,10,8,12,3,5,1,4,7,6,15,14,13,11,9
+5,11,9,8,1,12,7,10,3,5,2,15,14,6,13,4
+2,14,8,1,2,10,12,7,3,11,4,5,13,15,6,9
+3,11,9,4,2,12,8,1,14,13,7,10,3,5,6,15
+5,12,8,3,2,10,1,13,15,4,7,5,14,11,6,9
+2,11,9,14,4,8,12,7,1,5,13,3,2,6,10,15
+1,11,7,8,1,12,2,10,9,3,13,4,5,6,15,14
+2,9,4,11,10,5,12,8,3,2,7,13,1,15,14,6
+1,11,4,9,1,12,8,2,10,7,15,3,13,14,5,6

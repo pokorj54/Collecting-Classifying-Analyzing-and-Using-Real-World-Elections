@@ -1,0 +1,26 @@
+15
+1,Clans of Caledonia
+2,Paris Connection
+3,Evolution: Climate
+4,Labyrinth
+5,Caylus
+6,Lords of Waterdeep
+7,Belfort
+8,Lorenzo il Magnifico
+9,Vegas Showdown
+10,Ginkgopolis
+11,Steam Time
+12,A Game of Thrones: Hand of the King
+13,Paperback
+14,Crokinole
+15,First Train to Nuremberg
+30,30,9
+6,11,12,2,4,15,3,10,13,1,7,9,5,6,14,8
+7,11,12,2,4,15,3,10,1,13,7,9,6,5,14,8
+7,8,11,12,2,4,15,3,10,13,7,1,9,5,6,14
+3,11,12,2,4,15,3,10,13,7,1,9,5,6,14,8
+2,11,12,2,4,15,3,10,1,13,7,9,14,6,5,8
+2,8,11,12,2,4,15,3,13,10,7,1,9,5,6,14
+1,11,12,2,4,15,3,10,13,1,7,9,6,5,14,8
+1,11,12,2,4,15,3,10,1,13,7,9,6,14,5,8
+1,11,2,8,12,15,4,3,13,10,7,9,1,5,6,14

@@ -1,0 +1,22 @@
+15
+1,Oregon St
+2,SC Upstate
+3,San Diego St
+4,F Dickinson
+5,Arizona St
+6,Temple
+7,CS Northridge
+8,Alcorn St
+9,Florida
+10,Oklahoma St
+11,Hofstra
+12,Michigan
+13,CS Sacramento
+14,Butler
+15,St John's
+30,30,5
+6,5,9,15,12,1,7,10,3,11,8,13,2,14,6,4
+7,5,9,15,12,1,7,10,3,11,8,13,14,2,6,4
+3,5,9,15,12,1,7,3,10,11,13,8,14,2,6,4
+7,5,9,15,1,12,7,3,10,11,8,13,2,14,6,4
+7,5,9,15,12,1,7,3,10,11,8,13,2,14,6,4

@@ -1,0 +1,31 @@
+15
+1, CASAROTTO DavideAlessio
+2, MONDINI GianpaoloMercatone Uno - Stream TV
+3, FERRARI DiegoTacconi Sport - Vini Caldirola
+4, AZEVEDO José BentoO.N.C.E. - Eroski
+5, VILLA MarcoAlexia Alluminio
+6, CONTRERAS Carlos AlbertoSelle Italia - Pacific
+7, NOÈ AndreaMapei - Quickstep
+8, CASTELBLANCO José JoaquinSelle Italia - Pacific
+9, MARINI MirkoLiquigas - Pata
+10, NOZAL IsidroO.N.C.E. - Eroski
+11, GUALDI DomenicoMobilvetta Design - Formaggi Trentini
+12, BERTOLETTI SimoneLampre - Daikin
+13, BOSSONI PaoloTacconi Sport - Vini Caldirola
+14, RODRÍGUEZ JoaquimO.N.C.E. - Eroski
+15, PEPOLI CristianCantina Tollo - Acqua e Sapone
+30,30,14
+3,1,7,2,15,4,13,11,6,8,9,3,10,5,12,14
+2,9,11,7,2,13,12,15,10,3,6,4,14,8,1,5
+2,4,13,7,6,3,2,12,5,10,1,14,8,15,11,9
+1,4,7,6,8,14,2,3,1,15,11,9,13,12,10,5
+3,10,1,4,9,7,2,15,13,6,8,12,11,3,5,14
+2,7,13,1,4,6,8,2,12,3,10,14,15,11,9,5
+3,4,13,7,15,1,6,3,8,2,12,10,5,9,11,14
+1,6,7,4,8,14,15,9,13,12,11,1,3,10,5,2
+1,4,7,6,12,8,14,3,1,2,10,9,13,5,15,11
+1,7,6,4,8,14,10,9,2,13,3,12,15,11,1,5
+3,13,2,7,1,4,3,12,10,8,6,11,14,9,5,15
+3,2,9,7,12,3,4,1,11,8,6,10,15,5,14,13
+2,4,7,5,9,3,13,6,15,10,2,8,11,1,12,14
+3,7,6,4,8,12,2,10,3,13,1,11,15,14,9,5

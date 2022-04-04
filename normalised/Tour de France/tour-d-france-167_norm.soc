@@ -1,0 +1,28 @@
+15
+1, MONFORT MaximeRadioShack - Leopard
+2, TROFIMOV YuriTeam Katusha 
+3, REZA KévinTeam Europcar
+4, TERPSTRA NikiOmega Pharma - Quick-Step
+5, CONTADOR AlbertoTeam Saxo - Tinkoff
+6, HENDERSON GregoryLotto Belisol Team
+7, MATÉ Luis ÁngelCofidis
+8, SABATINI FabioCannondale Pro Cycling Team
+9, DIDIER LaurentRadioShack - Leopard
+10, GENIEZ AlexandreFDJ.fr 
+11, RODRÍGUEZ JoaquimTeam Katusha 
+12, ROELANDTS JürgenLotto Belisol Team
+13, ROLLAND PierreTeam Europcar
+14, HIVERT JonathanSojasun
+15, RIBLON ChristopheAG2R La Mondiale
+30,30,11
+4,11,5,1,13,7,2,15,9,10,8,4,6,3,12,14
+3,5,8,10,4,11,1,7,13,9,2,3,14,15,12,6
+3,15,2,9,11,5,1,13,10,7,3,6,12,8,4,14
+3,15,11,5,10,13,1,9,3,7,8,4,12,2,14,6
+2,5,11,13,1,10,7,9,15,2,8,14,3,6,12,4
+4,4,5,1,11,15,9,12,8,13,7,2,10,14,3,6
+4,8,6,1,5,15,11,13,4,9,10,2,14,3,12,7
+2,5,15,11,1,2,9,12,8,7,13,6,4,10,14,3
+2,5,1,10,15,11,4,2,3,13,7,6,12,9,8,14
+2,15,9,5,1,8,11,13,2,12,10,4,14,3,7,6
+1,6,12,14,15,11,4,1,9,13,10,3,2,8,5,7

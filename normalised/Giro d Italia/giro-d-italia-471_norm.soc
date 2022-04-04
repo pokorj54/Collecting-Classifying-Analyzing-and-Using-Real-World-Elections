@@ -1,0 +1,31 @@
+15
+1, SARMIENTO Cayetano JoséAcqua & Sapone
+2, LOSADA AlbertoCaisse d'Epargne
+3, EVANS CadelBMC Racing Team
+4, TSCHOPP JohannBbox Bouygues Telecom
+5, RODRÍGUEZ JacksonAndroni Giocattoli - Serramenti PVC Diquigiovanni
+6, ROBERTS LukeMilram
+7, DUPONT HubertAG2R La Mondiale
+8, MARZANO MarcoLampre - Farnese Vini
+9, SØRENSEN Chris AnkerSaxo Bank 
+10, JUFRÉ JosepAstana
+11, VELO MarcoQuickstep - Innergetic
+12, PORTE RichieSaxo Bank 
+13, NIBALI VincenzoLiquigas - Doimo
+14, GRIVKO AndreyAstana
+15, SØRENSEN NickiSaxo Bank 
+30,30,14
+3,3,11,13,12,10,6,14,15,9,4,7,8,2,1,5
+3,3,1,12,13,10,4,7,14,5,2,11,8,15,6,9
+2,8,15,13,3,7,12,1,9,5,10,4,14,11,2,6
+3,3,13,7,12,9,5,10,8,4,1,15,14,2,6,11
+1,11,13,3,12,6,10,5,1,2,15,9,14,4,8,7
+1,13,3,12,7,5,1,2,15,9,8,11,14,10,6,4
+4,3,13,12,10,7,6,14,9,15,5,2,11,4,8,1
+3,3,2,12,13,5,10,14,1,9,7,4,11,15,6,8
+2,3,13,12,5,7,2,4,10,1,11,9,15,8,14,6
+1,3,12,13,14,11,15,6,10,7,5,2,4,8,1,9
+1,3,13,7,4,12,8,10,1,9,2,5,14,6,11,15
+3,4,3,13,1,12,7,10,9,2,15,8,11,6,5,14
+1,8,14,13,3,12,10,15,7,11,9,1,2,6,5,4
+2,13,3,12,9,4,2,7,1,5,10,14,11,15,8,6

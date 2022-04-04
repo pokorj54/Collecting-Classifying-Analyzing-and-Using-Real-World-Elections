@@ -1,0 +1,31 @@
+15
+1,University of Oslo
+2,University of Utah
+3,University of Zurich
+4,University of California
+5,Utrecht University
+6,University College London
+7,University of Arizona
+8,University of Rochester
+9,Duke University
+10,Brown University
+11,Rice University
+12,Osaka University
+13,University of British Columbia
+14,Cornell University
+15,Stanford University
+30,30,14
+1,14,15,4,12,9,2,8,6,11,13,3,10,7,1,5
+2,8,9,4,3,15,12,11,10,14,6,7,5,2,13,1
+2,4,15,6,14,9,13,5,12,3,7,2,8,10,1,11
+2,15,4,6,14,9,13,10,12,3,11,5,7,8,2,1
+2,4,15,14,6,8,5,1,11,9,13,10,7,12,3,2
+2,4,15,14,6,9,13,5,10,12,7,3,2,1,11,8
+3,15,4,14,1,2,12,9,6,10,3,7,13,11,8,5
+2,9,4,7,5,12,2,15,6,13,8,14,3,11,1,10
+5,15,4,14,9,6,13,5,7,3,11,8,12,2,10,1
+3,15,14,4,9,10,8,12,6,2,13,3,7,1,5,11
+1,15,4,14,1,6,3,11,5,13,9,10,2,8,7,12
+1,4,15,14,6,11,10,8,12,9,2,13,3,7,1,5
+3,15,4,14,9,6,13,10,2,5,7,8,12,3,11,1
+1,11,4,15,9,10,8,14,6,13,5,2,3,7,1,12

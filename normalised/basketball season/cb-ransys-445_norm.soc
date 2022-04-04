@@ -1,0 +1,22 @@
+15
+1,Liberty
+2,Stony Brook
+3,Maine
+4,Hampton
+5,Quinnipiac
+6,Central Conn
+7,E Kentucky
+8,S Illinois
+9,Delaware
+10,Utah Valley
+11,Wagner
+12,Illinois St
+13,Niagara
+14,Southern Miss
+15,WKU
+30,30,5
+7,8,15,12,14,10,7,6,13,4,3,5,1,2,9,11
+11,8,12,15,14,10,13,7,6,4,5,3,1,2,11,9
+5,8,15,12,14,10,13,7,6,4,5,3,1,2,11,9
+2,8,12,15,14,10,13,7,6,4,5,3,1,2,9,11
+5,8,12,15,14,10,13,7,6,4,5,1,3,2,11,9

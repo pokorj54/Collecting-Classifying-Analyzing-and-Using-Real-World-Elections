@@ -1,0 +1,32 @@
+15
+1,University of Turin
+2,University of British Columbia
+3,Hokkaido University
+4,Sapienza University of Rome
+5,Aarhus University
+6,University of Duisburg-Essen
+7,National Cheng Kung University
+8,Tel Aviv University
+9,Technical University of Denmark
+10,Aalborg University
+11,Queen Mary University of London
+12,University of Cincinnati
+13,Curtin University
+14,Kyushu University
+15,University of Leeds
+30,30,15
+2,2,5,12,4,11,15,1,8,14,9,6,3,7,10,13
+1,9,14,3,5,11,7,15,12,10,13,2,8,4,6,1
+2,11,2,9,1,15,12,5,6,4,8,13,10,14,3,7
+1,2,4,5,8,15,3,12,14,7,1,9,11,6,13,10
+4,2,4,5,8,14,15,3,7,1,9,12,13,11,6,10
+1,11,15,2,1,5,3,4,9,8,13,14,12,10,7,6
+2,7,9,14,5,6,10,3,8,1,2,15,11,13,12,4
+2,2,5,8,15,4,12,3,11,14,9,1,6,13,7,10
+3,14,7,12,8,15,5,4,2,3,11,10,1,6,9,13
+1,14,8,9,3,2,5,11,12,15,4,6,10,7,13,1
+4,2,12,9,8,15,11,1,14,5,10,7,13,6,3,4
+3,2,8,5,7,15,11,10,14,9,4,3,12,1,13,6
+2,13,11,2,9,15,5,10,6,8,1,4,7,14,12,3
+1,2,5,15,3,8,9,11,14,4,13,6,12,1,7,10
+1,4,8,2,5,3,1,9,14,12,15,11,7,6,10,13

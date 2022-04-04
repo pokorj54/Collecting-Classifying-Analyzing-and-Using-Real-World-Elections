@@ -1,0 +1,33 @@
+15
+1, SAGIV GuyIsrael Cycling Academy
+2, MARTIN TonyTeam Katusha Alpecin
+3, NIBALI AntonioBahrain Merida Pro Cycling Team
+4, ELISSONDE KennyTeam Sky
+5, GESINK RobertTeam LottoNL-Jumbo
+6, CARTHY HughTeam EF Education First-Drapac p/b Cannondale
+7, MULLEN RyanTrek - Segafredo
+8, BOUWMAN KoenTeam LottoNL-Jumbo
+9, FRAPPORTI MarcoAndroni Giocattoli - Sidermec
+10, ZHUPA EugertWilier Triestina - Selle Italia
+11, VAN ASBROECK TomTeam EF Education First-Drapac p/b Cannondale
+12, BELKOV MaximTeam Katusha Alpecin
+13, BETANCUR CarlosMovistar Team
+14, FRANKINY KilianBMC Racing Team
+15, PINOT ThibautGroupama - FDJ
+30,30,16
+2,15,13,5,6,8,14,3,9,1,12,2,7,11,10,4
+2,15,13,4,6,12,5,2,9,14,1,3,8,7,11,10
+3,15,13,14,8,4,5,3,7,11,6,9,10,1,2,12
+3,13,15,14,5,2,6,3,9,8,4,12,7,10,11,1
+2,15,13,5,4,14,3,6,9,8,7,11,1,10,12,2
+1,15,5,14,8,13,4,6,11,9,2,7,1,10,3,12
+2,1,15,11,2,7,13,10,6,8,14,9,12,5,3,4
+2,13,15,6,5,8,3,7,12,4,9,1,14,2,11,10
+2,15,13,4,8,6,5,2,1,3,9,12,11,7,14,10
+2,13,15,14,12,11,3,10,5,7,2,8,9,6,1,4
+2,15,13,4,11,5,14,2,3,8,7,10,9,12,1,6
+1,5,13,14,8,4,2,7,10,15,1,9,6,3,12,11
+2,11,15,7,13,14,9,2,1,3,5,10,4,8,12,6
+2,2,7,13,12,5,15,9,6,11,10,14,4,8,1,3
+1,15,4,13,5,8,6,14,9,2,1,3,7,12,11,10
+1,15,13,4,8,5,3,2,14,9,6,11,10,1,12,7

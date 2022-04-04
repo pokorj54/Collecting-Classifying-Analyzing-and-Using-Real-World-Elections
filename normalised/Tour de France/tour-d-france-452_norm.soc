@@ -1,0 +1,33 @@
+15
+1, HONCHAR SerhiyT-Mobile Team
+2, BALLAN AlessandroLampre-Fondital
+3, KESSLER MatthiasT-Mobile Team
+4, CALVENTE ManuelAgritubel
+5, VILA Francisco JavierLampre-Fondital
+6, KNEES ChristianTeam Milram
+7, AERTS MarioDavitamon - Lotto
+8, VANSEVENANT WimDavitamon - Lotto
+9, VANDE VELDE ChristianCSC ProTeam
+10, SCHOLZ RonnyGerolsteiner
+11, LANDIS FloydPhonak Hearing Systems
+12, TOTSCHNIG GeorgGerolsteiner
+13, RIGHI DanieleLampre-Fondital
+14, BRARD FlorentCaisse d'Epargne - Illes Balears
+15, ZANDIO XabierCaisse d'Epargne - Illes Balears
+30,30,16
+2,11,12,5,9,15,3,4,6,1,2,14,13,10,7,8
+2,2,9,13,12,1,6,5,11,10,4,15,3,7,8,14
+3,13,5,11,12,6,3,9,7,1,10,15,2,14,4,8
+1,2,15,11,12,9,5,1,6,10,14,3,4,7,13,8
+4,11,5,9,3,1,15,2,13,7,12,6,4,10,8,14
+3,2,8,11,12,13,9,5,15,1,14,4,10,6,3,7
+1,1,11,3,9,2,10,12,6,15,5,7,14,13,4,8
+2,10,7,6,11,9,14,15,5,12,1,8,13,4,2,3
+1,9,12,11,5,1,7,15,4,8,14,10,3,2,13,6
+1,1,11,9,12,3,2,6,15,5,10,13,7,8,14,4
+3,11,12,15,9,5,4,3,1,2,13,6,14,10,7,8
+2,3,12,15,9,5,11,1,2,7,6,10,4,13,14,8
+1,2,5,7,12,9,11,6,1,15,3,10,4,14,8,13
+2,11,5,15,7,12,1,9,6,3,14,10,4,2,8,13
+1,5,11,9,15,3,1,13,2,6,8,7,10,4,12,14
+1,5,11,12,9,2,6,1,14,4,10,3,15,8,7,13

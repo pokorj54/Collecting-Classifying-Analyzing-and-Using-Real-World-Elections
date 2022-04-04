@@ -1,0 +1,22 @@
+15
+1,Nicholls St
+2,Old Dominion
+3,James Madison
+4,Maryland
+5,Oklahoma St
+6,PFW
+7,Richmond
+8,Seton Hall
+9,Toledo
+10,Alabama St
+11,Stanford
+12,Virginia
+13,Army
+14,Niagara
+15,Rutgers
+30,30,5
+5,11,5,12,4,8,13,15,7,3,1,2,9,10,14,6
+12,11,5,12,8,4,13,7,15,1,3,9,2,10,14,6
+4,11,5,12,13,4,8,15,1,3,7,9,2,10,14,6
+4,11,5,12,8,15,13,4,7,1,3,9,2,10,14,6
+5,11,5,12,15,8,13,4,3,1,7,9,2,10,14,6

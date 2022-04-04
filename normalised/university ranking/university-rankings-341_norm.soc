@@ -1,0 +1,31 @@
+15
+1,University of Oxford
+2,Stanford University
+3,Harvard University
+4,Vanderbilt University
+5,University of Oslo
+6,University of Maryland
+7,California Institute of Technology
+8,University of Sydney
+9,University College London
+10,University of British Columbia
+11,University of North Carolina at Chapel Hill
+12,Northwestern University
+13,University of Rochester
+14,University of Pennsylvania
+15,University of Toronto
+30,30,14
+5,7,2,3,12,14,1,13,11,9,15,4,10,6,8,5
+1,3,2,14,1,12,13,15,7,9,11,10,6,4,5,8
+2,3,2,7,1,14,5,9,4,12,6,10,15,11,13,8
+2,3,1,7,2,14,9,13,15,6,5,12,10,4,8,11
+3,3,2,14,7,1,12,6,9,11,15,10,4,13,8,5
+3,9,1,8,10,15,3,7,5,2,13,6,14,12,11,4
+1,3,2,14,15,1,9,12,7,11,10,6,4,13,5,8
+1,3,2,7,1,14,15,5,9,6,11,10,12,4,13,8
+1,3,15,1,2,9,14,10,8,11,12,6,4,5,7,13
+1,3,2,7,1,14,9,12,15,11,10,6,13,4,8,5
+2,7,2,3,1,14,15,9,12,10,8,11,6,4,5,13
+2,7,2,3,14,1,9,15,12,11,10,8,4,13,6,5
+5,3,15,2,14,1,9,10,12,11,7,6,4,8,13,5
+1,3,7,1,2,14,9,13,6,15,12,11,10,4,5,8

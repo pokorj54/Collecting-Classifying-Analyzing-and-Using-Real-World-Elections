@@ -1,0 +1,33 @@
+15
+1, VOSKAMP BartPolti
+2, MANZONI MarioMobilvetta Design - Rossin
+3, MANCEBO FranciscoBanesto
+4, TRENTI GuidoCantina Tollo - Regain
+5, FRIGO DarioFassa Bortolo
+6, BLANCO SantiagoVitalicio Seguros - Grupo Generali
+7, MCKENZIE DavidLindaMcCartney
+8, PANTANI MarcoMercatone Uno - Albacom
+9, BASSO IvanAmica Chips - Tacconi Sport 
+10, AEBERSOLD NikiRabobank ProTeam
+11, ZANETTI MauroVini Caldirola - Sidermec
+12, BELLI WladimirFassa Bortolo
+13, CALCATERRA GiuseppeSaeco
+14, LAFIS MichelFarm Frites
+15, BORTOLAMI GianlucaVini Caldirola - Sidermec
+30,30,16
+4,8,6,12,3,5,13,14,1,10,15,9,7,11,2,4
+2,6,5,12,3,9,14,8,11,7,15,13,1,4,10,2
+5,8,12,6,9,5,11,14,10,3,2,4,1,7,15,13
+2,4,14,5,10,11,3,15,6,8,12,9,13,2,1,7
+3,12,5,6,15,3,14,11,1,9,10,8,13,2,7,4
+1,2,5,10,3,6,12,8,11,9,4,14,7,13,1,15
+1,8,4,3,9,5,15,6,12,11,10,14,2,1,7,13
+1,4,7,2,12,6,5,9,3,11,15,14,8,13,1,10
+2,5,12,9,1,8,3,6,15,7,14,11,10,13,2,4
+2,4,2,8,6,5,12,9,3,14,15,11,13,10,7,1
+2,4,15,8,12,5,6,14,9,10,3,11,2,7,13,1
+1,4,8,1,5,12,6,9,11,7,14,3,15,10,2,13
+1,14,4,8,6,12,5,15,13,3,11,9,2,10,7,1
+1,12,6,5,8,3,10,9,11,15,2,14,13,4,7,1
+1,14,5,6,12,3,8,11,9,10,4,7,13,15,2,1
+1,5,12,6,8,3,11,9,14,10,15,2,13,7,1,4

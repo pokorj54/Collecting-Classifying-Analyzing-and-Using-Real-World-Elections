@@ -1,0 +1,28 @@
+15
+1,Go
+2,Riverboat
+3,Through the Desert
+4,The Bottle Imp
+5,Legendary Encounters: A Firefly Deck Building Game
+6,Sub Terra
+7,Zombie 15'
+8,The Duke
+9,The Adventurers: The Temple of Chac
+10,Ginkgopolis
+11,Lisboa
+12,Isle of Skye: From Chieftain to King
+13,Santa Maria
+14,Legendary Encounters: An Alien Deck Building Game
+15,Mafia de Cuba
+30,30,11
+13,14,5,4,9,7,15,1,12,13,10,3,8,11,6,2
+2,14,5,4,9,7,15,1,12,13,10,3,8,11,2,6
+1,5,4,9,7,15,1,12,13,10,3,8,11,2,14,6
+2,6,5,4,9,7,1,15,12,13,10,3,8,11,14,2
+2,2,5,4,9,6,7,1,15,12,10,13,8,3,11,14
+1,14,5,4,9,15,7,1,12,13,10,3,8,11,6,2
+2,5,2,4,9,6,7,1,15,12,10,13,8,3,14,11
+1,2,6,5,4,9,7,1,15,12,13,10,3,8,11,14
+2,6,5,4,9,7,15,1,12,13,10,3,8,11,14,2
+2,2,5,6,4,9,7,1,15,12,13,10,3,8,11,14
+2,2,5,4,6,9,7,1,15,12,10,13,3,8,11,14

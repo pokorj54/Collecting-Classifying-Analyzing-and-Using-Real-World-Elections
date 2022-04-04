@@ -1,0 +1,27 @@
+15
+1, CLARKE WillTrek - Segafredo
+2, SCOTSON MilesGroupama - FDJ
+3, BAKELANTS JanTeam Sunweb
+4, CONSONNI SimoneUAE-Team Emirates
+5, DUNBAR EddieTeam INEOS
+6, HAMILTON ChrisTeam Sunweb
+7, OOMEN SamTeam Sunweb
+8, CICCONE GiulioTrek - Segafredo
+9, KNEES ChristianTeam INEOS
+10, SIMION PaoloBardiani - CSF
+11, POZZOVIVO DomenicoBahrain Merida
+12, CAICEDO Jonathan KleverEF Education First
+13, BOUWMAN KoenTeam Jumbo-Visma
+14, MADOUAS ValentinGroupama - FDJ
+15, KUSS SeppTeam Jumbo-Visma
+30,30,10
+4,5,3,11,8,9,7,13,14,6,15,10,2,12,1,4
+4,9,4,3,14,7,11,12,2,5,6,8,1,13,15,10
+4,11,6,7,3,5,14,13,12,9,8,15,4,10,1,2
+5,4,10,7,3,13,5,14,11,1,12,8,6,15,2,9
+2,7,3,14,11,8,4,5,15,9,6,12,13,10,1,2
+7,4,13,14,7,11,12,5,3,6,8,9,15,1,2,10
+1,10,4,14,8,5,12,2,1,9,15,13,11,3,7,6
+1,14,8,11,5,13,7,3,15,6,12,9,10,2,1,4
+1,14,8,12,7,3,13,9,15,5,6,4,1,10,11,2
+1,7,9,14,5,3,11,6,2,12,15,13,10,1,4,8

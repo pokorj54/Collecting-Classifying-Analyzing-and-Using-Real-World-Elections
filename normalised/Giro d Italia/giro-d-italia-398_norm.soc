@@ -1,0 +1,30 @@
+15
+1, CONTI RobertoMercatone Uno - Scanavino
+2, CASAGRANDE FrancescoLampre
+3, GARZELLI StefanoVini Calderola - So.di
+4, DUMA VladimirLandbouwkrediet - Colnago
+5, CASPER JimmyFdjeux.com
+6, FRATTINI CristianoTenax - Garda Calze
+7, GIORDANI LeonardoDe Nardi - Colpack
+8, BERTAGNOLLI LeonardoSaeco
+9, VILA Francisco JavierLampre
+10, POPOVYCH YaroslavLandbouwkrediet - Colnago
+11, SPEZIALETTI AlessandroSaeco
+12, GASPARRE GrazianoDe Nardi - Colpack
+13, VELO MarcoFassa Bortolo
+14, SECCHIARI FrancescoDomina Vacanze - Elitron
+15, WEGELIUS CharlesDe Nardi - Colpack
+30,30,13
+1,5,4,12,13,3,11,10,2,9,8,6,15,1,14,7
+6,4,3,2,12,10,13,15,8,9,6,1,11,14,5,7
+4,12,4,10,3,2,9,8,13,15,6,11,1,7,14,5
+2,3,2,12,10,8,13,15,4,6,9,11,7,1,14,5
+3,10,3,11,9,4,15,6,13,1,8,12,7,14,5,2
+3,5,12,13,2,8,4,9,7,11,15,3,1,6,14,10
+2,13,3,12,10,2,11,5,9,8,15,4,7,1,6,14
+2,10,13,12,2,3,8,1,9,11,15,6,7,4,14,5
+1,13,3,10,2,11,8,6,4,9,12,15,7,1,14,5
+1,3,10,2,15,13,8,12,1,9,4,11,6,7,14,5
+3,5,12,4,3,10,2,13,9,11,8,6,14,1,15,7
+1,4,10,3,7,2,9,8,13,11,6,5,12,15,1,14
+1,13,10,5,3,12,2,9,6,4,11,8,7,1,14,15

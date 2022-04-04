@@ -1,0 +1,332 @@
+327
+1,Massachusetts
+2,McNeese St
+3,Delaware St
+4,Manhattan
+5,CS Fullerton
+6,William & Mary
+7,Hartford
+8,UC Riverside
+9,IL Chicago
+10,Wisconsin
+11,Alabama St
+12,E Kentucky
+13,St Louis
+14,NC State
+15,Temple
+16,Baylor
+17,New Orleans
+18,Alabama
+19,Utah St
+20,Pittsburgh
+21,Colorado
+22,Rutgers
+23,Delaware
+24,Drake
+25,Bradley
+26,Alabama A&M
+27,Maine
+28,LSU
+29,Yale
+30,Siena
+31,SF Austin
+32,WI Milwaukee
+33,Evansville
+34,Vanderbilt
+35,Cincinnati
+36,MD E Shore
+37,Penn St
+38,Houston
+39,Boston College
+40,Indiana
+41,Wichita St
+42,NC A&T
+43,Tennessee St
+44,UNLV
+45,TCU
+46,Washington
+47,Youngstown St
+48,Missouri KC
+49,SUNY Albany
+50,UC Irvine
+51,Centenary
+52,Furman
+53,Bucknell
+54,LIU Brooklyn
+55,North Carolina
+56,Valparaiso
+57,WI Green Bay
+58,Oakland
+59,Sam Houston St
+60,Bowling Green
+61,UTRGV
+62,Loyola-Chicago
+63,Samford
+64,Utah
+65,Southern Univ
+66,Oregon St
+67,Ball St
+68,Chattanooga
+69,VMI
+70,Rice
+71,Campbell
+72,Air Force
+73,Duquesne
+74,Hawaii
+75,La Salle
+76,Drexel
+77,Central Conn
+78,Holy Cross
+79,Santa Clara
+80,WKU
+81,Nebraska
+82,Northwestern LA
+83,Florida
+84,Penn
+85,St Joseph's PA
+86,Canisius
+87,Illinois St
+88,Iowa
+89,TAM C. Christi
+90,Cornell
+91,Kent
+92,Florida St
+93,Louisiana Tech
+94,Sacred Heart
+95,Xavier
+96,San Jose St
+97,UTEP
+98,Boston Univ
+99,South Alabama
+100,Ohio
+101,Mt St Mary's
+102,Hofstra
+103,W Illinois
+104,Winthrop
+105,Rider
+106,Vermont
+107,Oklahoma
+108,Charleston So
+109,Cleveland St
+110,Connecticut
+111,Murray St
+112,Liberty
+113,Florida A&M
+114,UT San Antonio
+115,Missouri
+116,George Mason
+117,UCF
+118,Minnesota
+119,Long Beach St
+120,Kentucky
+121,Missouri St
+122,Michigan St
+123,Miami OH
+124,Virginia Tech
+125,Stanford
+126,Kansas St
+127,St Francis NY
+128,Portland St
+129,Prairie View
+130,Lamar
+131,Louisville
+132,CS Northridge
+133,Loyola MD
+134,Robert Morris
+135,Southern Miss
+136,Army
+137,Seton Hall
+138,Binghamton
+139,Alcorn St
+140,Austin Peay
+141,Boise St
+142,Cal Poly
+143,Virginia
+144,Wofford
+145,Texas
+146,Pepperdine
+147,Maryland
+148,New Mexico St
+149,Coppin St
+150,Norfolk St
+151,Indiana St
+152,Harvard
+153,MTSU
+154,Villanova
+155,IUPUI
+156,CS Sacramento
+157,Ohio St
+158,F Dickinson
+159,Navy
+160,Weber St
+161,Providence
+162,Buffalo
+163,SE Louisiana
+164,SE Missouri St
+165,Radford
+166,Lehigh
+167,E Washington
+168,James Madison
+169,Idaho
+170,Mississippi St
+171,Hampton
+172,Arizona
+173,Brown
+174,UC Santa Barbara
+175,San Diego
+176,Creighton
+177,Fresno St
+178,TN Martin
+179,Texas A&M
+180,Kansas
+181,Memphis
+182,St John's
+183,Wright St
+184,Southern Utah
+185,Loy Marymount
+186,Texas Tech
+187,Morehead St
+188,Col Charleston
+189,San Diego St
+190,Tennessee Tech
+191,Columbia
+192,PFW
+193,Ga Southern
+194,East Carolina
+195,Wagner
+196,BYU
+197,Georgia Tech
+198,Oregon
+199,New Mexico
+200,Iona
+201,Morgan St
+202,Montana St
+203,Lafayette
+204,Jacksonville
+205,Morris Brown
+206,Davidson
+207,Georgia
+208,Gonzaga
+209,Charlotte
+210,Niagara
+211,Purdue
+212,UT Arlington
+213,Towson
+214,Arkansas
+215,St Peter's
+216,G Washington
+217,Lipscomb
+218,Georgetown
+219,Colorado St
+220,Rhode Island
+221,Tulane
+222,Arkansas St
+223,Gardner Webb
+224,Birmingham So
+225,C Michigan
+226,Appalachian St
+227,South Florida
+228,Bethune-Cookman
+229,Jackson St
+230,Notre Dame
+231,Louisiana
+232,Pacific
+233,Akron
+234,Miami FL
+235,Grambling
+236,Marshall
+237,Iowa St
+238,ULM
+239,Auburn
+240,Monmouth NJ
+241,Northern Arizona
+242,Ark Little Rock
+243,North Texas
+244,Duke
+245,FL Atlantic
+246,UAB
+247,UNC Asheville
+248,Wake Forest
+249,Old Dominion
+250,Stony Brook
+251,New Hampshire
+252,High Point
+253,Nicholls St
+254,ETSU
+255,Richmond
+256,Quinnipiac
+257,Mississippi
+258,West Virginia
+259,E Michigan
+260,Syracuse
+261,Montana
+262,Elon
+263,St Francis PA
+264,Troy
+265,Howard
+266,Colgate
+267,Stetson
+268,Fairfield
+269,Dartmouth
+270,Florida Intl
+271,Northwestern
+272,Idaho St
+273,TX Southern
+274,Citadel
+275,Jacksonville St
+276,Michigan
+277,VCU
+278,UMBC
+279,Northern Iowa
+280,Marist
+281,SMU
+282,Oklahoma St
+283,Washington St
+284,S Illinois
+285,UCLA
+286,Dayton
+287,California
+288,Savannah St
+289,Mercer
+290,Detroit
+291,Illinois
+292,W Carolina
+293,South Carolina
+294,Fordham
+295,Georgia St
+296,Oral Roberts
+297,Clemson
+298,Princeton
+299,Arizona St
+300,Toledo
+301,American Univ
+302,Northeastern
+303,USC
+304,Wyoming
+305,Chicago St
+306,Denver
+307,Texas St
+308,Butler
+309,S Carolina St
+310,Belmont
+311,W Michigan
+312,St Mary's CA
+313,UNC Wilmington
+314,DePaul
+315,UNC Greensboro
+316,Nevada
+317,Ark Pine Bluff
+318,Portland
+319,Marquette
+320,MS Valley St
+321,St Bonaventure
+322,Tulsa
+323,Coastal Car
+324,N Illinois
+325,San Francisco
+326,Tennessee
+327,E Illinois
+3,3,3
+1,172,131,120,248,170,230,95,20,180,207,244,83,85,145,107,291,176,319,147,260,10,311,196,40,308,35,115,64,186,211,110,18,313,282,21,181,198,4,286,125,39,299,231,78,208,239,32,28,290,55,91,122,287,84,9,154,284,225,218,74,326,161,197,304,182,80,137,143,19,255,264,177,188,257,314,179,44,321,14,76,111,206,276,160,70,126,322,56,293,148,13,118,316,237,175,34,123,121,92,157,234,303,68,209,98,116,254,246,220,298,232,29,46,88,297,258,16,227,15,2,99,310,300,67,50,30,22,219,307,189,72,146,190,289,117,226,242,23,167,277,216,140,33,60,187,324,66,306,221,62,195,194,296,100,272,325,222,17,327,312,114,75,59,31,301,153,285,210,132,240,124,233,275,41,236,178,144,79,173,63,281,45,81,106,224,135,268,155,200,25,152,93,105,241,58,279,174,199,166,249,138,214,1,212,185,57,271,202,256,27,261,7,129,193,302,86,171,259,183,53,142,108,243,149,203,295,318,168,130,87,323,265,104,3,238,283,141,315,38,24,164,102,11,280,250,320,73,37,252,309,109,52,162,113,169,156,273,269,292,127,270,101,163,229,77,192,6,69,5,8,134,47,151,245,204,263,90,215,12,159,262,184,96,266,223,51,247,89,128,54,139,112,48,274,158,150,82,217,61,267,253,294,278,26,103,49,228,235,119,305,205,133,213,191,165,36,71,251,94,43,201,65,97,136,288,317,42
+1,172,131,120,180,248,20,170,95,207,244,230,291,83,145,260,10,107,176,319,85,147,115,196,110,311,308,35,18,28,211,181,186,21,64,198,286,40,313,282,78,125,208,32,4,122,39,55,299,290,9,284,84,231,287,182,239,225,218,161,91,197,80,154,264,326,304,137,321,74,322,160,177,188,19,44,255,237,70,111,14,314,76,257,148,92,206,56,13,179,126,143,118,234,68,316,88,246,175,98,293,116,276,46,303,209,300,219,216,227,220,121,157,29,34,232,30,189,16,258,298,117,123,297,254,167,22,194,310,33,99,23,190,306,50,15,2,67,100,221,277,324,312,272,66,146,296,72,327,140,62,59,233,301,226,325,60,187,242,222,132,275,289,285,17,195,114,31,153,307,124,81,281,210,236,45,178,224,75,144,214,200,63,106,173,135,279,268,25,212,41,241,155,79,174,105,249,57,138,202,27,1,199,259,261,152,256,166,240,3,58,271,193,93,185,7,295,86,238,243,171,129,183,53,302,283,108,87,318,142,265,113,38,168,164,141,323,280,130,149,73,169,315,52,203,109,104,11,24,270,156,309,162,37,102,127,51,269,101,134,252,69,163,292,250,192,266,262,89,273,90,229,320,245,47,77,263,184,151,12,204,5,6,159,223,215,139,128,8,247,96,217,54,274,112,158,48,267,294,253,61,82,150,278,26,49,103,235,305,228,119,94,165,191,205,213,251,36,65,133,43,71,136,97,201,288,317,42
+1,172,20,120,131,180,248,207,170,291,244,230,95,176,83,145,107,85,260,319,10,115,110,308,147,196,28,311,18,313,186,181,211,35,78,21,40,32,4,198,64,290,282,9,55,125,208,39,84,286,122,231,299,182,225,284,161,264,239,80,218,287,91,154,321,188,197,177,111,74,304,246,19,137,76,237,322,326,70,206,160,14,175,255,68,44,257,56,148,314,143,116,316,13,92,126,98,216,303,219,234,88,46,179,117,157,118,29,121,300,293,227,254,30,34,190,15,276,310,23,2,220,99,232,22,33,209,298,189,194,306,16,327,221,277,140,167,100,296,67,62,187,123,324,297,222,289,258,50,146,242,312,226,275,272,325,72,60,301,17,66,233,114,195,285,153,178,224,210,132,59,144,124,45,173,63,31,307,106,200,279,135,281,236,81,25,75,241,155,268,41,138,79,212,214,105,57,249,166,27,256,202,240,152,193,261,58,174,295,259,1,185,243,86,7,238,199,93,183,271,53,3,302,108,171,283,87,164,318,142,130,129,280,168,323,104,315,203,109,73,52,265,149,113,38,24,102,163,141,270,156,101,169,51,252,134,11,269,162,69,309,127,192,292,262,266,250,90,89,229,245,47,37,263,77,273,204,12,320,159,6,184,151,223,139,215,5,128,8,247,217,54,96,253,158,274,112,267,61,26,48,82,294,278,103,150,49,305,94,235,228,119,165,205,191,213,251,65,133,36,43,71,136,201,288,97,317,42

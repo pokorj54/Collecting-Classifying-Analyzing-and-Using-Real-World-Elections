@@ -1,0 +1,31 @@
+15
+1, MORENI CristianAlessio
+2, TONKOV PavelLampre - Daikin
+3, ZINETTI MauroIndex - Alexia Alluminio
+4, LANFRANCHI PaoloIndex - Alexia Alluminio
+5, PERON AndreaCSC ProTeam - Tiscali
+6, GRABSCH RalfTeam Telekom
+7, VAN DE WOUWER KurtLotto - Adecco
+8, CONTI RobertoAcqua & Sapone
+9, DE JONGH StevenRabobank ProTeam
+10, MOOS AlexandrePhonak Hearing Systems
+11, KONYCHEV DmitriFassa Bortolo
+12, YAKOVLEV SergueiTeam Telekom
+13, CALVENTE ManuelCSC ProTeam - Tiscali
+14, DUMA VladimirPanaria - Fiordo
+15, ASTARLOA IgorSaeco - Longoni Sport
+30,30,14
+3,1,9,14,15,2,4,10,7,13,12,6,5,3,8,11
+3,2,4,1,8,14,7,10,11,15,9,6,12,13,5,3
+3,9,15,7,6,11,2,8,14,13,10,4,3,1,12,5
+5,1,9,14,7,15,2,6,4,13,5,10,12,8,11,3
+1,9,15,4,1,7,14,3,6,5,2,10,13,12,8,11
+2,2,7,1,14,15,12,13,4,6,8,10,9,3,5,11
+1,14,5,1,7,2,10,15,8,6,12,9,4,11,13,3
+2,10,7,4,2,5,1,12,6,9,13,15,11,3,8,14
+1,1,7,2,14,5,4,13,15,12,9,6,10,11,8,3
+2,1,7,10,2,14,13,15,4,11,8,5,9,6,12,3
+2,1,4,2,7,14,10,5,12,13,11,15,3,9,6,8
+2,2,7,1,14,15,13,4,10,8,11,9,6,5,3,12
+2,7,14,15,2,10,9,4,1,5,13,3,6,8,12,11
+1,9,14,11,1,6,7,15,2,10,4,5,3,13,12,8

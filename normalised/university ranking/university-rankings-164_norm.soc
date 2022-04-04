@@ -1,0 +1,32 @@
+15
+1,National Chiao Tung University
+2,Dartmouth College
+3,University of Southern Denmark
+4,Stony Brook University
+5,Pohang University of Science and Technology
+6,University of Manitoba
+7,University of Bern
+8,University College Cork
+9,Delft University of Technology
+10,King Saud University
+11,Arizona State University
+12,Aalto University
+13,University of Canterbury
+14,RWTH Aachen University
+15,Ghent University
+30,30,15
+2,5,9,1,15,10,14,3,6,13,8,7,2,12,4,11
+3,15,11,14,10,7,9,4,3,6,1,12,5,8,13,2
+5,13,7,9,10,8,3,12,4,14,15,6,5,2,1,11
+2,4,15,2,11,7,14,9,6,3,5,8,1,12,13,10
+1,5,2,11,4,14,15,3,7,12,8,13,9,6,1,10
+2,4,11,7,15,2,9,6,3,5,14,13,12,8,10,1
+2,11,15,10,7,2,9,14,4,1,5,6,3,12,8,13
+3,5,11,2,4,10,15,14,12,6,9,8,3,7,1,13
+2,4,11,14,15,6,7,2,5,9,3,12,1,10,8,13
+1,2,5,4,3,10,13,1,9,8,7,12,14,6,11,15
+2,15,11,4,7,14,9,1,2,6,5,12,3,8,13,10
+2,2,6,10,13,1,12,15,14,8,9,11,4,5,7,3
+1,2,15,6,7,4,13,9,14,11,5,3,12,1,10,8
+1,9,5,15,14,7,2,1,11,4,6,8,12,10,3,13
+1,2,7,9,15,11,10,14,4,1,5,6,3,12,8,13

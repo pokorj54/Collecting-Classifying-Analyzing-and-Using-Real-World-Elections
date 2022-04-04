@@ -1,0 +1,30 @@
+15
+1, FONTANELLI FabianoMercatone Uno
+2, ROUX LaurentTVM - Farm Frites
+3, REBELLIN DavidePolti
+4, FINCO CarloBallan
+5, PETACCHI AlessandroScrigno - Gaerne
+6, LEFEVRE DavidCasino - AG2R
+7, SGAMBELLURI RobertoBrescialat
+8, SERPELLINI MarcoBrescialat
+9, APARICIO VicenteVitalicio Seguros
+10, MAZZANTI LucaCantina Tollo - Alexia Alluminio
+11, HONCHAR SerhiyCantina Tollo - Alexia Alluminio
+12, UGRUMOV PiotrBallan
+13, BOSCARDIN BrunoFestina - Lotus
+14, FRIGO DarioSaeco Macchine da Caffe' - Cannondale
+15, HORRILLO PedroVitalicio Seguros
+30,30,13
+2,3,11,7,2,12,9,5,6,14,4,1,8,15,10,13
+4,11,2,7,3,12,8,10,4,9,6,14,1,15,13,5
+3,5,15,11,1,10,2,14,9,3,7,12,13,4,6,8
+4,3,10,5,11,7,2,9,14,12,15,8,4,6,13,1
+1,3,14,2,11,12,1,4,13,8,10,7,9,6,5,15
+4,10,8,11,14,3,2,7,12,9,4,15,5,6,13,1
+1,5,3,2,7,8,12,14,11,1,4,13,6,15,9,10
+2,11,13,7,4,8,12,14,2,3,1,6,5,9,10,15
+2,3,2,14,11,12,7,8,9,10,6,4,1,15,5,13
+3,1,5,3,10,11,2,12,4,15,7,14,6,13,9,8
+1,3,2,11,12,7,9,6,4,1,14,15,5,10,8,13
+1,1,9,2,7,15,11,8,12,5,4,3,10,6,14,13
+2,1,14,11,3,2,8,9,15,7,6,12,4,10,5,13

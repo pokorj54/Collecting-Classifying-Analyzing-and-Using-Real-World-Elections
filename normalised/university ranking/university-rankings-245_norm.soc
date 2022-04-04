@@ -1,0 +1,31 @@
+15
+1,University of Strasbourg
+2,Dartmouth College
+3,Autonomous University of Barcelona
+4,University of Manitoba
+5,Harvard University
+6,Sun Yat-sen University
+7,University of Kiel
+8,University of Aberdeen
+9,Durham University
+10,Uppsala University
+11,Eindhoven University of Technology
+12,Deakin University
+13,Bielefeld University
+14,University of Birmingham
+15,Aalto University
+30,30,14
+2,5,10,1,14,2,7,9,8,3,4,13,6,15,11,12
+4,5,9,2,8,1,10,7,3,14,12,11,6,13,15,4
+4,5,10,2,14,7,9,4,1,3,6,8,11,12,13,15
+2,5,14,2,9,10,1,7,11,8,13,6,4,3,12,15
+3,2,5,3,9,8,11,14,6,1,10,7,15,4,12,13
+2,5,10,14,3,6,1,7,2,9,4,8,11,15,13,12
+3,5,14,10,11,2,9,6,15,4,7,3,1,8,13,12
+1,8,9,14,12,1,11,5,15,10,13,3,7,4,6,2
+1,5,10,1,9,2,7,3,14,8,15,6,11,12,13,4
+2,5,10,11,9,14,2,15,8,4,3,6,7,1,12,13
+1,11,15,6,2,5,4,8,7,10,13,14,9,3,1,12
+1,5,6,10,14,3,12,1,9,4,15,8,11,7,2,13
+2,5,2,4,14,15,6,9,8,10,11,12,7,1,3,13
+2,5,10,14,7,2,3,1,8,9,4,6,11,13,15,12

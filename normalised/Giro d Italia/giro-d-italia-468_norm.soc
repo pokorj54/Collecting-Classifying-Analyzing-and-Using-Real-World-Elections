@@ -1,0 +1,31 @@
+15
+1, VUILLERMOZ AlexisAG2R La Mondiale
+2, ANACONA WinnerLampre - Merida
+3, FERRARI RobertoLampre - Merida
+4, ROGERS MichaelTinkoff - Saxo
+5, ROCHE NicolasTinkoff - Saxo
+6, MORENO DanielTeam Katusha 
+7, MALACARNE DavideTeam Europcar
+8, BOOKWALTER BrentBMC Racing Team
+9, GUSEV VladimirTeam Katusha 
+10, AGNOLI ValerioAstana Pro Team
+11, HESJEDAL RyderGarmin Sharp
+12, ARASHIRO YukiyaTeam Europcar
+13, KELDERMAN WilcoBelkin-Pro Cycling Team
+14, RATTO DanieleCannondale 
+15, PUCCIO SalvatoreTeam Sky
+30,30,14
+2,13,11,6,1,4,5,7,10,15,9,2,8,12,3,14
+3,4,13,11,1,7,9,5,6,8,10,14,15,2,12,3
+3,7,13,11,1,4,6,15,5,10,8,3,9,14,12,2
+3,3,10,13,4,7,14,12,5,15,11,9,1,2,6,8
+2,3,13,9,4,7,11,1,14,5,12,8,15,10,2,6
+1,13,5,11,7,6,1,4,15,9,2,10,12,8,14,3
+2,3,1,9,14,15,12,8,2,13,5,4,11,7,10,6
+3,13,4,11,1,7,9,10,12,5,15,14,8,2,6,3
+2,3,9,10,1,5,13,11,7,2,6,12,8,14,15,4
+2,3,4,7,13,11,15,14,9,1,5,2,8,12,6,10
+1,6,11,13,1,5,4,8,9,14,10,2,7,15,12,3
+2,11,13,1,2,4,5,9,8,10,6,7,3,15,14,12
+1,5,11,13,1,10,4,6,8,9,7,2,15,14,3,12
+3,3,13,5,12,7,4,15,14,9,11,1,10,8,6,2

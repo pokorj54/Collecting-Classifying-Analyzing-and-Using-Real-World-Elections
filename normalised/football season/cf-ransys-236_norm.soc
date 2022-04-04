@@ -1,0 +1,22 @@
+15
+1,Virginia
+2,Tulane
+3,Virginia Tech
+4,Washington
+5,Oregon
+6,Colorado
+7,Kansas St
+8,Tulsa
+9,UCLA
+10,TCU
+11,Akron
+12,Northwestern
+13,Indiana
+14,Kentucky
+15,North Carolina
+30,30,5
+8,3,7,5,4,6,1,14,13,10,11,2,9,8,12,15
+7,3,7,5,14,6,10,1,4,11,13,2,9,8,12,15
+7,3,7,5,6,4,10,14,13,1,11,2,9,8,12,15
+5,3,7,5,10,14,6,4,1,11,13,2,9,8,12,15
+3,3,7,5,10,6,1,4,14,11,13,2,9,8,15,12

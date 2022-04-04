@@ -1,0 +1,33 @@
+15
+1,University of Aberdeen
+2,University of Essex
+3,University of Vienna
+4,University of Trieste
+5,University of Lisbon
+6,Brandeis University
+7,University of North Carolina at Chapel Hill
+8,Chalmers University of Technology
+9,Iowa State University
+10,University of Graz
+11,Ewha Womans University
+12,Swedish University of Agricultural Sciences
+13,Newcastle University
+14,Dartmouth College
+15,University of Bologna
+30,30,16
+5,12,14,7,8,6,11,13,1,9,5,2,3,15,4,10
+2,14,6,2,7,12,3,9,5,10,15,1,8,13,4,11
+3,7,9,14,3,5,15,13,1,4,6,8,12,2,11,10
+2,7,15,5,9,13,3,1,8,12,11,14,4,2,10,6
+2,6,7,4,14,1,9,13,15,12,11,3,10,5,8,2
+1,7,14,9,3,15,12,13,1,8,6,2,5,11,4,10
+3,6,7,3,9,5,1,10,14,15,13,4,11,8,12,2
+3,6,2,14,3,7,10,9,13,12,1,15,5,8,11,4
+1,7,1,10,5,9,3,6,14,13,12,15,8,11,2,4
+1,7,3,6,9,13,14,12,1,5,4,8,15,11,10,2
+1,7,14,9,8,3,2,15,13,5,4,1,12,6,10,11
+2,3,2,1,13,10,8,6,4,12,5,15,9,11,7,14
+1,12,8,11,9,14,6,1,7,13,15,5,4,10,3,2
+1,7,3,13,14,9,6,1,12,15,4,5,8,11,10,2
+1,7,3,14,8,9,1,13,6,2,12,15,5,11,10,4
+1,7,15,9,5,13,3,14,1,8,12,4,11,6,10,2

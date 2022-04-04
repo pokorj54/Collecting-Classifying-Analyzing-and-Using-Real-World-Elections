@@ -1,0 +1,32 @@
+15
+1, BARANOWSKI DariuszBanesto
+2, VOSKAMP BartPolti
+3, MCRAE William ChannMapei - Quickstep
+4, BLANCO SantiagoVitalicio Seguros - Grupo Generali
+5, ZANETTI MauroVini Caldirola - Sidermec
+6, PALUMBO GiuseppeAmica Chips - Tacconi Sport 
+7, GARZELLI StefanoMercatone Uno - Albacom
+8, FRIGO DarioFassa Bortolo
+9, FONTANELLI FabianoMercatone Uno - Albacom
+10, HONCHAR SerhiyLiquigas - Pata
+11, BERTOLETTI SimoneLampre - Daikin
+12, SCIANDRI MaximilianLindaMcCartney
+13, TONKOV PavelMapei - Quickstep
+14, BLIJLEVENS JeroenPolti
+15, CODOL MassimoLampre - Daikin
+30,30,15
+1,9,7,8,13,15,4,10,1,3,14,5,12,6,11,2
+2,9,10,7,6,8,4,15,3,13,1,5,11,2,12,14
+2,14,12,7,4,10,8,15,13,3,11,1,9,5,2,6
+4,14,12,15,10,13,7,1,3,4,8,11,5,9,2,6
+5,12,8,4,13,7,11,3,1,10,15,5,6,14,2,9
+2,7,8,13,10,4,1,3,15,5,9,12,14,11,2,6
+2,7,10,8,13,11,3,1,4,15,5,6,12,2,9,14
+2,14,3,12,13,7,4,10,8,15,1,5,9,6,11,2
+3,10,13,7,8,1,4,15,11,3,5,9,2,12,14,6
+1,7,13,15,10,4,8,3,1,5,11,6,14,12,9,2
+1,7,10,8,3,13,1,12,2,4,11,6,5,15,9,14
+2,14,9,12,2,7,8,10,15,4,5,1,11,3,13,6
+1,14,7,10,3,8,13,9,5,4,12,15,11,6,2,1
+1,7,13,4,1,3,10,8,15,11,12,9,2,14,5,6
+1,7,13,10,4,3,1,8,12,15,2,14,6,11,5,9

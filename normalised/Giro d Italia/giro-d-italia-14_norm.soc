@@ -1,0 +1,28 @@
+15
+1, MCCARTHY JayBORA - hansgrohe
+2, KUZNETSOV ViacheslavTeam Katusha Alpecin
+3, LEEZER TomTeam Jumbo-Visma
+4, KNOX JamesDeceuninck - Quick Step
+5, SINKELDAM RamonGroupama - FDJ
+6, KLUGE RogerLotto Soudal
+7, BATTAGLIN EnricoTeam Katusha Alpecin
+8, DUPONT HubertAG2R La Mondiale
+9, JUUL-JENSEN ChristopherMitchelton-Scott
+10, NIZZOLO GiacomoTeam Dimension Data
+11, DOMBROWSKI JoeEF Education First
+12, MARCATO MarcoUAE-Team Emirates
+13, GEBREMEDHIN AwetIsrael Cycling Academy
+14, GASPAROTTO EnricoTeam Dimension Data
+15, VAN DER SANDE ToshLotto Soudal
+30,30,11
+2,10,6,5,2,12,11,13,1,15,8,14,9,3,4,7
+3,10,2,12,1,11,15,8,14,6,9,5,3,13,7,4
+1,11,15,12,7,1,5,14,3,8,13,6,9,10,2,4
+3,4,14,11,9,1,7,8,5,13,6,12,2,10,15,3
+3,6,14,11,8,1,13,15,10,4,12,7,2,9,5,3
+4,15,7,11,14,8,1,9,2,12,10,13,4,5,3,6
+3,10,15,1,3,14,5,12,11,6,4,13,2,8,9,7
+3,10,15,7,1,12,5,14,3,6,13,11,9,2,4,8
+3,2,7,15,4,14,9,11,6,1,12,8,10,3,5,13
+3,11,8,9,1,7,15,14,3,13,12,5,2,4,6,10
+2,11,4,9,14,1,8,7,10,15,5,13,12,3,2,6

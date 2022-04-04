@@ -1,0 +1,31 @@
+15
+1, VANDE VELDE ChristianGarmin Sharp
+2, AGNOLI ValerioAstana Pro Team
+3, ZEITS AndreyAstana Pro Team
+4, CAVENDISH MarkOmega Pharma - Quick-Step
+5, PAOLINI LucaTeam Katusha 
+6, EVANS CadelBMC Racing Team
+7, SABATINI FabioCannondale Pro Cycling Team
+8, BELKOV MaximTeam Katusha 
+9, SCARPONI MicheleLampre - Merida
+10, ARU FabioAstana Pro Team
+11, RABOTTINI MatteoVini Fantini
+12, DOWSETT AlexMovistar Team
+13, LIGTHART PimVacansoleil - DCM
+14, DUQUE Leonardo FabioTeam Colombia
+15, CAPECCHI ErosMovistar Team
+30,30,14
+4,12,6,9,10,11,8,2,15,3,7,5,14,4,1,13
+2,14,6,9,15,2,7,3,5,1,4,11,12,13,8,10
+5,6,9,11,10,3,5,14,13,15,1,2,7,4,8,12
+4,4,5,14,7,6,9,1,2,11,10,3,12,13,15,8
+2,4,8,2,6,9,1,12,14,5,15,7,10,13,11,3
+2,6,9,15,2,3,14,7,13,11,8,5,1,12,4,10
+1,6,9,5,15,2,10,11,7,8,1,12,14,4,3,13
+3,5,6,2,10,9,3,14,12,7,11,4,1,15,8,13
+2,4,5,6,9,12,3,10,7,1,11,14,2,8,15,13
+1,4,5,3,6,9,10,12,14,15,7,11,2,1,8,13
+1,10,5,6,9,11,14,4,7,2,3,15,1,13,12,8
+1,6,9,10,2,13,4,1,12,7,5,3,14,11,15,8
+1,9,6,15,11,10,2,1,14,3,7,12,13,4,8,5
+1,8,6,9,5,2,3,15,11,14,1,4,7,10,12,13

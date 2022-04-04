@@ -1,0 +1,29 @@
+15
+1, SASTRE CarlosCervelo Test Team
+2, ALBASINI MichaelTeam HTC - Columbia 
+3, BROWN Graeme AllenRabobank ProTeam
+4, GAUDIN DamienBbox Bouygues Telecom
+5, CODOL MassimoAcqua & Sapone
+6, BODNAR MaciejLiquigas - Doimo
+7, ŠTANGELJ GorazdAstana
+8, MONCOUTIÉ DavidCofidis
+9, RIGHI DanieleLampre - Farnese Vini
+10, VINOKOUROV AlexandreAstana
+11, SØRENSEN NickiSaxo Bank 
+12, NIBALI VincenzoLiquigas - Doimo
+13, MARANGONI AlanColnago - CSF Inox
+14, LLOYD DanielCervelo Test Team
+15, KIŠERLOVSKI RobertLiquigas - Doimo
+30,30,12
+4,12,10,1,15,9,5,11,14,7,13,3,2,6,4,8
+4,1,15,8,5,4,12,10,11,2,7,13,14,9,6,3
+3,10,12,13,9,6,1,15,2,11,4,5,14,7,3,8
+1,15,10,12,13,5,1,9,8,11,3,7,14,6,4,2
+1,12,10,1,8,15,13,5,2,9,4,6,7,14,3,11
+3,12,10,1,15,5,9,8,2,11,3,7,14,13,6,4
+2,3,12,10,15,7,5,11,2,1,8,9,4,13,14,6
+3,12,9,10,15,1,5,8,11,2,13,7,14,6,4,3
+4,11,12,10,1,15,5,7,13,6,8,9,2,14,4,3
+1,10,12,15,1,7,5,9,6,14,11,2,8,13,4,3
+2,12,15,10,7,13,9,1,5,11,14,4,2,3,6,8
+2,12,11,10,9,1,14,15,13,5,7,2,6,8,3,4

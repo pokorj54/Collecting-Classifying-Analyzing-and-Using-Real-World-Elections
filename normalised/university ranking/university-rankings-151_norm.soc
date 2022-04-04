@@ -1,0 +1,33 @@
+15
+1,Hanyang University
+2,Tokyo Institute of Technology
+3,University of Turin
+4,Dartmouth College
+5,Washington State University
+6,University of Victoria
+7,Syracuse University
+8,Macquarie University
+9,National Cheng Kung University
+10,Sun Yat-sen University
+11,University of the Witwatersrand
+12,University of Cincinnati
+13,University of Padua
+14,National Taiwan University
+15,University of Kiel
+30,30,16
+4,8,6,11,1,15,7,13,3,2,10,5,4,14,9,12
+1,4,2,1,14,9,12,7,10,13,5,11,8,6,15,3
+3,11,4,3,2,14,15,10,13,8,12,6,1,9,5,7
+3,14,2,9,4,1,6,5,10,8,7,15,12,11,3,13
+3,14,10,13,9,1,3,12,2,8,11,5,15,6,4,7
+1,4,14,11,2,9,12,1,7,10,5,8,3,15,13,6
+2,12,4,2,15,14,13,3,6,10,11,8,1,5,7,9
+2,13,4,2,12,15,14,5,11,3,8,6,10,1,9,7
+1,2,5,3,11,15,4,14,12,13,1,9,10,6,8,7
+1,9,11,1,2,10,5,4,14,15,3,7,8,12,13,6
+3,2,14,4,10,7,12,9,1,15,3,5,8,11,6,13
+2,1,2,4,10,12,11,5,15,13,7,9,8,3,14,6
+1,14,13,12,10,9,2,3,15,4,1,6,5,8,11,7
+1,13,11,2,4,15,8,14,6,10,12,3,5,7,1,9
+1,12,4,8,5,6,3,2,14,15,13,9,10,7,11,1
+1,13,12,15,3,4,2,14,10,6,5,9,1,8,11,7

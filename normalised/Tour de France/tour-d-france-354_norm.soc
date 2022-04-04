@@ -1,0 +1,30 @@
+15
+1, COYOT ArnaudCaisse d'Epargne
+2, SZMYD SylwesterLampre
+3, SASTRE CarlosCSC ProTeam
+4, FROOME ChrisBarloworld
+5, LELAY DavidAgritubel
+6, ELMIGER MartinAG2R La Mondiale
+7, CANCELLARA FabianCSC ProTeam
+8, BARREDO CarlosQuickstep - Innergetic
+9, EFIMKIN VladimirAG2R La Mondiale
+10, VELITS PeterMilram
+11, HESJEDAL RyderTeam Garmin - Chipotle
+12, DEAN JulianTeam Garmin - Chipotle
+13, VOIGT JensCSC ProTeam
+14, HOSTE LeifSilence - Lotto
+15, KOHL BernhardGerolsteiner
+30,30,13
+2,6,9,8,3,13,7,11,5,10,15,2,14,4,12,1
+2,8,14,12,6,3,11,13,15,9,5,1,2,10,4,7
+3,7,15,3,11,13,4,14,8,9,2,10,6,5,1,12
+3,12,1,6,14,3,15,9,4,13,2,5,11,8,7,10
+4,6,12,8,9,15,3,7,1,14,13,11,5,2,4,10
+2,12,1,6,13,9,3,15,2,11,5,10,14,8,4,7
+2,12,9,6,1,15,8,3,10,7,2,13,4,11,5,14
+3,15,3,2,13,11,9,6,10,5,7,12,1,8,4,14
+3,15,9,3,13,7,2,5,11,8,12,6,4,10,14,1
+1,3,15,9,2,13,1,12,10,7,6,5,8,4,11,14
+1,12,6,4,7,10,15,9,3,2,5,11,8,13,1,14
+3,3,9,15,2,11,5,13,4,8,7,10,14,6,12,1
+1,12,6,7,1,13,3,15,8,9,10,4,2,11,5,14

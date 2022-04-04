@@ -1,0 +1,31 @@
+15
+1, KESSLER MatthiasT-Mobile Team
+2, EVANS CadelDavitamon - Lotto
+3, HONCHAR SerhiyT-Mobile Team
+4, WEGMANN FabianGerolsteiner
+5, SCHOLZ RonnyGerolsteiner
+6, KNEES ChristianTeam Milram
+7, WROLICH PeterGerolsteiner
+8, CHAVANEL SylvainCofidis
+9, ARROYO DavidCaisse d'Epargne - Illes Balears
+10, LANDIS FloydPhonak Hearing Systems
+11, WEENING PieterRabobank ProTeam
+12, ETXEBARRIA UnaiEuskaltel - Euskadi
+13, CALVENTE ManuelAgritubel
+14, LEIPHEIMER LeviGerolsteiner
+15, BRUSEGHIN MarzioLampre-Fondital
+30,30,14
+4,1,4,2,14,15,10,3,11,8,6,5,13,7,12,9
+3,5,14,6,10,9,2,15,3,7,8,13,1,4,11,12
+3,10,4,15,14,2,12,8,9,3,13,5,11,6,1,7
+1,4,7,2,15,10,6,3,14,8,1,5,12,13,9,11
+2,15,10,2,14,8,11,3,12,6,1,9,5,13,4,7
+2,8,10,15,4,6,2,7,14,9,12,11,3,5,13,1
+2,15,14,2,8,5,10,3,9,1,13,4,11,6,7,12
+2,7,2,10,6,1,11,14,8,15,3,5,4,13,12,9
+4,10,2,15,14,3,6,8,12,11,5,4,1,13,9,7
+2,10,8,14,2,9,15,13,1,4,3,11,6,12,7,5
+2,7,10,15,8,2,14,6,12,3,13,5,1,4,11,9
+1,2,15,9,10,14,8,3,11,13,12,4,7,5,1,6
+1,2,14,10,9,15,1,3,11,6,7,5,13,12,8,4
+1,14,10,2,9,15,4,1,8,13,6,3,11,5,7,12

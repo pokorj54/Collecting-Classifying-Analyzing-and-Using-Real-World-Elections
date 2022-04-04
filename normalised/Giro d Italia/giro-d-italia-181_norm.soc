@@ -1,0 +1,33 @@
+15
+1, GOTTI IvanPolti
+2, ZANOTTI MarcoLiquigas - Pata
+3, FRIGO DarioFassa Bortolo
+4, GASPERONI CristianCantina Tollo - Regain
+5, HONCHAR SerhiyLiquigas - Pata
+6, MCKENZIE DavidLindaMcCartney
+7, KROON KarstenRabobank ProTeam
+8, CASAGRANDE FrancescoVini Caldirola - Sidermec
+9, PERON AndreaFassa Bortolo
+10, BRAIKIA TayebLindaMcCartney
+11, GEROSA MauroAmica Chips - Tacconi Sport 
+12, VOSKAMP BartPolti
+13, CASSANI EnricoPolti
+14, MCRAE William ChannMapei - Quickstep
+15, BARBERO SergioLampre - Daikin
+30,30,16
+2,13,15,8,3,1,14,5,9,4,2,11,6,7,10,12
+2,8,5,3,1,14,15,9,6,11,13,2,10,4,12,7
+2,9,11,2,5,8,3,10,1,14,15,6,7,4,13,12
+2,11,5,14,1,3,8,2,13,10,7,4,15,9,12,6
+2,11,14,8,1,5,3,7,9,10,2,15,6,13,4,12
+2,5,9,3,13,1,8,14,7,10,12,2,15,6,11,4
+2,7,5,8,14,3,1,4,11,10,13,2,12,15,9,6
+2,2,10,11,7,12,3,9,5,8,15,6,14,1,13,4
+1,8,3,1,5,14,9,15,4,6,11,12,2,13,7,10
+5,8,3,1,5,14,9,15,11,13,2,10,4,6,7,12
+1,8,14,5,1,3,15,7,10,4,13,6,9,12,11,2
+1,8,5,3,1,14,9,4,13,15,11,2,6,10,7,12
+2,8,5,14,3,15,10,12,1,9,13,11,2,7,6,4
+1,2,11,10,6,13,5,8,3,1,14,9,12,15,4,7
+1,10,8,3,14,5,1,13,11,15,9,4,6,7,2,12
+2,6,2,11,13,3,5,8,1,14,9,15,7,4,12,10

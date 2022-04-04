@@ -1,0 +1,32 @@
+15
+1, COLOMBO GabrieleDomina Vacanze
+2, VELO MarcoFassa Bortolo
+3, VERBRUGGHE IefLotto - Domo
+4, BERTAGNOLLI LeonardoSaeco
+5, CAÑADA DavidSaunier Duval - Prodir
+6, CODOL MassimoFassa Bortolo
+7, VERSTREPEN JohanLandbouwkrediet - Colnago
+8, RIGHI DanieleLampre
+9, D'AMORE CrescenzoAcqua & Sapone - Caffe Mokambo
+10, VILA Francisco JavierLampre
+11, FÖRSTER RobertGerolsteiner
+12, WILSON MatthewFdjeux.com
+13, MOUREY FrancisFdjeux.com
+14, RODRIGUEZ FredAcqua & Sapone - Caffe Mokambo
+15, SERINA CorradoFormaggi Pinzolo Fiavè
+30,30,15
+4,5,10,6,13,4,2,11,7,12,3,8,14,1,15,9
+2,10,5,7,4,1,14,13,3,8,6,2,11,15,12,9
+1,14,2,9,12,4,10,8,5,6,3,1,13,7,11,15
+3,5,10,4,8,11,7,13,6,2,3,1,14,12,9,15
+1,6,10,5,2,7,4,11,13,3,1,14,9,12,8,15
+2,5,4,10,8,6,2,14,11,3,7,9,1,12,15,13
+2,5,4,10,3,7,9,6,2,14,8,1,15,11,13,12
+1,10,6,5,4,8,14,2,11,3,7,9,1,13,12,15
+2,5,10,4,2,6,14,9,3,1,11,7,13,12,8,15
+1,9,11,2,10,4,7,14,5,6,15,3,12,1,13,8
+3,9,15,11,2,7,10,14,4,5,3,6,8,1,13,12
+3,14,11,2,9,4,5,10,8,6,7,12,13,1,15,3
+1,14,11,10,2,5,15,4,12,7,6,9,1,8,13,3
+3,11,14,9,7,4,2,5,10,8,6,13,12,1,3,15
+1,14,9,4,10,2,11,5,7,3,6,8,12,13,1,15
