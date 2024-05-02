@@ -1,0 +1,35 @@
+# FILE NAME: Featherweight_2020_new.soc
+# TITLE: 
+# DESCRIPTION: 
+# DATA TYPE: toi
+# MODIFICATION TYPE: 
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 
+# MODIFICATION DATE: 
+# NUMBER ALTERNATIVES: 16
+# NUMBER VOTERS: 14
+# NUMBER UNIQUE ORDERS: 7
+# ALTERNATIVE NAME 1: Zabit Magomedsharipov
+# ALTERNATIVE NAME 2: Alexander Volkanovski
+# ALTERNATIVE NAME 3: Jeremy Stephens
+# ALTERNATIVE NAME 4: Sodiq Yusuff
+# ALTERNATIVE NAME 5: Brian Ortega
+# ALTERNATIVE NAME 6: Dan Ige
+# ALTERNATIVE NAME 7: Chan Sung Jung
+# ALTERNATIVE NAME 8: Shane Burgos
+# ALTERNATIVE NAME 9: Max Holloway
+# ALTERNATIVE NAME 10: Edson Barboza
+# ALTERNATIVE NAME 11: Arnold Allen
+# ALTERNATIVE NAME 12: Josh Emmett
+# ALTERNATIVE NAME 13: Bryce Mitchell
+# ALTERNATIVE NAME 14: Yair Rodriguez
+# ALTERNATIVE NAME 15: Ryan Hall
+# ALTERNATIVE NAME 16: Calvin Kattar
+5: 2, 9, 5, 1, 14, 7, 16, 12, 3, 11, 4, 6, 8, 15, 13, 10
+3: 2, 9, 5, 1, 14, 7, 16, 12, 11, 3, 4, 6, 8, 15, 13, 10
+2: 2, 9, 5, 1, 14, 7, 16, 12, 3, 11, 4, 8, 6, 15, 10, 13
+1: 2, 9, 5, 1, 7, 14, 16, 12, 3, 11, 6, 4, 15, 8, 10, 13
+1: 2, 9, 5, 1, 7, 14, 16, 12, 3, 11, 8, 6, 4, 15, 10, 13
+1: 2, 9, 5, 1, 7, 14, 16, 12, 11, 3, 6, 8, 4, 15, 10, 13
+1: 2, 9, 5, 1, 7, 14, 16, 12, 3, 11, 6, 8, 4, 15, 10, 13

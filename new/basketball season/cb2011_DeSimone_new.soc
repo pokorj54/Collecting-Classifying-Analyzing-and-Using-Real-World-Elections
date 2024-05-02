@@ -1,0 +1,31 @@
+# FILE NAME: cb2011_DeSimone_new.soc
+# TITLE: 
+# DESCRIPTION: 
+# DATA TYPE: toi
+# MODIFICATION TYPE: 
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 
+# MODIFICATION DATE: 
+# NUMBER ALTERNATIVES: 6
+# NUMBER VOTERS: 20
+# NUMBER UNIQUE ORDERS: 13
+# ALTERNATIVE NAME 1: Pittsburgh
+# ALTERNATIVE NAME 2: Purdue
+# ALTERNATIVE NAME 3: Syracuse
+# ALTERNATIVE NAME 4: Ohio St
+# ALTERNATIVE NAME 5: Kansas
+# ALTERNATIVE NAME 6: Duke
+4: 6, 4, 5, 3, 1, 2
+3: 6, 2, 4, 1, 5, 3
+2: 4, 5, 1, 6, 2, 3
+2: 6, 1, 4, 5, 3, 2
+1: 4, 5, 3, 1, 6, 2
+1: 4, 1, 6, 5, 3, 2
+1: 4, 5, 1, 6, 3, 2
+1: 5, 1, 4, 6, 2, 3
+1: 6, 5, 4, 1, 2, 3
+1: 5, 4, 2, 6, 1, 3
+1: 4, 5, 6, 1, 2, 3
+1: 5, 4, 6, 1, 2, 3
+1: 6, 5, 4, 3, 1, 2

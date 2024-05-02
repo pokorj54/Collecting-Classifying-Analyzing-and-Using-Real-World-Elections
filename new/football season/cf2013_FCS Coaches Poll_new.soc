@@ -1,0 +1,37 @@
+# FILE NAME: cf2013_FCS Coaches Poll_new.soc
+# TITLE: 
+# DESCRIPTION: 
+# DATA TYPE: toi
+# MODIFICATION TYPE: 
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 
+# MODIFICATION DATE: 
+# NUMBER ALTERNATIVES: 11
+# NUMBER VOTERS: 17
+# NUMBER UNIQUE ORDERS: 14
+# ALTERNATIVE NAME 1: Towson
+# ALTERNATIVE NAME 2: Sam Houston St
+# ALTERNATIVE NAME 3: E Illinois
+# ALTERNATIVE NAME 4: Montana
+# ALTERNATIVE NAME 5: Northern Arizona
+# ALTERNATIVE NAME 6: Montana St
+# ALTERNATIVE NAME 7: Coastal Car
+# ALTERNATIVE NAME 8: N Dakota St
+# ALTERNATIVE NAME 9: Bethune-Cookman
+# ALTERNATIVE NAME 10: S Dakota St
+# ALTERNATIVE NAME 11: E Washington
+3: 8, 3, 11, 1, 4, 5, 7, 9, 10, 2, 6
+2: 8, 11, 6, 2, 1, 10, 3, 4, 7, 9, 5
+1: 8, 1, 11, 3, 7, 4, 2, 10, 5, 9, 6
+1: 8, 6, 11, 2, 10, 1, 5, 9, 7, 4, 3
+1: 8, 6, 1, 11, 2, 10, 3, 4, 7, 9, 5
+1: 8, 1, 11, 2, 10, 4, 6, 7, 3, 9, 5
+1: 8, 1, 2, 3, 7, 6, 11, 10, 4, 9, 5
+1: 8, 1, 2, 3, 7, 6, 11, 4, 9, 10, 5
+1: 8, 2, 3, 7, 6, 11, 1, 4, 9, 10, 5
+1: 8, 3, 7, 11, 6, 1, 2, 4, 9, 5, 10
+1: 8, 3, 7, 11, 6, 1, 2, 9, 4, 5, 10
+1: 8, 3, 7, 11, 6, 2, 9, 1, 4, 5, 10
+1: 8, 3, 11, 2, 1, 4, 7, 6, 5, 9, 10
+1: 8, 3, 11, 1, 4, 7, 2, 5, 6, 9, 10

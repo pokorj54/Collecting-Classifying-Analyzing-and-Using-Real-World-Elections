@@ -1,0 +1,27 @@
+# FILE NAME: PC1759147-5715743_new.soc
+# TITLE: 
+# DESCRIPTION: 
+# DATA TYPE: toi
+# MODIFICATION TYPE: 
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 
+# MODIFICATION DATE: 
+# NUMBER ALTERNATIVES: 8
+# NUMBER VOTERS: 7
+# NUMBER UNIQUE ORDERS: 7
+# ALTERNATIVE NAME 1: SiKoo_b-poule-wst
+# ALTERNATIVE NAME 2: DenBa_b-poule-wst
+# ALTERNATIVE NAME 3: RiBak_a-poule-wst
+# ALTERNATIVE NAME 4: NiBak_a-poule-wst
+# ALTERNATIVE NAME 5: MaKoo_b-poule-wst
+# ALTERNATIVE NAME 6: KlaUi_b-poule-wst
+# ALTERNATIVE NAME 7: RoBak_a-poule-wst
+# ALTERNATIVE NAME 8: MaHui_a-poule-wst
+1: 4, 7, 1, 6, 2, 8, 5, 3
+1: 7, 4, 6, 1, 2, 5, 8, 3
+1: 7, 4, 6, 1, 5, 2, 8, 3
+1: 7, 4, 1, 6, 2, 5, 8, 3
+1: 7, 4, 1, 2, 5, 3, 6, 8
+1: 7, 4, 1, 2, 5, 6, 8, 3
+1: 4, 7, 1, 2, 5, 6, 3, 8

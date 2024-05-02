@@ -1,0 +1,30 @@
+# FILE NAME: marble2016_new.soc
+# TITLE: 
+# DESCRIPTION: 
+# DATA TYPE: toi
+# MODIFICATION TYPE: 
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 
+# MODIFICATION DATE: 
+# NUMBER ALTERNATIVES: 7
+# NUMBER VOTERS: 11
+# NUMBER UNIQUE ORDERS: 11
+# ALTERNATIVE NAME 1: Team Momo
+# ALTERNATIVE NAME 2: Mellow Yellow
+# ALTERNATIVE NAME 3: Savage Speeders
+# ALTERNATIVE NAME 4: Limers
+# ALTERNATIVE NAME 5: Chocolatiers
+# ALTERNATIVE NAME 6: Oceanics
+# ALTERNATIVE NAME 7: Team Primary
+1: 2, 1, 3, 6, 4, 5, 7
+1: 2, 6, 4, 5, 1, 3, 7
+1: 3, 2, 1, 4, 6, 7, 5
+1: 3, 5, 4, 6, 2, 1, 7
+1: 2, 1, 7, 3, 5, 6, 4
+1: 1, 3, 4, 7, 6, 5, 2
+1: 3, 2, 7, 1, 5, 4, 6
+1: 7, 1, 4, 3, 2, 5, 6
+1: 3, 5, 4, 2, 7, 6, 1
+1: 6, 5, 2, 7, 4, 3, 1
+1: 1, 2, 5, 4, 6, 3, 7
